@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2065336902014693775",
+    "created_at": "2026-06-12T09:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065369282209570964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776810113149612033",
+          "start": 0,
+          "username": "NaNaKo_notfound"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065369282209570964",
+    "in_reply_to_user_id": "1776810113149612033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065368435542884463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaNaKo_notfound 贴贴奈奈子！！！🥹🥹🥹🥹😭😭😭😚😚😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2065336902014693775",
+        "created_at": "2026-06-12T09:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065369282209570964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776810113149612033",
+              "start": 0,
+              "username": "NaNaKo_notfound"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065369282209570964",
+        "in_reply_to_user_id": "1776810113149612033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065368435542884463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaNaKo_notfound 贴贴奈奈子！！！🥹🥹🥹🥹😭😭😭😚😚😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776810113149612033",
+        "conversation_id": "2065336902014693775",
+        "created_at": "2026-06-12T09:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065368435542884463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065368435542884463",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065336902014693775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 好耶！有我！😽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜骂我先骂@cryptochenrui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2065026751257100409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 234,
+          "like_count": 7678,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1191
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T03:12:18.000Z",
+        "description": "只会碎碎念吐苦水 戒割中 互fo欢迎  点赞机器一枚  看不得血腥的滚 健政的滚 善于利用屏蔽 我有精神病脑子只有骂人的时候才会长出来所以少惹我 骂我自动认为你急了",
+        "id": "1776810113149612033",
+        "name": "川井奈奈子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984954967644651520/47qVeaS6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 395,
+          "like_count": 10496,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2938
+        },
+        "username": "NaNaKo_notfound",
+        "verified": false
+      }
+    ]
+  }
+}

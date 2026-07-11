@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      }
+    ],
+    "conversation_id": "2058377516205986117",
+    "created_at": "2026-05-24T02:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T03:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058377516205986117"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JRA_Special/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/JRA_Special/status/2058062234883080680",
+          "start": 21,
+          "url": "https://t.co/LMAtYaqxKb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058377516205986117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058062234883080680",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "握草了这就是秋皇全妹的实力吗。。。。。。 https://t.co/LMAtYaqxKb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48581,
+        "height": 720,
+        "media_key": "13_2058061713065545728",
+        "preview_image_url": "https://pbs.twimg.com/media/HI-1GCjaIAAeW9m.jpg",
+        "public_metrics": {
+          "view_count": 187278
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058061713065545728/vid/avc1/1280x720/ZngGTxYpQ8_xEgmY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058061713065545728/pl/ryq8k7q0QPsghtj4.m3u8?v=26a"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058061713065545728/vid/avc1/1920x1080/_LTZlpiVq8RXyDw5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058061713065545728/vid/avc1/640x360/nVqyiaxzjLkdqujV.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058061713065545728/vid/avc1/480x270/V7u2ctra8hjEojak.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2058377516205986117",
+        "created_at": "2026-05-24T02:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058377516205986117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JRA_Special/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/JRA_Special/status/2058062234883080680",
+              "start": 21,
+              "url": "https://t.co/LMAtYaqxKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058377516205986117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058062234883080680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "握草了这就是秋皇全妹的实力吗。。。。。。 https://t.co/LMAtYaqxKb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058061713065545728"
+          ]
+        },
+        "author_id": "1528924938648039424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2058062234883080680",
+        "created_at": "2026-05-23T05:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058062234883080680"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 1,
+              "tag": "イクイノックス"
+            },
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "イクシード"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x5iRtMWncR",
+              "end": 166,
+              "expanded_url": "https://x.com/JRA_Special/status/2058062234883080680/video/1",
+              "media_key": "13_2058061713065545728",
+              "start": 143,
+              "url": "https://t.co/x5iRtMWncR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058062234883080680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 348,
+          "impression_count": 513912,
+          "like_count": 7202,
+          "quote_count": 130,
+          "reply_count": 86,
+          "retweet_count": 1363
+        },
+        "reply_settings": "everyone",
+        "text": "【#イクイノックス の全妹 #イクシード が2勝目🥇】\nイクシードがカーネーションカップを勝利👑\n通算成績を3戦2勝としました🏇\n\n父 キタサンブラック\n母 シャトーブランシュ\n\n兄に2023年度ロンジンワールドベストレースホースランキングで1位に輝いたイクイノックスがいる血統です🐴 https://t.co/x5iRtMWncR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 129,
+          "like_count": 6188,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 728
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T02:25:18.000Z",
+        "description": "レース情報やオフショット、キャンペーンなど競馬の魅力を幅広くお届けします🐴✨\n\nコミュニティガイドライン\nhttps://t.co/Tndq39PnGJ\n馬券は20歳になってから　ほどよく楽しむ大人の遊び\nhttps://t.co/ZtjPtm33fp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jra.jp/SNS/guide.html",
+                "end": 76,
+                "expanded_url": "http://jra.jp/SNS/guide.html",
+                "start": 53,
+                "url": "https://t.co/Tndq39PnGJ"
+              },
+              {
+                "display_url": "jra.jp/kouza/baken/in…",
+                "end": 126,
+                "expanded_url": "https://jra.jp/kouza/baken/index.html#cat_info",
+                "start": 103,
+                "url": "https://t.co/ZtjPtm33fp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jra.jp",
+                "end": 23,
+                "expanded_url": "https://jra.jp/",
+                "start": 0,
+                "url": "https://t.co/FhkEfSZNrG"
+              }
+            ]
+          }
+        },
+        "id": "1528924938648039424",
+        "name": "JRA公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964939407649370112/L4BR7CHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232682,
+          "following_count": 12,
+          "like_count": 13,
+          "listed_count": 777,
+          "media_count": 864,
+          "tweet_count": 1452
+        },
+        "url": "https://t.co/FhkEfSZNrG",
+        "username": "JRA_Special",
+        "verified": true
+      }
+    ]
+  }
+}

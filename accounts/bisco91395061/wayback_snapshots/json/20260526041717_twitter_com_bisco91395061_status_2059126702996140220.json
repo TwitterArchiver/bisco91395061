@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2059126702996140220",
+    "created_at": "2026-05-26T04:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059126702996140220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/daily_nozato/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/daily_nozato/status/2058907889553879261",
+          "start": 5,
+          "url": "https://t.co/Z28ljJU9sY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059126702996140220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058907889553879261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱滴捏 https://t.co/Z28ljJU9sY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14298,
+        "height": 1280,
+        "media_key": "13_2058907823531307008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058907823531307008/img/IlOFFcHRqVo7w3u9.jpg",
+        "public_metrics": {
+          "view_count": 389316
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058907823531307008/vid/avc1/320x568/6wax1c5aQCBdReQS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058907823531307008/vid/avc1/480x852/m6tlK6AM-Jchtmpx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058907823531307008/vid/avc1/720x1280/qDk96x-gRSUvBLE_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058907823531307008/pl/zoztVaIUfm8cnM7B.m3u8?v=2f2"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2059126702996140220",
+        "created_at": "2026-05-26T04:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059126702996140220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daily_nozato/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/daily_nozato/status/2058907889553879261",
+              "start": 5,
+              "url": "https://t.co/Z28ljJU9sY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059126702996140220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058907889553879261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱滴捏 https://t.co/Z28ljJU9sY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058907823531307008"
+          ]
+        },
+        "author_id": "1648242203712700416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "2058907889553879261",
+        "created_at": "2026-05-25T13:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058907889553879261"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 2,
+              "tag": "オークス"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "今村聖奈"
+            },
+            {
+              "end": 102,
+              "start": 92,
+              "tag": "ジュウリョクピエロ"
+            },
+            {
+              "end": 109,
+              "start": 103,
+              "tag": "ピエちゃん"
+            },
+            {
+              "end": 121,
+              "start": 110,
+              "tag": "おめでとうございます"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 132,
+              "id": "1497903490127265792",
+              "start": 122,
+              "username": "Vall00001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUWtHfG1lU",
+              "end": 156,
+              "expanded_url": "https://x.com/daily_nozato/status/2058907889553879261/video/1",
+              "media_key": "13_2058907823531307008",
+              "start": 133,
+              "url": "https://t.co/AUWtHfG1lU"
+            },
+            {
+              "display_url": "x.com/umaya_daily/st…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/umaya_daily/status/2058902430734270959",
+              "start": 157,
+              "url": "https://t.co/kEqPtCfMgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058907889553879261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1688,
+          "impression_count": 1360862,
+          "like_count": 14035,
+          "quote_count": 63,
+          "reply_count": 122,
+          "retweet_count": 1700
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058902430734270959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【 ＃オークス 制覇直後の動画🎥】\n＃今村聖奈 騎手 💓\n「ヤバい、やっちゃった！」\n\n大バズり中の“ジュウリョクジャンプ\"\n正面からご堪能あれ🤡🥳✨\n記事と合わせてご覧ください✏️\n＃ジュウリョクピエロ ＃ピエちゃん\n＃おめでとうございます\n@Vall00001 https://t.co/AUWtHfG1lU https://t.co/kEqPtCfMgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 146,
+          "like_count": 6363,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 794
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T08:29:25.000Z",
+        "description": "デイリースポーツ記者🐴JRAと南関東で取材をしています✏️青森県出身🍎趣味は茶道です🍵師匠は「馬サブロー」弥永明郎さん！弥永さんの解説YouTubeはこちら↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCdQKl…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCdQKlKdAb-pO_7-VvzeGnDQ",
+                "start": 0,
+                "url": "https://t.co/QTd283g99h"
+              }
+            ]
+          }
+        },
+        "id": "1648242203712700416",
+        "name": "野里美央(デイリースポーツ)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672490458990399494/onVk8MkT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 328,
+          "like_count": 4508,
+          "listed_count": 17,
+          "media_count": 632,
+          "tweet_count": 3262
+        },
+        "url": "https://t.co/QTd283g99h",
+        "username": "daily_nozato",
+        "verified": false
+      }
+    ]
+  }
+}

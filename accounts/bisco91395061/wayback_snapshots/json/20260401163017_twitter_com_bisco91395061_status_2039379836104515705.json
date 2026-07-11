@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2039369237001888201",
+    "created_at": "2026-04-01T16:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039379836104515705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1800101206184144896",
+          "start": 0,
+          "username": "XIAOYUAN_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039379836104515705",
+    "in_reply_to_user_id": "1800101206184144896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039371034529599646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIAOYUAN_qwq 娥已气哭健全逼不准卖惨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2039369237001888201",
+        "created_at": "2026-04-01T16:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039379836104515705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1800101206184144896",
+              "start": 0,
+              "username": "XIAOYUAN_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039379836104515705",
+        "in_reply_to_user_id": "1800101206184144896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039371034529599646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOYUAN_qwq 娥已气哭健全逼不准卖惨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800101206184144896",
+        "conversation_id": "2039369237001888201",
+        "created_at": "2026-04-01T15:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039371034529599646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039371034529599646",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039369237001888201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 每次看到健全逼用着最新款手机卖惨我就一股火"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 56,
+          "like_count": 3656,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 285
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T09:42:35.000Z",
+        "description": "08｜od｜血图｜支持喜欢我就给我钱吧！\n互fo欢迎喵",
+        "id": "1800101206184144896",
+        "location": "极乐净土",
+        "name": "小怜",
+        "pinned_tweet_id": "1995395289302389023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026330784731369472/cGHVsnEP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 125,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 516
+        },
+        "username": "XIAOYUAN_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

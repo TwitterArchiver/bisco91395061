@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2048314919511298287",
+    "created_at": "2026-04-26T09:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048340144747585652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2038227141125369856",
+          "start": 0,
+          "username": "Scott2713229216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048340144747585652",
+    "in_reply_to_user_id": "2038227141125369856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048337884986696016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Scott2713229216 滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2048314919511298287",
+        "created_at": "2026-04-26T09:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048340144747585652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2038227141125369856",
+              "start": 0,
+              "username": "Scott2713229216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048340144747585652",
+        "in_reply_to_user_id": "2038227141125369856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048337884986696016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Scott2713229216 滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038227141125369856",
+        "conversation_id": "2048314919511298287",
+        "created_at": "2026-04-26T09:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048337884986696016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048337884986696016",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048314919511298287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 🥴\n🐟\n😝🎃\n👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜低浮上",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 75,
+          "like_count": 4039,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 393
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T12:10:08.000Z",
+        "description": "你所在的位置我来帮你👩‍❤️‍👨 @bombomwow00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "bombomwow00"
+              }
+            ]
+          }
+        },
+        "id": "2038227141125369856",
+        "location": "距离你1.9公里",
+        "name": "凤柯💎免费约p💎实时匹配",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048339707017515008/GeqaT-mx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "Scott2713229216",
+        "verified": false
+      }
+    ]
+  }
+}

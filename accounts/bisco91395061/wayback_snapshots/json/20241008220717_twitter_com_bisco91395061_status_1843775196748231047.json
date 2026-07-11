@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "1843775196748231047",
+    "created_at": "2024-10-08T22:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T23:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843775196748231047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1437249565506170880",
+          "start": 3,
+          "username": "Nakashimaya1946"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843775196748231047",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 847
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840950623518540159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nakashimaya1946: 🔸SAKAGOYA KUZI 13🔸の販売を記念してフォロー＆リポスト企画を行いまいます。\n\n●応募期間\n10月1日～SAKAGOYA KUZI 13完売まで\n\n●応募条件\n①本アカウントをフォロー\n②本投稿をリポスト\n\n◎詳細は下記画…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "1843775196748231047",
+        "created_at": "2024-10-08T22:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T23:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843775196748231047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1437249565506170880",
+              "start": 3,
+              "username": "Nakashimaya1946"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843775196748231047",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 847
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840950623518540159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nakashimaya1946: 🔸SAKAGOYA KUZI 13🔸の販売を記念してフォロー＆リポスト企画を行いまいます。\n\n●応募期間\n10月1日～SAKAGOYA KUZI 13完売まで\n\n●応募条件\n①本アカウントをフォロー\n②本投稿をリポスト\n\n◎詳細は下記画…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840950392836014081",
+            "3_1840950411249033216",
+            "3_1840950433575288835",
+            "3_1840950453401763841"
+          ]
+        },
+        "author_id": "1437249565506170880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1840950623518540159",
+        "created_at": "2024-10-01T03:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T04:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840950623518540159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNT36fsAhz",
+              "end": 190,
+              "expanded_url": "https://x.com/Nakashimaya1946/status/1840950623518540159/photo/1",
+              "media_key": "3_1840950392836014081",
+              "start": 167,
+              "url": "https://t.co/ZNT36fsAhz"
+            },
+            {
+              "display_url": "pic.x.com/ZNT36fsAhz",
+              "end": 190,
+              "expanded_url": "https://x.com/Nakashimaya1946/status/1840950623518540159/photo/1",
+              "media_key": "3_1840950411249033216",
+              "start": 167,
+              "url": "https://t.co/ZNT36fsAhz"
+            },
+            {
+              "display_url": "pic.x.com/ZNT36fsAhz",
+              "end": 190,
+              "expanded_url": "https://x.com/Nakashimaya1946/status/1840950623518540159/photo/1",
+              "media_key": "3_1840950433575288835",
+              "start": 167,
+              "url": "https://t.co/ZNT36fsAhz"
+            },
+            {
+              "display_url": "pic.x.com/ZNT36fsAhz",
+              "end": 190,
+              "expanded_url": "https://x.com/Nakashimaya1946/status/1840950623518540159/photo/1",
+              "media_key": "3_1840950453401763841",
+              "start": 167,
+              "url": "https://t.co/ZNT36fsAhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840950623518540159",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 54218,
+          "like_count": 540,
+          "quote_count": 9,
+          "reply_count": 31,
+          "retweet_count": 847
+        },
+        "reply_settings": "everyone",
+        "text": "🔸SAKAGOYA KUZI 13🔸の販売を記念してフォロー＆リポスト企画を行いまいます。\n\n●応募期間\n10月1日～SAKAGOYA KUZI 13完売まで\n\n●応募条件\n①本アカウントをフォロー\n②本投稿をリポスト\n\n◎詳細は下記画像にてご確認下さい。\n皆様のご応募お待ちしております。\n\n※10月10日10時より販売開始です。 https://t.co/ZNT36fsAhz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰2022.9月から洗車はじめました！皆さん、色々と教えて下さい🙇🏻‍♂️ ウィスキーも少し勉強中",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602223879472427008/pvTqSHmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 154,
+          "like_count": 2270,
+          "listed_count": 0,
+          "tweet_count": 185
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-13T03:00:43.000Z",
+        "description": "名古屋市の酒屋さんです。 お酒を通じて皆様とつながりたいと思いアカウントを作成しました。基本お酒関係の呟きですが、日常の呟きもしばしば。2023年2月16日ＥＣサイト開設。\n 定休日：水曜•日曜営業時間9:00〜18:00 \nＳＡＫＡＧＯＹＡインスタhttps://t.co/YkkZV1yKov",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sakagoya",
+                "end": 148,
+                "expanded_url": "http://instagram.com/sakagoya",
+                "start": 125,
+                "url": "https://t.co/YkkZV1yKov"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sakagoya.com",
+                "end": 23,
+                "expanded_url": "https://www.sakagoya.com/",
+                "start": 0,
+                "url": "https://t.co/8GH01fKnTl"
+              }
+            ]
+          }
+        },
+        "id": "1437249565506170880",
+        "location": "愛知 名古屋市 中区大須",
+        "name": "株式会社　中島屋酒店",
+        "pinned_tweet_id": "1840950623518540159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559089685468549120/3VAIAutC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14917,
+          "following_count": 1732,
+          "like_count": 2148,
+          "listed_count": 35,
+          "tweet_count": 3622
+        },
+        "url": "https://t.co/8GH01fKnTl",
+        "username": "Nakashimaya1946",
+        "verified": true
+      }
+    ]
+  }
+}

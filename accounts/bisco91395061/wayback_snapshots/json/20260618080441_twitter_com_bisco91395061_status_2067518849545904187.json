@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2067081046861246819",
+    "created_at": "2026-06-18T08:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067518849545904187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845116988181577728",
+          "start": 0,
+          "username": "tangtang1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067518849545904187",
+    "in_reply_to_user_id": "1845116988181577728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067518302637994205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangtang1204 私信你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2067081046861246819",
+        "created_at": "2026-06-18T08:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067518849545904187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845116988181577728",
+              "start": 0,
+              "username": "tangtang1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067518849545904187",
+        "in_reply_to_user_id": "1845116988181577728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067518302637994205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangtang1204 私信你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845116988181577728",
+        "conversation_id": "2067081046861246819",
+        "created_at": "2026-06-18T08:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067518302637994205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067518302637994205",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067513741374362001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 小窗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 277,
+          "like_count": 8154,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1403
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T14:59:15.000Z",
+        "description": "05/女同/地雷妹/od/割手/我爱我的小猫/我也喜欢所有可爱的孩子/https://t.co/UbgjEj3jy1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tangtang1204",
+                "end": 58,
+                "expanded_url": "https://ngl.link/tangtang1204",
+                "start": 35,
+                "url": "https://t.co/UbgjEj3jy1"
+              }
+            ]
+          }
+        },
+        "id": "1845116988181577728",
+        "name": "小糖",
+        "pinned_tweet_id": "2034282682381930914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062138922386550784/kXcvR_xb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 182,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 486
+        },
+        "username": "tangtang1204",
+        "verified": false
+      }
+    ]
+  }
+}

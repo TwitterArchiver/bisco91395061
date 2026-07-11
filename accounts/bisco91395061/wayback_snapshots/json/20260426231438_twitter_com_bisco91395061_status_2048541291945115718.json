@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2048403761861988530",
+    "created_at": "2026-04-26T23:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T00:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048541291945115718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1903126320697184257",
+          "start": 0,
+          "username": "cyberpsychosisR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048541291945115718",
+    "in_reply_to_user_id": "1903126320697184257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048403761861988530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyberpsychosisR 🫂🫂🫂🫂🫂抱抱。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2048403761861988530",
+        "created_at": "2026-04-26T23:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T00:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048541291945115718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1903126320697184257",
+              "start": 0,
+              "username": "cyberpsychosisR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048541291945115718",
+        "in_reply_to_user_id": "1903126320697184257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048403761861988530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyberpsychosisR 🫂🫂🫂🫂🫂抱抱。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903126320697184257",
+        "conversation_id": "2048403761861988530",
+        "created_at": "2026-04-26T14:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048403761861988530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048403761861988530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想自杀，真的好想自杀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜低浮上",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 77,
+          "like_count": 4085,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 404
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T16:47:36.000Z",
+        "description": "",
+        "id": "1903126320697184257",
+        "name": "!",
+        "pinned_tweet_id": "2022350519948529841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048053793162735616/4Rdi1g-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 183,
+          "like_count": 8685,
+          "listed_count": 0,
+          "media_count": 691,
+          "tweet_count": 5248
+        },
+        "username": "cyberpsychosisR",
+        "verified": false
+      }
+    ]
+  }
+}

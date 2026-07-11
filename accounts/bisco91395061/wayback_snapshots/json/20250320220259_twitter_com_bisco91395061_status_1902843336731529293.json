@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "1902843336731529293",
+    "created_at": "2025-03-20T22:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T23:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902843336731529293"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 64,
+          "normalized_text": "シングルモルト余市10年",
+          "probability": 0.494,
+          "start": 53,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "870288225557815296",
+          "start": 3,
+          "username": "yoko_hironaka"
+        },
+        {
+          "end": 104,
+          "id": "870288225557815296",
+          "start": 90,
+          "username": "yoko_hironaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902843336731529293",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2562
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902311578722337132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoko_hironaka: お久しぶりです🥹\nみんなでHAPPY♡\n週末抽選 販売会🎆\n\n「シングルモルト余市10年」  \n\n税込 13,200円  \n\n応募方法\n1 ）@yoko_hironakaをフォロー\n2 ）この投稿をRT🔁 &amp; いいね💕\n\n当選人数1名様😊…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1902309159242244096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmZcGfmbIAA4xUN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "1902843336731529293",
+        "created_at": "2025-03-20T22:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T23:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902843336731529293"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "シングルモルト余市10年",
+              "probability": 0.494,
+              "start": 53,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "870288225557815296",
+              "start": 3,
+              "username": "yoko_hironaka"
+            },
+            {
+              "end": 104,
+              "id": "870288225557815296",
+              "start": 90,
+              "username": "yoko_hironaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902843336731529293",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2562
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902311578722337132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoko_hironaka: お久しぶりです🥹\nみんなでHAPPY♡\n週末抽選 販売会🎆\n\n「シングルモルト余市10年」  \n\n税込 13,200円  \n\n応募方法\n1 ）@yoko_hironakaをフォロー\n2 ）この投稿をRT🔁 &amp; いいね💕\n\n当選人数1名様😊…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902309159242244096"
+          ]
+        },
+        "author_id": "870288225557815296",
+        "conversation_id": "1902311578722337132",
+        "created_at": "2025-03-19T10:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T11:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902311578722337132"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "シングルモルト余市10年",
+              "probability": 0.547,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 85,
+              "id": "870288225557815296",
+              "start": 71,
+              "username": "yoko_hironaka"
+            }
+          ],
+          "urls": [
+            {
+              "description": "広島県東広島市、呉市を中心に8店舗を展開する酒専門店のECサイトです。 ”お酒を通じて笑顔をお届けする”をミッションに温もりあるお店作りを大事にしています。 地元のお酒や、ワイン、シャンパン、ウイスキー、ブランデー、日本酒、焼酎、ビールまでブランドやビンテージの年代物など、豊富なラインナップを取り揃えております。",
+              "display_url": "shop.sumidaya.co.jp",
+              "end": 167,
+              "expanded_url": "https://shop.sumidaya.co.jp",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/1902311639644565506/O5CorYSN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1902311639644565506/O5CorYSN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 144,
+              "status": 200,
+              "title": "お酒を通じて笑顔に！住田屋オンラインストア｜ビンテージや希少な高級酒も販売",
+              "unwound_url": "https://shop.sumidaya.co.jp",
+              "url": "https://t.co/9xPfr3OWRF"
+            },
+            {
+              "display_url": "pic.x.com/ugAnKtHyta",
+              "end": 191,
+              "expanded_url": "https://x.com/yoko_hironaka/status/1902311578722337132/photo/1",
+              "media_key": "3_1902309159242244096",
+              "start": 168,
+              "url": "https://t.co/ugAnKtHyta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902311578722337132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 85,
+                "id": "870288225557815296",
+                "start": 71,
+                "username": "yoko_hironaka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shop.sumidaya.co.jp",
+                "end": 163,
+                "expanded_url": "https://shop.sumidaya.co.jp",
+                "start": 140,
+                "url": "https://t.co/j6ZsB0R4G1"
+              }
+            ]
+          },
+          "text": "お久しぶりです🥹\nみんなでHAPPY♡\n週末抽選 販売会🎆\n\n「シングルモルト余市10年」  \n\n税込 13,200円  \n\n応募方法\n1 ）@yoko_hironakaをフォロー\n2 ）この投稿をRT🔁 & いいね💕\n\n当選人数1名様😊\n\n当選者は3月23日20時すぎに発表😊\nhttps://t.co/j6ZsB0R4G1\n\n偽アカ対策：固定ツイートが2023/6/23のが本垢です\n\n・応募締め切りは令和7年3月23日19時です。  \n・ご当選者にはXのDMにてご案内します。  \n・ご購入は弊社ECサイトを通してお願いします。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 63376,
+          "like_count": 2646,
+          "quote_count": 30,
+          "reply_count": 255,
+          "retweet_count": 2562
+        },
+        "reply_settings": "everyone",
+        "text": "お久しぶりです🥹\nみんなでHAPPY♡\n週末抽選 販売会🎆\n\n「シングルモルト余市10年」  \n\n税込 13,200円  \n\n応募方法\n1 ）@yoko_hironakaをフォロー\n2 ）この投稿をRT🔁 &amp; いいね💕\n\n当選人数1名様😊\n\n当選者は3月23日20時すぎに発表😊\nhttps://t.co/9xPfr3OWRF https://t.co/ugAnKtHyta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰2022.9月から洗車はじめました！皆さん、色々と教えて下さい🙇🏻‍♂️ ウィスキーも少し勉強中、ウマ娘も少し",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602223879472427008/pvTqSHmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 168,
+          "like_count": 2305,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 202
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-01T14:37:36.000Z",
+        "description": "住田屋オンラインストア店長 【EC版三河屋さん目指してます】🙇‍♀ 自己紹介:田舎の酒屋で働く元男の子。 近所のおじいちゃんやおばあちゃんたち、お客さんの温もりと笑顔、時に失笑に励まされながら生きてまーす♡ #性別違和 #Mtf #lgbt　固定ツイートが2023/6/23のものが本垢です😊",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "性別違和"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "Mtf"
+              },
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "lgbt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.sumidaya.co.jp",
+                "end": 23,
+                "expanded_url": "https://shop.sumidaya.co.jp",
+                "start": 0,
+                "url": "https://t.co/j6ZsB0R4G1"
+              }
+            ]
+          }
+        },
+        "id": "870288225557815296",
+        "location": "日本 広島",
+        "name": "廣中 ようこ",
+        "pinned_tweet_id": "1672251848089280514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525795125959749632/-zRqKcGf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30026,
+          "following_count": 246,
+          "like_count": 59803,
+          "listed_count": 40,
+          "media_count": 1568,
+          "tweet_count": 16492
+        },
+        "url": "https://t.co/j6ZsB0R4G1",
+        "username": "yoko_hironaka",
+        "verified": true
+      }
+    ]
+  }
+}

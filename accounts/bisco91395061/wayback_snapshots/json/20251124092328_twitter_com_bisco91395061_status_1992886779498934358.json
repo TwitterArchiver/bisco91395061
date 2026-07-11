@@ -1,0 +1,546 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "1992886779498934358",
+    "created_at": "2025-11-24T09:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T10:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992886779498934358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1448306385054101506",
+          "start": 3,
+          "username": "Tasting_Market"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992886779498934358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 746
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992429176427798656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tasting_Market: 4周年の感謝の気持ちをこめて\n\n🎁フォロー＆いいね＆リポストで当たる🎁\n\n各所で話題のPB【御岳3年 2022 for TASTING MARKET】を抽選でな、な、なんと15名の方になんとちょっと早いクリスマスプレゼントをしちゃいます✨…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1992429169117204482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aHxeFbkAIRRlL.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1276,
+        "media_key": "3_1992429169129701376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aHxeIaQAA0-F7.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1992886779498934358",
+        "created_at": "2025-11-24T09:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992886779498934358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1448306385054101506",
+              "start": 3,
+              "username": "Tasting_Market"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992886779498934358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 746
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992429176427798656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tasting_Market: 4周年の感謝の気持ちをこめて\n\n🎁フォロー＆いいね＆リポストで当たる🎁\n\n各所で話題のPB【御岳3年 2022 for TASTING MARKET】を抽選でな、な、なんと15名の方になんとちょっと早いクリスマスプレゼントをしちゃいます✨…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992429169117204482",
+            "3_1992429169129701376"
+          ]
+        },
+        "author_id": "1448306385054101506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1992429176427798656",
+        "created_at": "2025-11-23T03:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T04:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992429176427798656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cWaCtuEQsf",
+              "end": 187,
+              "expanded_url": "https://x.com/Tasting_Market/status/1992429176427798656/photo/1",
+              "media_key": "3_1992429169117204482",
+              "start": 164,
+              "url": "https://t.co/cWaCtuEQsf"
+            },
+            {
+              "display_url": "pic.x.com/cWaCtuEQsf",
+              "end": 187,
+              "expanded_url": "https://x.com/Tasting_Market/status/1992429176427798656/photo/1",
+              "media_key": "3_1992429169129701376",
+              "start": 164,
+              "url": "https://t.co/cWaCtuEQsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992429176427798656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 32570,
+          "like_count": 793,
+          "quote_count": 17,
+          "reply_count": 97,
+          "retweet_count": 746
+        },
+        "reply_settings": "everyone",
+        "text": "4周年の感謝の気持ちをこめて\n\n🎁フォロー＆いいね＆リポストで当たる🎁\n\n各所で話題のPB【御岳3年 2022 for TASTING MARKET】を抽選でな、な、なんと15名の方になんとちょっと早いクリスマスプレゼントをしちゃいます✨\n\nぜひ奮ってご応募下さい！！\n応募締切(11月30日23時)\n\n詳細はコメント欄へ続く https://t.co/cWaCtuEQsf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰ウイスキーも少し勉強中、ウマ娘も少し、ファジアーノも",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981275771931942912/DkGP4QSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 179,
+          "like_count": 2370,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 209
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T15:15:48.000Z",
+        "description": "両国にあるウイスキーとシードルを中心とした酒屋です。 カウンター席に座って有料試飲がゆったりと楽しめます（角打ちはしてません！あくまで購入の参考に）有料試飲は100種以上！まだまだ駆け出しですが、色々なことにチャレンジしていきます。最近フォローバック再開してますので、順に返していきます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tasting-market.square.site",
+                "end": 23,
+                "expanded_url": "https://tasting-market.square.site/",
+                "start": 0,
+                "url": "https://t.co/Eqf23rlVSP"
+              }
+            ]
+          }
+        },
+        "id": "1448306385054101506",
+        "location": "東京都墨田区両国2-18-4 パラッツオ1F",
+        "name": "TASTING MARKET（テイスティング マーケット）",
+        "pinned_tweet_id": "1992429176427798656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895087839186173952/YFiQTqv7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3658,
+          "following_count": 1122,
+          "like_count": 5338,
+          "listed_count": 22,
+          "media_count": 2201,
+          "tweet_count": 4011
+        },
+        "url": "https://t.co/Eqf23rlVSP",
+        "username": "Tasting_Market",
+        "verified": false
+      }
+    ]
+  }
+}

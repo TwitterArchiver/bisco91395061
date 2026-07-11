@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2053394379222774071",
+    "created_at": "2026-05-10T08:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053394379222774071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031591173975060489",
+          "start": 3,
+          "username": "oiloou07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053394379222774071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053155342406807879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oiloou07: 真没想到母亲节这么热闹 印象中很多人都是没妈的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2053394379222774071",
+        "created_at": "2026-05-10T08:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053394379222774071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031591173975060489",
+              "start": 3,
+              "username": "oiloou07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053394379222774071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053155342406807879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oiloou07: 真没想到母亲节这么热闹 印象中很多人都是没妈的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031591173975060489",
+        "conversation_id": "2053155342406807879",
+        "created_at": "2026-05-09T16:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053155342406807879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053155342406807879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 62213,
+          "like_count": 1385,
+          "quote_count": 10,
+          "reply_count": 309,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "真没想到母亲节这么热闹 印象中很多人都是没妈的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 113,
+          "like_count": 5131,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 595
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T04:41:09.000Z",
+        "description": "˃̣̣ᯅก",
+        "id": "2031591173975060489",
+        "location": "🚪99",
+        "name": "嗲犬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047206249889198080/D3CrKS28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4983,
+          "following_count": 0,
+          "like_count": 627,
+          "listed_count": 9,
+          "media_count": 24,
+          "tweet_count": 118
+        },
+        "username": "oiloou07",
+        "verified": false
+      }
+    ]
+  }
+}

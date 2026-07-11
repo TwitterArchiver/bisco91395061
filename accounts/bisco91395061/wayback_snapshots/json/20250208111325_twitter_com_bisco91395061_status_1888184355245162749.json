@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "1888184355245162749",
+    "created_at": "2025-02-08T11:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T12:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888184355245162749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1442342076633399304",
+          "start": 3,
+          "username": "musashiyataka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888184355245162749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1566
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888112568386154883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @musashiyataka: スプリングバンク 12年 カスクストレングス 57.2%￥12,375 (税込)＋送料\n\n当アカウントフォロー＆このツイートをリポスト＆いいね\nの中から抽選で2名の方を当選とします。\n抽選は今から開始!締め切りは2月12日8：00～12：0…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "1888184355245162749",
+        "created_at": "2025-02-08T11:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T12:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888184355245162749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1442342076633399304",
+              "start": 3,
+              "username": "musashiyataka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888184355245162749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1566
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888112568386154883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @musashiyataka: スプリングバンク 12年 カスクストレングス 57.2%￥12,375 (税込)＋送料\n\n当アカウントフォロー＆このツイートをリポスト＆いいね\nの中から抽選で2名の方を当選とします。\n抽選は今から開始!締め切りは2月12日8：00～12：0…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442342076633399304",
+        "conversation_id": "1888112568386154883",
+        "created_at": "2025-02-08T06:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T07:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888112568386154883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888112568386154883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 31407,
+          "like_count": 1593,
+          "quote_count": 15,
+          "reply_count": 200,
+          "retweet_count": 1566
+        },
+        "reply_settings": "everyone",
+        "text": "スプリングバンク 12年 カスクストレングス 57.2%￥12,375 (税込)＋送料\n\n当アカウントフォロー＆このツイートをリポスト＆いいね\nの中から抽選で2名の方を当選とします。\n抽選は今から開始!締め切りは2月12日8：00～12：00】（仕事量に左右されるためご容赦ください）\n↓続き↓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰2022.9月から洗車はじめました！皆さん、色々と教えて下さい🙇🏻‍♂️ ウィスキーも少し勉強中、ウマ娘も少し",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602223879472427008/pvTqSHmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 168,
+          "like_count": 2300,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 197
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T04:15:31.000Z",
+        "description": "酒が好き人が好き武蔵屋（酒屋）のシングルモルト担当が中の人\n武蔵屋の公式メール配信よりも早く商品情報呟くことも\nたまにツイッター上でのみ抽選実施してます。\nいつか公式に怒られるかも・・・\n\n武蔵屋公式ツイッター@musashiyanet\n武蔵屋公式HP https://t.co/AMDZwTGOeu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 105,
+                "username": "musashiyanet"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "store.musashiya-net.co.jp",
+                "end": 150,
+                "expanded_url": "https://store.musashiya-net.co.jp",
+                "start": 127,
+                "url": "https://t.co/AMDZwTGOeu"
+              }
+            ]
+          }
+        },
+        "id": "1442342076633399304",
+        "location": "世田谷区",
+        "name": "武蔵屋の中のウイスキーの人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581911572112236545/k-1VOZwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12891,
+          "following_count": 611,
+          "like_count": 7630,
+          "listed_count": 45,
+          "media_count": 38,
+          "tweet_count": 4743
+        },
+        "username": "musashiyataka",
+        "verified": false
+      }
+    ]
+  }
+}

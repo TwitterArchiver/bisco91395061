@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Personal finance",
+          "id": "847888632711061504",
+          "name": "Personal finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Investing",
+          "id": "847894353708068864",
+          "name": "Investing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      }
+    ],
+    "conversation_id": "1985286531054203362",
+    "created_at": "2025-11-03T10:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T11:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985286531054203362"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 82,
+          "normalized_text": "堀田丸正",
+          "probability": 0.7378,
+          "start": 79,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1252936102224072710",
+          "start": 3,
+          "username": "mnt_wp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985286531054203362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985283404427063411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @mnt_wp: 【速報】暴騰前夜の注目株📈\n\n日経平均、史上初の5万2000円台に突入！\n\n安値からの急上昇サイン点灯中💥\n\n私が過去に的中させた堀田丸正や\nメタプラネットに匹敵する銘柄\n\n株価は現在200円台\n\n 最新の日本株情報はここでまとめてます👇\n\n✅https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1985283395560329216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40kutLa0AAIg-1.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Investing",
+              "id": "847894353708068864",
+              "name": "Investing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "1985286531054203362",
+        "created_at": "2025-11-03T10:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985286531054203362"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 82,
+              "normalized_text": "堀田丸正",
+              "probability": 0.7378,
+              "start": 79,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1252936102224072710",
+              "start": 3,
+              "username": "mnt_wp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985286531054203362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985283404427063411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @mnt_wp: 【速報】暴騰前夜の注目株📈\n\n日経平均、史上初の5万2000円台に突入！\n\n安値からの急上昇サイン点灯中💥\n\n私が過去に的中させた堀田丸正や\nメタプラネットに匹敵する銘柄\n\n株価は現在200円台\n\n 最新の日本株情報はここでまとめてます👇\n\n✅https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985283395560329216"
+          ]
+        },
+        "author_id": "1252936102224072710",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Investing",
+              "id": "847894353708068864",
+              "name": "Investing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "1985283404427063411",
+        "created_at": "2025-11-03T09:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T10:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985283404427063411"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "堀田丸正",
+              "probability": 0.7588,
+              "start": 67,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "linoee.com/vsUUjGU",
+              "end": 145,
+              "expanded_url": "https://linoee.com/vsUUjGU",
+              "start": 122,
+              "status": 403,
+              "unwound_url": "https://linoee.com/vsUUjGU",
+              "url": "https://t.co/J42j0JsZ2r"
+            },
+            {
+              "display_url": "pic.x.com/OG21nYxz2R",
+              "end": 179,
+              "expanded_url": "https://x.com/mnt_wp/status/1985283404427063411/photo/1",
+              "media_key": "3_1985283395560329216",
+              "start": 156,
+              "url": "https://t.co/OG21nYxz2R"
+            },
+            {
+              "display_url": "x.com/mnt_wp/status/…",
+              "end": 203,
+              "expanded_url": "https://twitter.com/mnt_wp/status/1984156992072773830",
+              "start": 180,
+              "url": "https://t.co/i0GoRQno09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985283404427063411",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984156992072773830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "【速報】暴騰前夜の注目株📈\n\n日経平均、史上初の5万2000円台に突入！\n\n安値からの急上昇サイン点灯中💥\n\n私が過去に的中させた堀田丸正や\nメタプラネットに匹敵する銘柄\n\n株価は現在200円台\n\n 最新の日本株情報はここでまとめてます👇\n\n✅https://t.co/J42j0JsZ2r\n完全無料で公開です https://t.co/OG21nYxz2R https://t.co/i0GoRQno09"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰ウイスキーも少し勉強中、ウマ娘も少し、ファジアーノも",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981275771931942912/DkGP4QSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 179,
+          "like_count": 2330,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 208
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-22T12:23:50.000Z",
+        "description": "総資産20億円／投資歴25年／初心者歓迎｜25年間の投資経験を活かした知恵を毎日無料でお届けします\\日本人の金融リテラシー向上！/\n▶️1日1分で投資初心者を脱却🔰\n▶️テーマとデータで株式分析📈注目株",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linoee.com/vsUUjGU",
+                "end": 23,
+                "expanded_url": "https://linoee.com/vsUUjGU",
+                "start": 0,
+                "url": "https://t.co/vEpHk1SsdF"
+              }
+            ]
+          }
+        },
+        "id": "1252936102224072710",
+        "location": "情報交換所「镸野投資部屋」→",
+        "name": "長野弘之@資産運用&株投資",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978810168050880512/FRCs7TTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 229,
+          "like_count": 4215,
+          "listed_count": 7,
+          "media_count": 638,
+          "tweet_count": 2501
+        },
+        "url": "https://t.co/vEpHk1SsdF",
+        "username": "mnt_wp",
+        "verified": false
+      }
+    ]
+  }
+}

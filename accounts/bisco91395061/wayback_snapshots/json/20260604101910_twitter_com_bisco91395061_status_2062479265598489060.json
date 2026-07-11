@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2062172186341998953",
+    "created_at": "2026-06-04T10:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062479265598489060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4809966194",
+          "start": 0,
+          "username": "FujitaOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062479265598489060",
+    "in_reply_to_user_id": "4809966194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062172186341998953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FujitaOfficial 😹😹😹救命为啥会这样。。。怎么感觉莫名好笑。。话说池添私下里这么小气吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062172184278335488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5OrP2aAAAw2Wr.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2062172186341998953",
+        "created_at": "2026-06-04T10:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062479265598489060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4809966194",
+              "start": 0,
+              "username": "FujitaOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062479265598489060",
+        "in_reply_to_user_id": "4809966194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062172186341998953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FujitaOfficial 😹😹😹救命为啥会这样。。。怎么感觉莫名好笑。。话说池添私下里这么小气吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062172184278335488"
+          ]
+        },
+        "author_id": "4809966194",
+        "conversation_id": "2062172186341998953",
+        "created_at": "2026-06-03T13:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062172186341998953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZKoM3Ueg1",
+              "end": 88,
+              "expanded_url": "https://x.com/FujitaOfficial/status/2062172186341998953/photo/1",
+              "media_key": "3_2062172184278335488",
+              "start": 65,
+              "url": "https://t.co/BZKoM3Ueg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062172186341998953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 871849,
+          "like_count": 2683,
+          "quote_count": 212,
+          "reply_count": 232,
+          "retweet_count": 399
+        },
+        "reply_settings": "everyone",
+        "text": "池添謙一が手前がどうのこうの呟いてて話題になってるから\nリツイートして一言しよう思ったら何とブロックされてるやん😀\nオモロ～‼️ https://t.co/BZKoM3Ueg1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 166,
+          "like_count": 7002,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 907
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-25T00:59:01.000Z",
+        "description": "通算1918勝(重賞93勝、うちGI17勝)を挙げ、特別模範騎手賞を2度受賞した元JRAトップジョッキー。現在は札幌市内でbar favori(バーファヴォリ)を経営。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/fit_otter9518/",
+                "end": 23,
+                "expanded_url": "https://note.com/fit_otter9518/",
+                "start": 0,
+                "url": "https://t.co/MujgFdojh5"
+              }
+            ]
+          }
+        },
+        "id": "4809966194",
+        "location": "bar favori（バーファヴォリ）札幌市中央区南3条西5",
+        "name": "藤田 伸二",
+        "pinned_tweet_id": "1554487608675540992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919042299050463232/4v13LFJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97591,
+          "following_count": 15,
+          "like_count": 55050,
+          "listed_count": 585,
+          "media_count": 1388,
+          "tweet_count": 19418
+        },
+        "url": "https://t.co/MujgFdojh5",
+        "username": "FujitaOfficial",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063597446400503808"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2063597692941738423",
+    "created_at": "2026-06-07T12:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063597692941738423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/02NtJIolOF",
+          "end": 65,
+          "expanded_url": "https://x.com/bisco91395061/status/2063597692941738423/photo/1",
+          "media_key": "3_2063597446400503808",
+          "start": 42,
+          "url": "https://t.co/02NtJIolOF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063597692941738423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这期是雨霁酱给我的py啊啊啊啊啊😭😭😭非常喜欢非常美萌啊好吧。。。。。🥺🥺💖💖💖💖 https://t.co/02NtJIolOF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_2063597446400503808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNe8bAa8AAfGfd.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063597446400503808"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2063597692941738423",
+        "created_at": "2026-06-07T12:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063597692941738423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/02NtJIolOF",
+              "end": 65,
+              "expanded_url": "https://x.com/bisco91395061/status/2063597692941738423/photo/1",
+              "media_key": "3_2063597446400503808",
+              "start": 42,
+              "url": "https://t.co/02NtJIolOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063597692941738423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这期是雨霁酱给我的py啊啊啊啊啊😭😭😭非常喜欢非常美萌啊好吧。。。。。🥺🥺💖💖💖💖 https://t.co/02NtJIolOF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 191,
+          "like_count": 7377,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1012
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

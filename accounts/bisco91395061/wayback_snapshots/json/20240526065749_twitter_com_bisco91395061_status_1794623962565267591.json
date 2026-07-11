@@ -1,0 +1,233 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "1794623962565267591",
+    "created_at": "2024-05-26T06:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T07:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794623962565267591"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 100,
+          "normalized_text": "DETAILARTIST WINDOW COAT SET",
+          "probability": 0.5681,
+          "start": 73,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1636583334284529665",
+          "start": 3,
+          "username": "DA_chemical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794623962565267591",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1679
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793927907091652965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DA_chemical: \\📣アカウントフォロー＆RTで最大100名様にプレゼント🎁/\n\nDETAILARTISTから6月発売予定の『DETAILARTIST WINDOW COAT SET』を最大100名様に先行プレゼント🎉🎉\nアカウントフォロー&amp;RTでWINDOW…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "1794623962565267591",
+        "created_at": "2024-05-26T06:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T07:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794623962565267591"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 100,
+              "normalized_text": "DETAILARTIST WINDOW COAT SET",
+              "probability": 0.5681,
+              "start": 73,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1636583334284529665",
+              "start": 3,
+              "username": "DA_chemical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794623962565267591",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1679
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793927907091652965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DA_chemical: \\📣アカウントフォロー＆RTで最大100名様にプレゼント🎁/\n\nDETAILARTISTから6月発売予定の『DETAILARTIST WINDOW COAT SET』を最大100名様に先行プレゼント🎉🎉\nアカウントフォロー&amp;RTでWINDOW…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793927886908583936",
+            "3_1793927886921248768"
+          ]
+        },
+        "author_id": "1636583334284529665",
+        "conversation_id": "1793927907091652965",
+        "created_at": "2024-05-24T08:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T09:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793927907091652965"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 83,
+              "normalized_text": "DETAILARTIST WINDOW COAT SET",
+              "probability": 0.4731,
+              "start": 56,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/K8LHaxsTnd",
+              "end": 198,
+              "expanded_url": "https://twitter.com/DA_chemical/status/1793927907091652965/photo/1",
+              "media_key": "3_1793927886908583936",
+              "start": 175,
+              "url": "https://t.co/K8LHaxsTnd"
+            },
+            {
+              "display_url": "pic.twitter.com/K8LHaxsTnd",
+              "end": 198,
+              "expanded_url": "https://twitter.com/DA_chemical/status/1793927907091652965/photo/1",
+              "media_key": "3_1793927886921248768",
+              "start": 175,
+              "url": "https://t.co/K8LHaxsTnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793927907091652965",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 98085,
+          "like_count": 1016,
+          "quote_count": 150,
+          "reply_count": 240,
+          "retweet_count": 1679
+        },
+        "reply_settings": "everyone",
+        "text": "\\📣アカウントフォロー＆RTで最大100名様にプレゼント🎁/\n\nDETAILARTISTから6月発売予定の『DETAILARTIST WINDOW COAT SET』を最大100名様に先行プレゼント🎉🎉\nアカウントフォロー&amp;RTでWINDOW COAT SET mini🫧が当たります‼️\n\n✨WINDOW COAT SETはこんな製品✨… https://t.co/K8LHaxsTnd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰2022.9月から洗車はじめました！皆さん、色々と教えて下さい🙇🏻‍♂️ ウィスキーも少し勉強中",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602223879472427008/pvTqSHmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 150,
+          "like_count": 2253,
+          "listed_count": 0,
+          "tweet_count": 178
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T04:20:57.000Z",
+        "description": "DETAIL ARTIST公式アカウント DETAIL ARTISTは洗車を通じて最高の時間を創造する国産ケミカルブランドです。 洗浄ではなく、趣味として洗車を楽しむあなたへ。#DETAILARTIST",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 88,
+                "tag": "DETAILARTIST"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "detail-artist.com",
+                "end": 23,
+                "expanded_url": "https://detail-artist.com",
+                "start": 0,
+                "url": "https://t.co/9fnwhDLExE"
+              }
+            ]
+          }
+        },
+        "id": "1636583334284529665",
+        "name": "DETAIL ARTIST",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661702678978887682/ApMKiv2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4919,
+          "following_count": 1,
+          "like_count": 12302,
+          "listed_count": 7,
+          "tweet_count": 8332
+        },
+        "url": "https://t.co/9fnwhDLExE",
+        "username": "DA_chemical",
+        "verified": true
+      }
+    ]
+  }
+}

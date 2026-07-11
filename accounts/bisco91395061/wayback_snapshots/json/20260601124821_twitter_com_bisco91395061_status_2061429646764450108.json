@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2061390517435236717",
+    "created_at": "2026-06-01T12:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T13:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061429646764450108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1549627171240816640",
+          "start": 0,
+          "username": "BDsirius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061429646764450108",
+    "in_reply_to_user_id": "1549627171240816640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061390517435236717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BDsirius 不可以"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2061390517435236717].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2061390517435236717",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2061390517435236717"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2061390517435236717",
+        "created_at": "2026-06-01T12:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061429646764450108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1549627171240816640",
+              "start": 0,
+              "username": "BDsirius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061429646764450108",
+        "in_reply_to_user_id": "1549627171240816640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061390517435236717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BDsirius 不可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 161,
+          "like_count": 6765,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 872
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T05:28:13.000Z",
+        "description": "𝙁𝙊𝙍𝙀𝙑𝙀𝙍 𝙔𝙊𝙐𝙉𝙂",
+        "id": "1549627171240816640",
+        "location": "河北省",
+        "name": "𝙆𝙞𝙨𝙨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867448803629871104/Ojt2MTNU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 2,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "BDsirius",
+        "verified": false
+      }
+    ]
+  }
+}

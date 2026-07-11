@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2032498081959477635",
+    "created_at": "2026-03-15T15:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T16:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033199662908547240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797867777497452545",
+          "start": 0,
+          "username": "fzjew22792435"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033199662908547240",
+    "in_reply_to_user_id": "1797867777497452545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033199025818927346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fzjew22792435 有啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2032498081959477635",
+        "created_at": "2026-03-15T15:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033199662908547240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797867777497452545",
+              "start": 0,
+              "username": "fzjew22792435"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033199662908547240",
+        "in_reply_to_user_id": "1797867777497452545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033199025818927346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fzjew22792435 有啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797867777497452545",
+        "conversation_id": "2032498081959477635",
+        "created_at": "2026-03-15T15:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033199025818927346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033199025818927346",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032498081959477635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 我这里也有别的好玩的，来看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 37,
+          "like_count": 3049,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 145
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T05:47:55.000Z",
+        "description": "哈利实验室🧪https://t.co/nTRRQeC8Bt 欢迎进群",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+jsZgMnfVCAQyY…",
+                "end": 29,
+                "expanded_url": "https://t.me/+jsZgMnfVCAQyYzY1",
+                "start": 6,
+                "url": "https://t.co/nTRRQeC8Bt"
+              }
+            ]
+          }
+        },
+        "id": "1797867777497452545",
+        "name": "哈利实验室专精冰果麻果模拟绿魔",
+        "pinned_tweet_id": "2032469690224984336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971897752931164160/Xgd0_a86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 49,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 87
+        },
+        "username": "fzjew22792435",
+        "verified": false
+      }
+    ]
+  }
+}

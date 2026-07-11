@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2065026751257100409",
+    "created_at": "2026-06-11T21:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T22:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065178445810905279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974180019108032512",
+          "start": 0,
+          "username": "aizuoaixixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065178445810905279",
+    "in_reply_to_user_id": "1974180019108032512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065083796920438846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aizuoaixixi 谢谢你呀！😭😭😭😭💖💖💖💖💖💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2065026751257100409",
+        "created_at": "2026-06-11T21:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T22:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065178445810905279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974180019108032512",
+              "start": 0,
+              "username": "aizuoaixixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065178445810905279",
+        "in_reply_to_user_id": "1974180019108032512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065083796920438846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aizuoaixixi 谢谢你呀！😭😭😭😭💖💖💖💖💖💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974180019108032512",
+        "conversation_id": "2065026751257100409",
+        "created_at": "2026-06-11T14:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065083796920438846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065083796920438846",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065026751257100409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 可是你很好看呀，素颜也好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 218,
+          "like_count": 7605,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1137
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T18:29:40.000Z",
+        "description": "喜欢色色，三观还是正的，讨厌人机，喜欢热闹，聊天",
+        "id": "1974180019108032512",
+        "name": "推推推",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064281503560007680/i7V5_Ash_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 121,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 127
+        },
+        "username": "aizuoaixixi",
+        "verified": false
+      }
+    ]
+  }
+}

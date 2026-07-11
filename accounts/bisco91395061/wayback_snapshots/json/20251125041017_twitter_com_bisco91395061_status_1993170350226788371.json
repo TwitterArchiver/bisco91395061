@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "1993170350226788371",
+    "created_at": "2025-11-25T04:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T05:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993170350226788371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "69455592",
+          "start": 3,
+          "username": "WhiskeLtd"
+        },
+        {
+          "end": 92,
+          "id": "69455592",
+          "start": 82,
+          "username": "WhiskeLtd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993170350226788371",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 863
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993152727103512727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WhiskeLtd: 一口でわかる、飲みやすさ！\n今夜はバスカーハイボールで乾杯🙌\n\nフォロー＆リポストで、\n合計100名様にミニボトル🎁\n\n応募方法\n① @WhiskeLtd をフォロー\n② 11/26 11:59までにリポスト\n③ 当選者のみDMでご連絡\n\nオリジナ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1988521127015264256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ilbewasAAgZs3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "1993170350226788371",
+        "created_at": "2025-11-25T04:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993170350226788371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "69455592",
+              "start": 3,
+              "username": "WhiskeLtd"
+            },
+            {
+              "end": 92,
+              "id": "69455592",
+              "start": 82,
+              "username": "WhiskeLtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993170350226788371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 863
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993152727103512727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WhiskeLtd: 一口でわかる、飲みやすさ！\n今夜はバスカーハイボールで乾杯🙌\n\nフォロー＆リポストで、\n合計100名様にミニボトル🎁\n\n応募方法\n① @WhiskeLtd をフォロー\n② 11/26 11:59までにリポスト\n③ 当選者のみDMでご連絡\n\nオリジナ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988521127015264256"
+          ]
+        },
+        "author_id": "69455592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1993152727103512727",
+        "created_at": "2025-11-25T03:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993152727103512727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 77,
+              "id": "69455592",
+              "start": 67,
+              "username": "WhiskeLtd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2TpxmIAUE",
+              "end": 168,
+              "expanded_url": "https://x.com/WhiskeLtd/status/1993152727103512727/photo/1",
+              "media_key": "3_1988521127015264256",
+              "start": 145,
+              "url": "https://t.co/g2TpxmIAUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993152727103512727",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 4391,
+          "like_count": 204,
+          "quote_count": 74,
+          "reply_count": 9,
+          "retweet_count": 863
+        },
+        "reply_settings": "everyone",
+        "text": "一口でわかる、飲みやすさ！\n今夜はバスカーハイボールで乾杯🙌\n\nフォロー＆リポストで、\n合計100名様にミニボトル🎁\n\n応募方法\n① @WhiskeLtd をフォロー\n② 11/26 11:59までにリポスト\n③ 当選者のみDMでご連絡\n\nオリジナルハイボールグラスが当たるWチャンスも！ https://t.co/g2TpxmIAUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰ウイスキーも少し勉強中、ウマ娘も少し、ファジアーノも",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981275771931942912/DkGP4QSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 179,
+          "like_count": 2370,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 210
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-28T00:38:41.000Z",
+        "description": "洋酒インポーター、ウィスク・イーの公式アカウントです🌏🥃 世界中から自ら選定したこだわりのウイスキーやジン、ラム、リキュール、ビールを輸入し『これまでになかったお酒の選択肢』を提供します🍸 洋酒の美味しい飲み方や、期間限定のイベント、キャンペーン、新商品情報などをつぶやきます💭 ★フォローは20歳以上限定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whisk-e.co.jp",
+                "end": 23,
+                "expanded_url": "https://whisk-e.co.jp/",
+                "start": 0,
+                "url": "https://t.co/QWitouAtp4"
+              }
+            ]
+          }
+        },
+        "id": "69455592",
+        "location": "Tokyo, Japan",
+        "name": "ウィスク・イー｜洋酒インポーター",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807584816705294336/Zn_CghX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56074,
+          "following_count": 533,
+          "like_count": 22900,
+          "listed_count": 259,
+          "media_count": 190347,
+          "tweet_count": 196885
+        },
+        "url": "https://t.co/QWitouAtp4",
+        "username": "WhiskeLtd",
+        "verified": true
+      }
+    ]
+  }
+}

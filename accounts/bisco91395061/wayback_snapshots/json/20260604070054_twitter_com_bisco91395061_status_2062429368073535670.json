@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2062429368073535670",
+    "created_at": "2026-06-04T07:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062429368073535670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JRAVAN_info/st…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/JRAVAN_info/status/2062082119753740584",
+          "start": 22,
+          "url": "https://t.co/X5O2kHo2sJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062429368073535670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062082119753740584",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "セリフォス：偏我来时不逢春，偏我去时春满堂 https://t.co/X5O2kHo2sJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2062082108869464065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ38wKzaUAEYVNk.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2062429368073535670",
+        "created_at": "2026-06-04T07:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062429368073535670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JRAVAN_info/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/JRAVAN_info/status/2062082119753740584",
+              "start": 22,
+              "url": "https://t.co/X5O2kHo2sJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062429368073535670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062082119753740584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "セリフォス：偏我来时不逢春，偏我去时春满堂 https://t.co/X5O2kHo2sJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062082108869464065"
+          ]
+        },
+        "author_id": "158947371",
+        "conversation_id": "2062082119753740584",
+        "created_at": "2026-06-03T08:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062082119753740584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ar.jra-van.jp/android/deepli…",
+              "end": 70,
+              "expanded_url": "https://ar.jra-van.jp/android/deeplink_article.html?arg1=A004&id=2606031001",
+              "start": 47,
+              "status": 200,
+              "title": "JRA-VAN | アプリ起動",
+              "unwound_url": "https://ar.jra-van.jp/android/deeplink_article.html?arg1=A004&id=2606031001",
+              "url": "https://t.co/c9kcVRfJyu"
+            },
+            {
+              "display_url": "pic.x.com/4Wy3XE0Xdb",
+              "end": 94,
+              "expanded_url": "https://x.com/JRAVAN_info/status/2062082119753740584/photo/1",
+              "media_key": "3_2062082108869464065",
+              "start": 71,
+              "url": "https://t.co/4Wy3XE0Xdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062082119753740584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 55885,
+          "like_count": 1727,
+          "quote_count": 15,
+          "reply_count": 1,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "【重賞見どころ・安田記念】王者不在のマイル王決定戦、7歳ガイアフォースGI初制覇の好機到来\n\nhttps://t.co/c9kcVRfJyu https://t.co/4Wy3XE0Xdb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 163,
+          "like_count": 6975,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 902
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-24T02:16:11.000Z",
+        "description": "競馬予想/競馬情報ならJRA公式データ配信サービス\n#JRAVAN🏇💻📱\n\nInstagram▶️https://t.co/hvZCIrqBYP\nYouTube📺https://t.co/x5LShemGYn\nSNS利用規約📝https://t.co/H00ubKBtIW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 26,
+                "tag": "JRAVAN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/3hpFSJx",
+                "end": 72,
+                "expanded_url": "http://bit.ly/3hpFSJx",
+                "start": 49,
+                "url": "https://t.co/hvZCIrqBYP"
+              },
+              {
+                "display_url": "bit.ly/3uPLAHt",
+                "end": 104,
+                "expanded_url": "http://bit.ly/3uPLAHt",
+                "start": 81,
+                "url": "https://t.co/x5LShemGYn"
+              },
+              {
+                "display_url": "bit.ly/3HDvkkO",
+                "end": 136,
+                "expanded_url": "http://bit.ly/3HDvkkO",
+                "start": 113,
+                "url": "https://t.co/H00ubKBtIW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/47DXs0p",
+                "end": 23,
+                "expanded_url": "https://bit.ly/47DXs0p",
+                "start": 0,
+                "url": "https://t.co/7TBvIN942T"
+              }
+            ]
+          }
+        },
+        "id": "158947371",
+        "location": "公式HP",
+        "name": "JRA-VAN公式",
+        "pinned_tweet_id": "2061649505045377257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1289144876869644288/RryNOU7u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302165,
+          "following_count": 71,
+          "like_count": 1139,
+          "listed_count": 1844,
+          "media_count": 30804,
+          "tweet_count": 34187
+        },
+        "url": "https://t.co/7TBvIN942T",
+        "username": "JRAVAN_info",
+        "verified": true
+      }
+    ]
+  }
+}

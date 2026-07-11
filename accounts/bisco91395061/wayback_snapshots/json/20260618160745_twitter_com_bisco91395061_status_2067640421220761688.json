@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2067505556190011591",
+    "created_at": "2026-06-18T16:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067640421220761688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066912899738828800",
+          "start": 0,
+          "username": "Qiouqiou9297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067640421220761688",
+    "in_reply_to_user_id": "2066912899738828800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067635916458647643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiouqiou9297 对的呀，可以来找我约稿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2067505556190011591",
+        "created_at": "2026-06-18T16:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067640421220761688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066912899738828800",
+              "start": 0,
+              "username": "Qiouqiou9297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067640421220761688",
+        "in_reply_to_user_id": "2066912899738828800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067635916458647643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiouqiou9297 对的呀，可以来找我约稿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066912899738828800",
+        "conversation_id": "2067505556190011591",
+        "created_at": "2026-06-18T15:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067635916458647643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067635916458647643",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067505556190011591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 这么便宜吗！？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 282,
+          "like_count": 8247,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1451
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T15:57:50.000Z",
+        "description": "我重生了！@qiouqiou0114 有割有负面，无性别主义（但喜欢被叫姐姐hh）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "qiouqiou0114"
+              }
+            ]
+          }
+        },
+        "id": "2066912899738828800",
+        "name": "Qiou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066914283829809152/0R6Nfymf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 47,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 50
+        },
+        "username": "Qiouqiou9297",
+        "verified": false
+      }
+    ]
+  }
+}

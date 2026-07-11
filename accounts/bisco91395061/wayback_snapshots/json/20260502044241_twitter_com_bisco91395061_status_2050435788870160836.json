@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2050266190665388506",
+    "created_at": "2026-05-02T04:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T05:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050435788870160836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1663368579587162117",
+          "start": 0,
+          "username": "jiashengpandong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050435788870160836",
+    "in_reply_to_user_id": "1663368579587162117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050403382708539693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiashengpandong 么么哒呀！！🥺🥺🤲🤲❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2050266190665388506",
+        "created_at": "2026-05-02T04:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050435788870160836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1663368579587162117",
+              "start": 0,
+              "username": "jiashengpandong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050435788870160836",
+        "in_reply_to_user_id": "1663368579587162117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050403382708539693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiashengpandong 么么哒呀！！🥺🥺🤲🤲❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663368579587162117",
+        "conversation_id": "2050266190665388506",
+        "created_at": "2026-05-02T02:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050403382708539693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050403382708539693",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050266190665388506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 好可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜低浮上",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "愛我請給我pr80",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 98,
+          "like_count": 4634,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 473
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T02:15:59.000Z",
+        "description": "",
+        "id": "1663368579587162117",
+        "name": "夹生潘东。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014190260805378048/yGzBKNhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 76,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 446
+        },
+        "username": "jiashengpandong",
+        "verified": false
+      }
+    ]
+  }
+}

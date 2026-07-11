@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2063120886333599912",
+    "created_at": "2026-06-06T13:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063257553975525532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863482901670895616",
+          "start": 0,
+          "username": "osborn_11s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063257553975525532",
+    "in_reply_to_user_id": "1863482901670895616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063256292299526316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@osborn_11s 对。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2063120886333599912",
+        "created_at": "2026-06-06T13:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063257553975525532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863482901670895616",
+              "start": 0,
+              "username": "osborn_11s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063257553975525532",
+        "in_reply_to_user_id": "1863482901670895616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063256292299526316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osborn_11s 对。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863482901670895616",
+        "conversation_id": "2063120886333599912",
+        "created_at": "2026-06-06T13:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063256292299526316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063256292299526316",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063120886333599912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 好力竭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 183,
+          "like_count": 7252,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 984
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T07:19:18.000Z",
+        "description": "上学中…┊摩羯座┊ ♀\n动漫/漫画/小说/动物/风景 /恐怖电影\n感情比较重且麻烦的性格，非常敏感，胡思乱想、存在负能量、发疯、如果不介意请和我做朋友吧！会看消息会好好回复的，什么废话都可以！给我发私信的话绝对会认真回复的！(´･ω･`)」",
+        "id": "1863482901670895616",
+        "name": "塩漬けの魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062058692858757120/EKCBJgO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 93,
+          "like_count": 1768,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 396
+        },
+        "username": "osborn_11s",
+        "verified": false
+      }
+    ]
+  }
+}

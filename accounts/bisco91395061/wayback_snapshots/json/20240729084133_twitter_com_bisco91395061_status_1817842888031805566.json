@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1235998170233991168",
+          "name": "Sneakers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "846810837301932032",
+          "name": "Shoes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1235998170233991168",
+          "name": "Sneakers"
+        }
+      }
+    ],
+    "conversation_id": "1817842888031805566",
+    "created_at": "2024-07-29T08:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T09:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817842888031805566"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "久保嘉晴",
+          "probability": 0.9629,
+          "start": 20,
+          "type": "Person"
+        },
+        {
+          "end": 42,
+          "normalized_text": "伝説の11人抜き",
+          "probability": 0.4498,
+          "start": 35,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1575856103388508167",
+          "start": 3,
+          "username": "Tsukasa_Oshima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817842888031805566",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817841386533843258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tsukasa_Oshima: 久保嘉晴の誕生日を記念して、『伝説の11人抜き』スニーカーを発売開始！\nゴール・トゥ・ゴールの名シーンを厳選して、デザインしました！\n\nこのスニーカーで、みんなも通行人を『伝説の11人抜き』してください！\n\nリポストした方、1名様にサイン…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846810837301932032",
+              "name": "Shoes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          }
+        ],
+        "conversation_id": "1817842888031805566",
+        "created_at": "2024-07-29T08:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T09:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817842888031805566"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "久保嘉晴",
+              "probability": 0.9629,
+              "start": 20,
+              "type": "Person"
+            },
+            {
+              "end": 42,
+              "normalized_text": "伝説の11人抜き",
+              "probability": 0.4498,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1575856103388508167",
+              "start": 3,
+              "username": "Tsukasa_Oshima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817842888031805566",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817841386533843258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tsukasa_Oshima: 久保嘉晴の誕生日を記念して、『伝説の11人抜き』スニーカーを発売開始！\nゴール・トゥ・ゴールの名シーンを厳選して、デザインしました！\n\nこのスニーカーで、みんなも通行人を『伝説の11人抜き』してください！\n\nリポストした方、1名様にサイン…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817841378136875008",
+            "3_1817841378145267712",
+            "3_1817841378166218752",
+            "3_1817841378145300480"
+          ]
+        },
+        "author_id": "1575856103388508167",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846810837301932032",
+              "name": "Shoes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          }
+        ],
+        "conversation_id": "1817841386533843258",
+        "created_at": "2024-07-29T08:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T09:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817841386533843258"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "久保嘉晴",
+              "probability": 0.9784,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 22,
+              "normalized_text": "伝説の11人抜き",
+              "probability": 0.4805,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "manga-shoes.com",
+              "end": 157,
+              "expanded_url": "https://www.manga-shoes.com",
+              "start": 134,
+              "unwound_url": "https://www.manga-shoes.com",
+              "url": "https://t.co/1GM2lixdL0"
+            },
+            {
+              "display_url": "pic.twitter.com/L8yDzuKsu9",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Tsukasa_Oshima/status/1817841386533843258/photo/1",
+              "media_key": "3_1817841378136875008",
+              "start": 158,
+              "url": "https://t.co/L8yDzuKsu9"
+            },
+            {
+              "display_url": "pic.twitter.com/L8yDzuKsu9",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Tsukasa_Oshima/status/1817841386533843258/photo/1",
+              "media_key": "3_1817841378145267712",
+              "start": 158,
+              "url": "https://t.co/L8yDzuKsu9"
+            },
+            {
+              "display_url": "pic.twitter.com/L8yDzuKsu9",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Tsukasa_Oshima/status/1817841386533843258/photo/1",
+              "media_key": "3_1817841378166218752",
+              "start": 158,
+              "url": "https://t.co/L8yDzuKsu9"
+            },
+            {
+              "display_url": "pic.twitter.com/L8yDzuKsu9",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Tsukasa_Oshima/status/1817841386533843258/photo/1",
+              "media_key": "3_1817841378145300480",
+              "start": 158,
+              "url": "https://t.co/L8yDzuKsu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817841386533843258",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 25,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "久保嘉晴の誕生日を記念して、『伝説の11人抜き』スニーカーを発売開始！\nゴール・トゥ・ゴールの名シーンを厳選して、デザインしました！\n\nこのスニーカーで、みんなも通行人を『伝説の11人抜き』してください！\n\nリポストした方、1名様にサイン入りスニーカープレゼント！\n\nhttps://t.co/1GM2lixdL0 https://t.co/L8yDzuKsu9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰2022.9月から洗車はじめました！皆さん、色々と教えて下さい🙇🏻‍♂️ ウィスキーも少し勉強中",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602223879472427008/pvTqSHmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 151,
+          "like_count": 2266,
+          "listed_count": 0,
+          "tweet_count": 182
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T14:35:25.000Z",
+        "description": "漫画家の大島司です。 『シュート！』『アタック‼︎』などを描いてます。掛川ふるさと応援大使。 投稿はスタッフを中心に、時々本人も登場します。時々返信するかもしれません。よろしくお願いします。問い合わせはコチラ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boa-sorte.jp/contact/",
+                "end": 23,
+                "expanded_url": "http://boa-sorte.jp/contact/",
+                "start": 0,
+                "url": "https://t.co/47vN2TMwk3"
+              }
+            ]
+          }
+        },
+        "id": "1575856103388508167",
+        "name": "大島司",
+        "pinned_tweet_id": "1817841386533843258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598288612277166080/v6L89L1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3354,
+          "following_count": 9,
+          "like_count": 127,
+          "listed_count": 18,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/47vN2TMwk3",
+        "username": "Tsukasa_Oshima",
+        "verified": false
+      }
+    ]
+  }
+}

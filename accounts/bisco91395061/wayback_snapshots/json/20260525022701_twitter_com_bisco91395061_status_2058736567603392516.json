@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058470944793137152"
+      ],
+      "media_source_tweet_id": [
+        "2058470951076118929"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2058736567603392516",
+    "created_at": "2026-05-25T02:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T03:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058736567603392516"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "ジュウリョクピエロ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "828862113124798466",
+          "start": 3,
+          "username": "cosinerein"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bKdIhAbMrd",
+          "end": 65,
+          "expanded_url": "https://x.com/cosinerein/status/2058470951076118929/photo/1",
+          "media_key": "3_2058470944793137152",
+          "start": 42,
+          "url": "https://t.co/bKdIhAbMrd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058736567603392516",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 463
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058470951076118929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cosinerein: #ジュウリョクピエロ \n本当におめでとうございます https://t.co/bKdIhAbMrd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1127,
+        "media_key": "3_2058470944793137152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEoawTbkAAuEZp.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058470944793137152"
+          ],
+          "media_source_tweet_id": [
+            "2058470951076118929"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2058736567603392516",
+        "created_at": "2026-05-25T02:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058736567603392516"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "ジュウリョクピエロ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "828862113124798466",
+              "start": 3,
+              "username": "cosinerein"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKdIhAbMrd",
+              "end": 65,
+              "expanded_url": "https://x.com/cosinerein/status/2058470951076118929/photo/1",
+              "media_key": "3_2058470944793137152",
+              "start": 42,
+              "url": "https://t.co/bKdIhAbMrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058736567603392516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 463
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058470951076118929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cosinerein: #ジュウリョクピエロ \n本当におめでとうございます https://t.co/bKdIhAbMrd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058470944793137152"
+          ]
+        },
+        "author_id": "828862113124798466",
+        "conversation_id": "2058470951076118929",
+        "created_at": "2026-05-24T08:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058470951076118929"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "ジュウリョクピエロ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKdIhAbMrd",
+              "end": 49,
+              "expanded_url": "https://x.com/cosinerein/status/2058470951076118929/photo/1",
+              "media_key": "3_2058470944793137152",
+              "start": 26,
+              "url": "https://t.co/bKdIhAbMrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058470951076118929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 23787,
+          "like_count": 2811,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 463
+        },
+        "reply_settings": "everyone",
+        "text": "#ジュウリョクピエロ \n本当におめでとうございます https://t.co/bKdIhAbMrd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 137,
+          "like_count": 6248,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 762
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-07T07:05:02.000Z",
+        "description": "0U（零攸/Rein）/成人済/低浮上/今は青空(blsk)で活動",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/cosine…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/cosinerein.bsky.social",
+                "start": 0,
+                "url": "https://t.co/4tOTgkGAZq"
+              }
+            ]
+          }
+        },
+        "id": "828862113124798466",
+        "location": "外星球",
+        "name": "0U_Rein",
+        "pinned_tweet_id": "1928848211155763644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915056601188433920/xKnurSKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 446,
+          "like_count": 4718,
+          "listed_count": 9,
+          "media_count": 681,
+          "tweet_count": 2345
+        },
+        "url": "https://t.co/4tOTgkGAZq",
+        "username": "cosinerein",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2062732146134196488",
+    "created_at": "2026-06-05T09:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T10:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062832824596762737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1564994200856236032",
+          "start": 0,
+          "username": "N3umu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062832824596762737",
+    "in_reply_to_user_id": "1564994200856236032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062732146134196488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3umu 很喜欢鲨鱼的人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 969,
+        "media_key": "3_2062732142334119936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBL9GKbEAAOQc3.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2062732146134196488",
+        "created_at": "2026-06-05T09:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062832824596762737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1564994200856236032",
+              "start": 0,
+              "username": "N3umu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062832824596762737",
+        "in_reply_to_user_id": "1564994200856236032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062732146134196488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3umu 很喜欢鲨鱼的人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062732142334119936"
+          ]
+        },
+        "author_id": "1564994200856236032",
+        "conversation_id": "2062732146134196488",
+        "created_at": "2026-06-05T03:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062732146134196488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7BtuEJnGy",
+              "end": 36,
+              "expanded_url": "https://x.com/N3umu/status/2062732146134196488/photo/1",
+              "media_key": "3_2062732142334119936",
+              "start": 13,
+              "url": "https://t.co/o7BtuEJnGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062732146134196488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 550,
+          "impression_count": 419336,
+          "like_count": 17197,
+          "quote_count": 415,
+          "reply_count": 234,
+          "retweet_count": 1503
+        },
+        "reply_settings": "everyone",
+        "text": "どんな人間が住んでるの？ https://t.co/o7BtuEJnGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 171,
+          "like_count": 7109,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 933
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T15:11:25.000Z",
+        "description": "爆笑できるツイートを投稿します！",
+        "id": "1564994200856236032",
+        "name": "爆笑ツイート図鑑",
+        "pinned_tweet_id": "2050375839196586475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032418503719075841/_Vvnt8vx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20665,
+          "following_count": 4241,
+          "like_count": 8992,
+          "listed_count": 46,
+          "media_count": 2143,
+          "tweet_count": 17200
+        },
+        "username": "N3umu",
+        "verified": true
+      }
+    ]
+  }
+}

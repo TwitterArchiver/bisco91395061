@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021992521581371392"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity collects general conversations about being happy and wanting happiness.",
+          "id": "920763700193083392",
+          "name": "Happiness"
+        }
+      }
+    ],
+    "conversation_id": "2021992532218130871",
+    "created_at": "2026-02-12T16:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021992532218130871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E22BfaAB1K",
+          "end": 85,
+          "expanded_url": "https://x.com/bisco91395061/status/2021992532218130871/photo/1",
+          "media_key": "3_2021992521581371392",
+          "start": 62,
+          "url": "https://t.co/E22BfaAB1K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021992532218130871",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这份Tom Yum，a thrill for your taste buds，一口下去it's really 幸福感爆棚。 https://t.co/E22BfaAB1K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2021992521581371392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-PfENaoAAIKLb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021992521581371392"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity collects general conversations about being happy and wanting happiness.",
+              "id": "920763700193083392",
+              "name": "Happiness"
+            }
+          }
+        ],
+        "conversation_id": "2021992532218130871",
+        "created_at": "2026-02-12T16:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021992532218130871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E22BfaAB1K",
+              "end": 85,
+              "expanded_url": "https://x.com/bisco91395061/status/2021992532218130871/photo/1",
+              "media_key": "3_2021992521581371392",
+              "start": 62,
+              "url": "https://t.co/E22BfaAB1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021992532218130871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这份Tom Yum，a thrill for your taste buds，一口下去it's really 幸福感爆棚。 https://t.co/E22BfaAB1K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰ウイスキーも少し勉強中、ウマ娘も少し、ファジアーノも",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981275771931942912/DkGP4QSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 186,
+          "like_count": 2395,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 219
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

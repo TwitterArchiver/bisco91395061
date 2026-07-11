@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2058766467437609260",
+    "created_at": "2026-05-25T10:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058858664702927205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044068992491585536",
+          "start": 0,
+          "username": "Lingling527527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058858664702927205",
+    "in_reply_to_user_id": "2044068992491585536",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058857919068909974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lingling527527 4t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2058766467437609260",
+        "created_at": "2026-05-25T10:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058858664702927205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044068992491585536",
+              "start": 0,
+              "username": "Lingling527527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058858664702927205",
+        "in_reply_to_user_id": "2044068992491585536",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058857919068909974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lingling527527 4t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044068992491585536",
+        "conversation_id": "2058766467437609260",
+        "created_at": "2026-05-25T10:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058857919068909974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058857919068909974",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058766467437609260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 o了多少t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 139,
+          "like_count": 6293,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 779
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T15:03:53.000Z",
+        "description": "2011/od/自残/cos \n来和我互fo喵我很温良喵",
+        "id": "2044068992491585536",
+        "location": "青少年灾难",
+        "name": "Lingling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057483065837207552/9bYYyodb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 41,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 78
+        },
+        "username": "Lingling527527",
+        "verified": false
+      }
+    ]
+  }
+}

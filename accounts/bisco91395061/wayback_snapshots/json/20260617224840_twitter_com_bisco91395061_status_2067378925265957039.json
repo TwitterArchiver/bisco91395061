@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2067378925265957039",
+    "created_at": "2026-06-17T22:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T23:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067378925265957039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/baibaishuishui…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/baibaishuishui/status/2067250210905235696",
+          "start": 11,
+          "url": "https://t.co/Ob1NjeHsvX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067378925265957039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067250210905235696",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前者堪比中一百万彩票 https://t.co/Ob1NjeHsvX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2067378925265957039",
+        "created_at": "2026-06-17T22:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T23:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067378925265957039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baibaishuishui…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/baibaishuishui/status/2067250210905235696",
+              "start": 11,
+              "url": "https://t.co/Ob1NjeHsvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067378925265957039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067250210905235696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前者堪比中一百万彩票 https://t.co/Ob1NjeHsvX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228350726981574656",
+        "conversation_id": "2067250210905235696",
+        "created_at": "2026-06-17T14:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067250210905235696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067250210905235696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3348,
+          "like_count": 88,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推特上的人分为真心觉得你好的和只想跟你做爱的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 273,
+          "like_count": 8101,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1379
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T16:10:28.000Z",
+        "description": "每个今天，都是我能爱你的最后一天。\n🎺@iamlinquan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "iamlinquan"
+              }
+            ]
+          }
+        },
+        "id": "1228350726981574656",
+        "name": "泉、",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999347434498170880/utw-FjM__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 1013,
+          "like_count": 28273,
+          "listed_count": 4,
+          "media_count": 700,
+          "tweet_count": 10532
+        },
+        "username": "baibaishuishui",
+        "verified": false
+      }
+    ]
+  }
+}

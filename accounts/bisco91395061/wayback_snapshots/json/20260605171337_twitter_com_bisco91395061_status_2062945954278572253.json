@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062944413601673216",
+        "3_2062945816390860800",
+        "3_2062944541226024960"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2062945954278572253",
+    "created_at": "2026-06-05T17:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062945954278572253"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "门槛"
+        },
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "妹妹系"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "贫乳"
+        },
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "门槛妹"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pQp6ADqy7y",
+          "end": 69,
+          "expanded_url": "https://x.com/bisco91395061/status/2062945954278572253/photo/1",
+          "media_key": "3_2062944413601673216",
+          "start": 46,
+          "url": "https://t.co/pQp6ADqy7y"
+        },
+        {
+          "display_url": "pic.x.com/pQp6ADqy7y",
+          "end": 69,
+          "expanded_url": "https://x.com/bisco91395061/status/2062945954278572253/photo/1",
+          "media_key": "3_2062945816390860800",
+          "start": 46,
+          "url": "https://t.co/pQp6ADqy7y"
+        },
+        {
+          "display_url": "pic.x.com/pQp6ADqy7y",
+          "end": 69,
+          "expanded_url": "https://x.com/bisco91395061/status/2062945954278572253/photo/1",
+          "media_key": "3_2062944541226024960",
+          "start": 46,
+          "url": "https://t.co/pQp6ADqy7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062945954278572253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "营业一下，已标记敏感内容\nᶻz ₍^_   ̫ _^₎\n#门槛 #妹妹系 #贫乳 #门槛妹 https://t.co/pQp6ADqy7y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062945954278572253].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062945954278572253",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062945954278572253"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2062944413601673216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKENA6QasAALK7M.jpg",
+        "width": 2295
+      },
+      {
+        "height": 3510,
+        "media_key": "3_2062945816390860800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEOSkDbAAAAIa5.jpg",
+        "width": 2210
+      },
+      {
+        "height": 3696,
+        "media_key": "3_2062944541226024960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKENIVsbwAAge8c.jpg",
+        "width": 2295
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 174,
+          "like_count": 7134,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 945
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2063125934337937745",
+    "created_at": "2026-06-06T05:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T06:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063125934337937745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1968940871660744705",
+          "start": 3,
+          "username": "guest07080279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063125934337937745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063123323765326292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guest07080279: 没想到这么快就得到了第二个互绘的回应！我一定会加快进度的🥺🥺…\n\n​まさかこんなに早く2回目の描き合いのお返事をいただけるなんて…！\nもっとペースを上げて、がんばって描きますね🥺🥺…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2063125934337937745",
+        "created_at": "2026-06-06T05:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063125934337937745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1968940871660744705",
+              "start": 3,
+              "username": "guest07080279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063125934337937745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063123323765326292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guest07080279: 没想到这么快就得到了第二个互绘的回应！我一定会加快进度的🥺🥺…\n\n​まさかこんなに早く2回目の描き合いのお返事をいただけるなんて…！\nもっとペースを上げて、がんばって描きますね🥺🥺…！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968940871660744705",
+        "conversation_id": "2063123323765326292",
+        "created_at": "2026-06-06T04:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063123323765326292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bisco91395061/…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/bisco91395061/status/2062914938189013294",
+              "start": 93,
+              "url": "https://t.co/3KG2PapVwN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063123323765326292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062914938189013294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没想到这么快就得到了第二个互绘的回应！我一定会加快进度的🥺🥺…\n\n​まさかこんなに早く2回目の描き合いのお返事をいただけるなんて…！\nもっとペースを上げて、がんばって描きますね🥺🥺…！ https://t.co/3KG2PapVwN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 174,
+          "like_count": 7167,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 949
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T07:31:18.000Z",
+        "description": "画画人超级大进击！欢迎来和我玩🥺🥺！！\n    💖DM大欢迎！💖\n   无言关注失礼了！是超级喜欢或者感觉超级有潜力的意思🥺！\n🔥画🔥画🔥屌🔥丝🔥火🔥热🔥画🔥史🔥",
+        "id": "1968940871660744705",
+        "name": "砂",
+        "pinned_tweet_id": "2062542955978834134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050055162207846400/9aL-7zhd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 29,
+          "like_count": 8217,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 238
+        },
+        "username": "guest07080279",
+        "verified": false
+      }
+    ]
+  }
+}

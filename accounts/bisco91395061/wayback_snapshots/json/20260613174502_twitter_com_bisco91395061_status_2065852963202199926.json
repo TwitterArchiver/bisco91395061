@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2065852963202199926",
+    "created_at": "2026-06-13T17:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065852963202199926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047087056401170432",
+          "start": 3,
+          "username": "Ange1na16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065852963202199926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065767415309279504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ange1na16: 男大 小帅。这俩称呼对我来说特别没有吸引力。请不要这样介绍自己。很没意思。很那个。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2065852963202199926",
+        "created_at": "2026-06-13T17:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065852963202199926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047087056401170432",
+              "start": 3,
+              "username": "Ange1na16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065852963202199926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065767415309279504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ange1na16: 男大 小帅。这俩称呼对我来说特别没有吸引力。请不要这样介绍自己。很没意思。很那个。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047087056401170432",
+        "conversation_id": "2065767415309279504",
+        "created_at": "2026-06-13T12:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065767415309279504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065767415309279504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3464,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "男大 小帅。这俩称呼对我来说特别没有吸引力。请不要这样介绍自己。很没意思。很那个。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2065026751257100409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 240,
+          "like_count": 7790,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1242
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T22:59:27.000Z",
+        "description": "可以只喜欢我一个人吗^ ^\n能不能直接甩口令红包狠狠爱我。\n第二人格@Aaaangel526\n蜜蜜鉴鸡超准。@ovoMiao1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "Aaaangel526"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "ovoMiao1"
+              }
+            ]
+          }
+        },
+        "id": "2047087056401170432",
+        "location": "鉴鸡5r/定制喘40/绿🚪88",
+        "name": "小蛋卷",
+        "pinned_tweet_id": "2061508392875630643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064296080486117376/8x6SI7lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 6,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 375
+        },
+        "username": "Ange1na16",
+        "verified": false
+      }
+    ]
+  }
+}

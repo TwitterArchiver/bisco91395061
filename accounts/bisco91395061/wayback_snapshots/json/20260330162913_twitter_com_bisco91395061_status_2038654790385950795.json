@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2038654790385950795",
+    "created_at": "2026-03-30T16:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T17:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038654790385950795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 29,
+          "id": "1549627171240816640",
+          "start": 20,
+          "username": "BDsirius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038654790385950795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "❤️💍征婚💍❤️\n药娘/男娘/男同/加 @BDsirius 是福瑞控加分，脚臭的加分，白袜体育生加分，成都的加分，爱看哪吒敖丙奶龙丹尼尔哈基米的加分\n必须是男同！诚意征！希望大家给他一个机会呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2038654790385950795",
+        "created_at": "2026-03-30T16:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038654790385950795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1549627171240816640",
+              "start": 20,
+              "username": "BDsirius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038654790385950795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "❤️💍征婚💍❤️\n药娘/男娘/男同/加 @BDsirius 是福瑞控加分，脚臭的加分，白袜体育生加分，成都的加分，爱看哪吒敖丙奶龙丹尼尔哈基米的加分\n必须是男同！诚意征！希望大家给他一个机会呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 56,
+          "like_count": 3589,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 268
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T05:28:13.000Z",
+        "description": "191/17/169 究极恋足癖恋袜癖",
+        "id": "1549627171240816640",
+        "location": "河北省",
+        "name": "山与",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867448803629871104/Ojt2MTNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 4,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "BDsirius",
+        "verified": false
+      }
+    ]
+  }
+}

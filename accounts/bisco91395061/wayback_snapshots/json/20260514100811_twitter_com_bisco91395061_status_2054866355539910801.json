@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2054835905689755782",
+    "created_at": "2026-05-14T10:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T11:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054866355539910801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1903126320697184257",
+          "start": 0,
+          "username": "cyberpsychosisR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054866355539910801",
+    "in_reply_to_user_id": "1903126320697184257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054844940317036703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyberpsychosisR wtf摸摸你。。。。。。。救命有点惨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2054835905689755782",
+        "created_at": "2026-05-14T10:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054866355539910801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1903126320697184257",
+              "start": 0,
+              "username": "cyberpsychosisR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054866355539910801",
+        "in_reply_to_user_id": "1903126320697184257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054844940317036703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyberpsychosisR wtf摸摸你。。。。。。。救命有点惨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903126320697184257",
+        "conversation_id": "2054835905689755782",
+        "created_at": "2026-05-14T08:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054844940317036703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054844940317036703",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054843323593142543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 我吃白兔也没有药效😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 118,
+          "like_count": 5444,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 637
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T16:47:36.000Z",
+        "description": "",
+        "id": "1903126320697184257",
+        "name": "!",
+        "pinned_tweet_id": "2022350519948529841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054754986857517056/d5sAdCn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 191,
+          "like_count": 9537,
+          "listed_count": 0,
+          "media_count": 711,
+          "tweet_count": 5804
+        },
+        "username": "cyberpsychosisR",
+        "verified": false
+      }
+    ]
+  }
+}

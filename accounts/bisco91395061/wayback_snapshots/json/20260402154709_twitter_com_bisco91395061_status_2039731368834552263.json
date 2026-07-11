@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039731161732374529",
+        "3_2039731161816276993"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2039731368834552263",
+    "created_at": "2026-04-02T15:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039731368834552263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S2vlDEO11K",
+          "end": 55,
+          "expanded_url": "https://x.com/bisco91395061/status/2039731368834552263/photo/1",
+          "media_key": "3_2039731161732374529",
+          "start": 32,
+          "url": "https://t.co/S2vlDEO11K"
+        },
+        {
+          "display_url": "pic.x.com/S2vlDEO11K",
+          "end": 55,
+          "expanded_url": "https://x.com/bisco91395061/status/2039731368834552263/photo/1",
+          "media_key": "3_2039731161816276993",
+          "start": 32,
+          "url": "https://t.co/S2vlDEO11K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039731368834552263",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日宵夜：1500mg普瑞➕8t愈美➕一支美妙的茉莉奶绿冰激凌 https://t.co/S2vlDEO11K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2697,
+        "media_key": "3_2039731161732374529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6Ur0RaYAE-C00.jpg",
+        "width": 3559
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2039731161816276993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6Ur0laoAERpY3.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039731161732374529",
+            "3_2039731161816276993"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039731368834552263",
+        "created_at": "2026-04-02T15:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039731368834552263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2vlDEO11K",
+              "end": 55,
+              "expanded_url": "https://x.com/bisco91395061/status/2039731368834552263/photo/1",
+              "media_key": "3_2039731161732374529",
+              "start": 32,
+              "url": "https://t.co/S2vlDEO11K"
+            },
+            {
+              "display_url": "pic.x.com/S2vlDEO11K",
+              "end": 55,
+              "expanded_url": "https://x.com/bisco91395061/status/2039731368834552263/photo/1",
+              "media_key": "3_2039731161816276993",
+              "start": 32,
+              "url": "https://t.co/S2vlDEO11K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039731368834552263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日宵夜：1500mg普瑞➕8t愈美➕一支美妙的茉莉奶绿冰激凌 https://t.co/S2vlDEO11K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 56,
+          "like_count": 3661,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 290
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

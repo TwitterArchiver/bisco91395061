@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033476719978659840",
+        "3_2033476720700108800"
+      ],
+      "media_source_tweet_id": [
+        "2033476723757691143",
+        "2033476723757691143"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2034180440798658740",
+    "created_at": "2026-03-18T08:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T09:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034180440798658740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GfE1hD0hyR",
+          "end": 123,
+          "expanded_url": "https://x.com/DXMDusk/status/2033476723757691143/photo/1",
+          "media_key": "3_2033476719978659840",
+          "start": 100,
+          "url": "https://t.co/GfE1hD0hyR"
+        },
+        {
+          "display_url": "pic.x.com/GfE1hD0hyR",
+          "end": 123,
+          "expanded_url": "https://x.com/DXMDusk/status/2033476723757691143/photo/1",
+          "media_key": "3_2033476720700108800",
+          "start": 100,
+          "url": "https://t.co/GfE1hD0hyR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034180440798658740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033476723757691143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 你知道吗？\n\n它是可以种植的，它会生长发芽\n\n一次性撒播约3t\n大约每三天给他们喝一次西柚汁\n\n如果一切顺利，它看起来会像第二张图片一样\n高纯度右美沙芬晶体将会生长\n很美丽 https://t.co/GfE1hD0hyR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2033476719978659840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhcTZFawAAMKzX.jpg",
+        "width": 1456
+      },
+      {
+        "height": 2047,
+        "media_key": "3_2033476720700108800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhcTbxbMAAwl2j.jpg",
+        "width": 1427
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033476719978659840",
+            "3_2033476720700108800"
+          ],
+          "media_source_tweet_id": [
+            "2033476723757691143",
+            "2033476723757691143"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034180440798658740",
+        "created_at": "2026-03-18T08:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034180440798658740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfE1hD0hyR",
+              "end": 123,
+              "expanded_url": "https://x.com/DXMDusk/status/2033476723757691143/photo/1",
+              "media_key": "3_2033476719978659840",
+              "start": 100,
+              "url": "https://t.co/GfE1hD0hyR"
+            },
+            {
+              "display_url": "pic.x.com/GfE1hD0hyR",
+              "end": 123,
+              "expanded_url": "https://x.com/DXMDusk/status/2033476723757691143/photo/1",
+              "media_key": "3_2033476720700108800",
+              "start": 100,
+              "url": "https://t.co/GfE1hD0hyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034180440798658740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033476723757691143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 你知道吗？\n\n它是可以种植的，它会生长发芽\n\n一次性撒播约3t\n大约每三天给他们喝一次西柚汁\n\n如果一切顺利，它看起来会像第二张图片一样\n高纯度右美沙芬晶体将会生长\n很美丽 https://t.co/GfE1hD0hyR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033476719978659840",
+            "3_2033476720700108800"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2033476723757691143",
+        "created_at": "2026-03-16T09:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033476723757691143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfE1hD0hyR",
+              "end": 110,
+              "expanded_url": "https://x.com/DXMDusk/status/2033476723757691143/photo/1",
+              "media_key": "3_2033476719978659840",
+              "start": 87,
+              "url": "https://t.co/GfE1hD0hyR"
+            },
+            {
+              "display_url": "pic.x.com/GfE1hD0hyR",
+              "end": 110,
+              "expanded_url": "https://x.com/DXMDusk/status/2033476723757691143/photo/1",
+              "media_key": "3_2033476720700108800",
+              "start": 87,
+              "url": "https://t.co/GfE1hD0hyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033476723757691143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 15307,
+          "like_count": 153,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗？\n\n它是可以种植的，它会生长发芽\n\n一次性撒播约3t\n大约每三天给他们喝一次西柚汁\n\n如果一切顺利，它看起来会像第二张图片一样\n高纯度右美沙芬晶体将会生长\n很美丽 https://t.co/GfE1hD0hyR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 41,
+          "like_count": 3201,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 175
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 1027,
+          "like_count": 1793,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 1620
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

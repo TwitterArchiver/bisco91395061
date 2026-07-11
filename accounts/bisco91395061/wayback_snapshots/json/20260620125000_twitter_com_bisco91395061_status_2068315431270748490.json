@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2068311244487168299",
+    "created_at": "2026-06-20T12:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068315431270748490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2067692185324281857",
+          "start": 0,
+          "username": "Jfishyuyu1ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068315431270748490",
+    "in_reply_to_user_id": "2067692185324281857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068313822876569930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jfishyuyu1ovo 太萌了妹子我也是立马画好吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1998,
+        "media_key": "3_2068313783617925120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQgbYSXMAAhfKj.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2068311244487168299",
+        "created_at": "2026-06-20T12:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068315431270748490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2067692185324281857",
+              "start": 0,
+              "username": "Jfishyuyu1ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068315431270748490",
+        "in_reply_to_user_id": "2067692185324281857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068313822876569930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jfishyuyu1ovo 太萌了妹子我也是立马画好吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068313783617925120"
+          ]
+        },
+        "author_id": "2067692185324281857",
+        "conversation_id": "2068311244487168299",
+        "created_at": "2026-06-20T12:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068313822876569930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6sKDsFZc6",
+              "end": 44,
+              "expanded_url": "https://x.com/Jfishyuyu1ovo/status/2068313822876569930/photo/1",
+              "media_key": "3_2068313783617925120",
+              "start": 21,
+              "url": "https://t.co/j6sKDsFZc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068313822876569930",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068311244487168299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 宝宝俺想… https://t.co/j6sKDsFZc6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 307,
+          "like_count": 8455,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1516
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T19:35:51.000Z",
+        "description": "叫我洋芋就好｜垃圾碎碎念\n请问什么时候还给我回复的功能@Jfishyuyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Jfishyuyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jfishyuyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jfishyuyu",
+                "start": 0,
+                "url": "https://t.co/5WaQdlmXwl"
+              }
+            ]
+          }
+        },
+        "id": "2067692185324281857",
+        "name": "眠眠芋ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067920969147027456/8i_-Fotm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 27,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/5WaQdlmXwl",
+        "username": "Jfishyuyu1ovo",
+        "verified": false
+      }
+    ]
+  }
+}

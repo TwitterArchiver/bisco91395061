@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2065766846440112429",
+    "created_at": "2026-06-13T17:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065844936684249244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054633403547308032",
+          "start": 0,
+          "username": "Tracyv1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065844936684249244",
+    "in_reply_to_user_id": "2054633403547308032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065766846440112429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tracyv1a 热知识2026年毕业的高中生有1260万，所以大学生根本不是珍稀物种，觉得自己只是大学生就很有竞争力的人我都不知道说啥了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065766832036823040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsT_SRWwAASqjs.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2065766846440112429",
+        "created_at": "2026-06-13T17:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065844936684249244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054633403547308032",
+              "start": 0,
+              "username": "Tracyv1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065844936684249244",
+        "in_reply_to_user_id": "2054633403547308032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065766846440112429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tracyv1a 热知识2026年毕业的高中生有1260万，所以大学生根本不是珍稀物种，觉得自己只是大学生就很有竞争力的人我都不知道说啥了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065766832036823040"
+          ]
+        },
+        "author_id": "2054633403547308032",
+        "conversation_id": "2065766846440112429",
+        "created_at": "2026-06-13T12:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065766846440112429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RnBSkhGQtI",
+              "end": 47,
+              "expanded_url": "https://x.com/Tracyv1a/status/2065766846440112429/photo/1",
+              "media_key": "3_2065766832036823040",
+              "start": 24,
+              "url": "https://t.co/RnBSkhGQtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065766846440112429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12151,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男大学生的竞争力在哪？在又穷又爱玩又诡计多端吗 https://t.co/RnBSkhGQtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2065026751257100409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 239,
+          "like_count": 7770,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1233
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T18:44:28.000Z",
+        "description": "各人管好各人  互fo私信只回正常人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/x1bb",
+                "end": 23,
+                "expanded_url": "https://ngl.link/x1bb",
+                "start": 0,
+                "url": "https://t.co/gtTdfLIoqq"
+              }
+            ]
+          }
+        },
+        "id": "2054633403547308032",
+        "location": "匿名提问➡️",
+        "name": "小猫嗅",
+        "pinned_tweet_id": "2061553907868880923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059616517075968005/mvCrzqMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 28,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/gtTdfLIoqq",
+        "username": "Tracyv1a",
+        "verified": false
+      }
+    ]
+  }
+}

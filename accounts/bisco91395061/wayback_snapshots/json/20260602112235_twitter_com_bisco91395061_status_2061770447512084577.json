@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2061770447512084577",
+    "created_at": "2026-06-02T11:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061770447512084577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809604484173295620",
+          "start": 3,
+          "username": "for_4ngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061770447512084577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061654404642807904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @for_4ngel: 这里分享一下国外滥用社区老资历传授的加巴喷丁滥用🤓，首先分三次服用1800mg，单次服用600mg，一次45min，每次服用前用碳酸饮料配服+少量花生酱\n第一次服用吸收量360-450mg\n第二次服用吸收量300-360mg\n第三次服用吸收量210…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2061770447512084577",
+        "created_at": "2026-06-02T11:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061770447512084577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809604484173295620",
+              "start": 3,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061770447512084577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061654404642807904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @for_4ngel: 这里分享一下国外滥用社区老资历传授的加巴喷丁滥用🤓，首先分三次服用1800mg，单次服用600mg，一次45min，每次服用前用碳酸饮料配服+少量花生酱\n第一次服用吸收量360-450mg\n第二次服用吸收量300-360mg\n第三次服用吸收量210…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061654404642807904",
+        "created_at": "2026-06-02T03:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061654404642807904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/for_4ngel/stat…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/for_4ngel/status/2061652258983690399",
+              "start": 174,
+              "url": "https://t.co/GjOGoVcyxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061654404642807904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 4492,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061652258983690399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里分享一下国外滥用社区老资历传授的加巴喷丁滥用🤓，首先分三次服用1800mg，单次服用600mg，一次45min，每次服用前用碳酸饮料配服+少量花生酱\n第一次服用吸收量360-450mg\n第二次服用吸收量300-360mg\n第三次服用吸收量210-270mg\n总吸收量900-1080mg\n血药浓度最终预测在9.6-12，理论浓度可能在16.6 https://t.co/GjOGoVcyxI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 162,
+          "like_count": 6834,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 884
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 438,
+          "like_count": 258,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 464
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

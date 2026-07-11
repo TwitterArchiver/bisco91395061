@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054842614541897728",
+        "3_2054842613476532224",
+        "3_2054842618736218112"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054842622318199091",
+    "created_at": "2026-05-14T08:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T09:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054842622318199091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iRRk2Cfmgq",
+          "end": 23,
+          "expanded_url": "https://x.com/bisco91395061/status/2054842622318199091/photo/1",
+          "media_key": "3_2054842614541897728",
+          "start": 0,
+          "url": "https://t.co/iRRk2Cfmgq"
+        },
+        {
+          "display_url": "pic.x.com/iRRk2Cfmgq",
+          "end": 23,
+          "expanded_url": "https://x.com/bisco91395061/status/2054842622318199091/photo/1",
+          "media_key": "3_2054842613476532224",
+          "start": 0,
+          "url": "https://t.co/iRRk2Cfmgq"
+        },
+        {
+          "display_url": "pic.x.com/iRRk2Cfmgq",
+          "end": 23,
+          "expanded_url": "https://x.com/bisco91395061/status/2054842622318199091/photo/1",
+          "media_key": "3_2054842618736218112",
+          "start": 0,
+          "url": "https://t.co/iRRk2Cfmgq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054842622318199091",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/iRRk2Cfmgq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054842622318199091].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054842622318199091",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054842622318199091"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054842614541897728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIREeI0a0AABLBL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2054842613476532224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIREeE2aoAAZBF7.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2054842618736218112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIREeYcbEAAAsVn.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 117,
+          "like_count": 5416,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 632
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

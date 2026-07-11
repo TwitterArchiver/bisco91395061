@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2065845493683605952",
+    "created_at": "2026-06-13T17:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065845493683605952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SupernovaLLan/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/SupernovaLLan/status/2065843445831467295",
+          "start": 53,
+          "url": "https://t.co/aCMjNV5RZv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065845493683605952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065843445831467295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉如果是这种说法我o感康也会很狂躁，不过幸亏我不吃狗屎哈哈，感谢老大回复让我知道我是因为什么这么烦。。 https://t.co/aCMjNV5RZv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2065845493683605952",
+        "created_at": "2026-06-13T17:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065845493683605952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SupernovaLLan/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/SupernovaLLan/status/2065843445831467295",
+              "start": 53,
+              "url": "https://t.co/aCMjNV5RZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065845493683605952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065843445831467295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉如果是这种说法我o感康也会很狂躁，不过幸亏我不吃狗屎哈哈，感谢老大回复让我知道我是因为什么这么烦。。 https://t.co/aCMjNV5RZv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2065837878115242066",
+        "created_at": "2026-06-13T17:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065843445831467295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065843445831467295",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065837878115242066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 感觉心跳有没有过快过猛了🤔看这俩小时的表现可能是白兔里面咖啡因和麻黄碱导致的交感神经过度兴奋，要是手头有劳拉西泮或者阿普唑仑这些bzd可以吃一点点来压一压，没有的话思诺思佐匹克隆也能对付用一下，总之别过量，也不能喝酒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2065026751257100409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 239,
+          "like_count": 7770,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1235
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 607,
+          "like_count": 26701,
+          "listed_count": 2,
+          "media_count": 1187,
+          "tweet_count": 11069
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      }
+    ]
+  }
+}

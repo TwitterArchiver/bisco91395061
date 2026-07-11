@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2067498132439712132",
+    "created_at": "2026-06-18T07:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067517238282965156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944413509401640960",
+          "start": 0,
+          "username": "Grinin_mark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067517238282965156",
+    "in_reply_to_user_id": "1944413509401640960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067516781066154294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grinin_mark 尘世是啥，怎么购买，是干嘛的，可以给我讲一下吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2067498132439712132",
+        "created_at": "2026-06-18T07:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067517238282965156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944413509401640960",
+              "start": 0,
+              "username": "Grinin_mark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067517238282965156",
+        "in_reply_to_user_id": "1944413509401640960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067516781066154294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grinin_mark 尘世是啥，怎么购买，是干嘛的，可以给我讲一下吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944413509401640960",
+        "conversation_id": "2067498132439712132",
+        "created_at": "2026-06-18T07:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067516781066154294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067516781066154294",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067498132439712132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 要不要试试沉世，效果比这个好得多也便宜比这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 277,
+          "like_count": 8154,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1401
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T15:08:18.000Z",
+        "description": "|| 某年从炸柜党进化成家长党 || INFP-T || 免费闲聊 || 好无聊 || hrt2023.8.3 || ❤️@LiciiQAQ ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1944413509401640960",
+        "location": "江苏省 无锡",
+        "name": "Grin🍥",
+        "pinned_tweet_id": "2057100187781505287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955240735504207874/sPFWd7-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 131,
+          "like_count": 5460,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "Grinin_mark",
+        "verified": true
+      }
+    ]
+  }
+}

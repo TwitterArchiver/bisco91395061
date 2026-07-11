@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2027450551118770425",
+    "created_at": "2026-02-27T18:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T19:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027450551118770425"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027450551118770425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "牛逼随便买了个小号推文死活清不完"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2027450551118770425",
+        "created_at": "2026-02-27T18:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027450551118770425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027450551118770425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼随便买了个小号推文死活清不完"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027448497595977728/5nQhM9gq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 9,
+          "like_count": 2403,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 136
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

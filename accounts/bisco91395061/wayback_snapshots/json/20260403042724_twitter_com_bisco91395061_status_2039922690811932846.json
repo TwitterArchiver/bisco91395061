@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2039897288525713763",
+    "created_at": "2026-04-03T04:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T05:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039922690811932846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1202993900538826753",
+          "start": 0,
+          "username": "neverovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039922690811932846",
+    "in_reply_to_user_id": "1202993900538826753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039897288525713763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neverovo 必须玉麒麟，米麻薯喝到最后很难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2039897288525713763",
+        "created_at": "2026-04-03T04:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039922690811932846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1202993900538826753",
+              "start": 0,
+              "username": "neverovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039922690811932846",
+        "in_reply_to_user_id": "1202993900538826753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039897288525713763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neverovo 必须玉麒麟，米麻薯喝到最后很难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1202993900538826753",
+        "conversation_id": "2039897288525713763",
+        "created_at": "2026-04-03T02:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039897288525713763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039897288525713763",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 812,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆乳米麻薯和豆乳玉麒麟哪个好喝啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 60,
+          "like_count": 3698,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 314
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-06T16:51:26.000Z",
+        "description": "不闲聊不交友 分身@qaq5777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "qaq5777"
+              }
+            ]
+          }
+        },
+        "id": "1202993900538826753",
+        "name": "不加糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999221342009458691/kMRgXofZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 43,
+          "like_count": 1698,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 606
+        },
+        "username": "neverovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2068925741027520774",
+    "created_at": "2026-06-22T07:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068966323200385061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1630986969928056832",
+          "start": 0,
+          "username": "omangopuuding"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068966323200385061",
+    "in_reply_to_user_id": "1630986969928056832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068955898677207411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omangopuuding 芒果布丁你每次都夸我，我爱你？。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2068925741027520774",
+        "created_at": "2026-06-22T07:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068966323200385061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1630986969928056832",
+              "start": 0,
+              "username": "omangopuuding"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068966323200385061",
+        "in_reply_to_user_id": "1630986969928056832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068955898677207411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omangopuuding 芒果布丁你每次都夸我，我爱你？。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630986969928056832",
+        "conversation_id": "2068925741027520774",
+        "created_at": "2026-06-22T07:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068955898677207411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068955898677207411",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068925741027520774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 萌晕了啊宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 305,
+          "like_count": 8531,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1551
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-01T17:43:02.000Z",
+        "description": "陷入发狂时，释放划空癫火",
+        "id": "1630986969928056832",
+        "name": "芒果布丁",
+        "pinned_tweet_id": "2065339468362776899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064936438207299584/dw3NElFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 212,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 721
+        },
+        "url": "",
+        "username": "omangopuuding",
+        "verified": false
+      }
+    ]
+  }
+}

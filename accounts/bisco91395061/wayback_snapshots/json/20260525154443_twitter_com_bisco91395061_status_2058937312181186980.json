@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058880743108157441"
+      ],
+      "media_source_tweet_id": [
+        "2058880766294233594"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2058937312181186980",
+    "created_at": "2026-05-25T15:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058937312181186980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1447726848448679940",
+          "start": 3,
+          "username": "wso3_uma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j7m1h3VNsK",
+          "end": 84,
+          "expanded_url": "https://x.com/wso3_uma/status/2058880766294233594/photo/1",
+          "media_key": "3_2058880743108157441",
+          "start": 61,
+          "url": "https://t.co/j7m1h3VNsK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058937312181186980",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 342
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058880766294233594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wso3_uma: 聖奈ちゃんピエちゃんおめでとう💜🩷\n素晴らしいレースをありがとう！\n金髪しっぽコンビだね！！ https://t.co/j7m1h3VNsK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058880743108157441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKdIJ_aoAELIJI.jpg",
+        "width": 1882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058880743108157441"
+          ],
+          "media_source_tweet_id": [
+            "2058880766294233594"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2058937312181186980",
+        "created_at": "2026-05-25T15:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058937312181186980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1447726848448679940",
+              "start": 3,
+              "username": "wso3_uma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7m1h3VNsK",
+              "end": 84,
+              "expanded_url": "https://x.com/wso3_uma/status/2058880766294233594/photo/1",
+              "media_key": "3_2058880743108157441",
+              "start": 61,
+              "url": "https://t.co/j7m1h3VNsK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058937312181186980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 342
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058880766294233594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wso3_uma: 聖奈ちゃんピエちゃんおめでとう💜🩷\n素晴らしいレースをありがとう！\n金髪しっぽコンビだね！！ https://t.co/j7m1h3VNsK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058880743108157441"
+          ]
+        },
+        "author_id": "1447726848448679940",
+        "conversation_id": "2058880766294233594",
+        "created_at": "2026-05-25T12:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058880766294233594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7m1h3VNsK",
+              "end": 70,
+              "expanded_url": "https://x.com/wso3_uma/status/2058880766294233594/photo/1",
+              "media_key": "3_2058880743108157441",
+              "start": 47,
+              "url": "https://t.co/j7m1h3VNsK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058880766294233594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 26453,
+          "like_count": 2261,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 342
+        },
+        "reply_settings": "everyone",
+        "text": "聖奈ちゃんピエちゃんおめでとう💜🩷\n素晴らしいレースをありがとう！\n金髪しっぽコンビだね！！ https://t.co/j7m1h3VNsK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 140,
+          "like_count": 6337,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 785
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-12T00:52:43.000Z",
+        "description": "20↑🐎垢｜娘は公式のみ｜自衛ブロック多｜無断転載禁止 Do not reupload my art ｜AI学習禁止 Do not use my art for AI training",
+        "id": "1447726848448679940",
+        "name": "ワ🐴",
+        "pinned_tweet_id": "1553720159206256640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869239804669657088/u0PKJtQs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 13,
+          "like_count": 7091,
+          "listed_count": 20,
+          "media_count": 165,
+          "tweet_count": 3582
+        },
+        "username": "wso3_uma",
+        "verified": false
+      }
+    ]
+  }
+}

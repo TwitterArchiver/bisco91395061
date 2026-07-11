@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062498547971629056"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2062316147501125734",
+    "created_at": "2026-06-04T11:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062498774329802805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "334507412",
+          "start": 0,
+          "username": "misskoichiro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hKnmC9N3cg",
+          "end": 66,
+          "expanded_url": "https://x.com/bisco91395061/status/2062498774329802805/photo/1",
+          "media_key": "3_2062498547971629056",
+          "start": 43,
+          "url": "https://t.co/hKnmC9N3cg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062498774329802805",
+    "in_reply_to_user_id": "334507412",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062316147501125734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misskoichiro セリフォス💖\n我想我会一直喜欢他的💖💖！我推对我很重要！ https://t.co/hKnmC9N3cg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2062498547971629056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ93gHWboAA8dQV.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062498547971629056"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2062316147501125734",
+        "created_at": "2026-06-04T11:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062498774329802805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "334507412",
+              "start": 0,
+              "username": "misskoichiro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKnmC9N3cg",
+              "end": 66,
+              "expanded_url": "https://x.com/bisco91395061/status/2062498774329802805/photo/1",
+              "media_key": "3_2062498547971629056",
+              "start": 43,
+              "url": "https://t.co/hKnmC9N3cg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062498774329802805",
+        "in_reply_to_user_id": "334507412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062316147501125734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misskoichiro セリフォス💖\n我想我会一直喜欢他的💖💖！我推对我很重要！ https://t.co/hKnmC9N3cg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "334507412",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Horse racing",
+              "id": "847901716024446977",
+              "name": "Horse racing & equestrian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horse racing",
+              "id": "847901716024446977",
+              "name": "Horse racing & equestrian"
+            }
+          }
+        ],
+        "conversation_id": "2062316147501125734",
+        "created_at": "2026-06-03T23:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T00:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062316147501125734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062316147501125734",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 54678,
+          "like_count": 273,
+          "quote_count": 43,
+          "reply_count": 183,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "🐴今の競馬ファンにも、\n「一度は見てほしい馬」っていますか？\n\n・成績以上に魅力があった馬\n・走り方や勝ち方が印象的だった馬\n・時代が変わっても語りたい馬\n・もっと知られてほしい馬 など\n\n皆さまが思う\n“今こそ見てほしい1頭”をぜひ教えてください🏇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 166,
+          "like_count": 7010,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 910
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-13T06:16:57.000Z",
+        "description": "渋沢栄一の孫が道楽的に開業🏇競馬場オープン当初から残る数少ないお店の一つ。競馬場グルメグランプリ1位獲得「モカソフト」が大人気の喫茶店？です☕️🍦東京、中山両競馬場で営業してます。頂いたリプ、DMにはできるだけ反応してます。気軽にコメント頂けると嬉しいです😆",
+        "id": "334507412",
+        "location": "東京競馬場、中山競馬場",
+        "name": "耕一路｜KOICHIRO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1539630052983570437/YqkV1qAW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11809,
+          "following_count": 6913,
+          "like_count": 131845,
+          "listed_count": 85,
+          "media_count": 868,
+          "tweet_count": 84370
+        },
+        "username": "misskoichiro",
+        "verified": true
+      }
+    ]
+  }
+}

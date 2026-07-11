@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048389258130694144"
+      ],
+      "media_source_tweet_id": [
+        "2048389260861227509"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2048541125213049316",
+    "created_at": "2026-04-26T23:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T00:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048541125213049316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2048387997742329856",
+          "start": 3,
+          "username": "yuyumimio"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6MbTxcddN9",
+          "end": 68,
+          "expanded_url": "https://x.com/yuyumimio/status/2048389260861227509/photo/1",
+          "media_key": "3_2048389258130694144",
+          "start": 45,
+          "url": "https://t.co/6MbTxcddN9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048541125213049316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048389260861227509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyumimio: 我是，，小樹，前世被歹人所害，請大家幫我轉轉巡迴前世互關。 https://t.co/6MbTxcddN9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2048389258130694144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1XLWybIAAiTT9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048389258130694144"
+          ],
+          "media_source_tweet_id": [
+            "2048389260861227509"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2048541125213049316",
+        "created_at": "2026-04-26T23:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T00:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048541125213049316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048387997742329856",
+              "start": 3,
+              "username": "yuyumimio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MbTxcddN9",
+              "end": 68,
+              "expanded_url": "https://x.com/yuyumimio/status/2048389260861227509/photo/1",
+              "media_key": "3_2048389258130694144",
+              "start": 45,
+              "url": "https://t.co/6MbTxcddN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048541125213049316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048389260861227509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuyumimio: 我是，，小樹，前世被歹人所害，請大家幫我轉轉巡迴前世互關。 https://t.co/6MbTxcddN9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048389258130694144"
+          ]
+        },
+        "author_id": "2048387997742329856",
+        "conversation_id": "2048389260861227509",
+        "created_at": "2026-04-26T13:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048389260861227509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MbTxcddN9",
+              "end": 53,
+              "expanded_url": "https://x.com/yuyumimio/status/2048389260861227509/photo/1",
+              "media_key": "3_2048389258130694144",
+              "start": 30,
+              "url": "https://t.co/6MbTxcddN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048389260861227509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 518,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我是，，小樹，前世被歹人所害，請大家幫我轉轉巡迴前世互關。 https://t.co/6MbTxcddN9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜低浮上",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 77,
+          "like_count": 4081,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 403
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 85,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "username": "yuyumimio",
+        "verified": false
+      }
+    ]
+  }
+}

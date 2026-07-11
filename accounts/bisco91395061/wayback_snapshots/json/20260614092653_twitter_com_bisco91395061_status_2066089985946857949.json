@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2066068470505070603",
+    "created_at": "2026-06-14T09:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066089985946857949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2060627239654629376",
+          "start": 0,
+          "username": "ashdieds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066089985946857949",
+    "in_reply_to_user_id": "2060627239654629376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066068470505070603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashdieds 你这样说不会给开的，他会把你赶走。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2066068470505070603",
+        "created_at": "2026-06-14T09:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066089985946857949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060627239654629376",
+              "start": 0,
+              "username": "ashdieds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066089985946857949",
+        "in_reply_to_user_id": "2060627239654629376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066068470505070603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashdieds 你这样说不会给开的，他会把你赶走。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2066068470505070603",
+        "created_at": "2026-06-14T08:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066068470505070603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066068470505070603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我能不能直接去和你医院说我有pr依赖让他给我开方。不会被抓吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 243,
+          "like_count": 7845,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1270
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo\n本人就这一个号 大号已永久挂掉",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 142,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 136
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

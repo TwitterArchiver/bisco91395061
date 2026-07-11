@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2038484964279476497",
+    "created_at": "2026-03-30T05:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T06:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038484964279476497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/B_cat38324/status/2038276731929571688",
+          "start": 9,
+          "url": "https://t.co/HgKTlDOPEM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038484964279476497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038276731929571688",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑得我好难受卧槽 https://t.co/HgKTlDOPEM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2038484964279476497",
+        "created_at": "2026-03-30T05:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038484964279476497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/B_cat38324/status/2038276731929571688",
+              "start": 9,
+              "url": "https://t.co/HgKTlDOPEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038484964279476497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038276731929571688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑得我好难受卧槽 https://t.co/HgKTlDOPEM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2038276731929571688",
+        "created_at": "2026-03-29T15:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038276731929571688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038276731929571688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 113931,
+          "like_count": 605,
+          "quote_count": 10,
+          "reply_count": 14,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "偷听群友聊天。\n\n群友A：我自从有了主人，被主人调教，喝了圣水之后，感觉精神好多了，也不狂躁了。\n\n三天后。\n\n群友A：破案了，主人吃碳酸锂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 56,
+          "like_count": 3570,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 262
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22291,
+          "following_count": 196,
+          "like_count": 709,
+          "listed_count": 71,
+          "media_count": 102,
+          "tweet_count": 22812
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

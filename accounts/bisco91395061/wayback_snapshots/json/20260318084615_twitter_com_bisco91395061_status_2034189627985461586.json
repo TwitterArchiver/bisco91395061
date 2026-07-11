@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2034189627985461586",
+    "created_at": "2026-03-18T08:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T09:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034189627985461586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1820666793817686016",
+          "start": 3,
+          "username": "Rain28ouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034189627985461586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033910852152353086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rain28ouo: 说我左右脑互搏的人，你怎么能确定我的左右脑健在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2034189627985461586",
+        "created_at": "2026-03-18T08:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034189627985461586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1820666793817686016",
+              "start": 3,
+              "username": "Rain28ouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034189627985461586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033910852152353086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rain28ouo: 说我左右脑互搏的人，你怎么能确定我的左右脑健在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820666793817686016",
+        "conversation_id": "2033910852152353086",
+        "created_at": "2026-03-17T14:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T15:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033910852152353086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033910852152353086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 19191,
+          "like_count": 590,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "说我左右脑互搏的人，你怎么能确定我的左右脑健在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 41,
+          "like_count": 3210,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 177
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T03:42:54.000Z",
+        "description": "喜欢和有礼貌的人讲话 回不了评论 欢迎私信留言^ ^",
+        "id": "1820666793817686016",
+        "location": "🚪288/520",
+        "name": "一根葱葱葱",
+        "pinned_tweet_id": "2012772816148713643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025159110220808198/b4Qr229-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7604,
+          "following_count": 69,
+          "like_count": 1627,
+          "listed_count": 9,
+          "media_count": 143,
+          "tweet_count": 640
+        },
+        "username": "Rain28ouo",
+        "verified": false
+      }
+    ]
+  }
+}

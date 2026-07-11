@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027767097473056768"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2027767509349503462",
+    "created_at": "2026-02-28T15:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027767509349503462"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "门槛"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "女高"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "反差"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/szSJmuVpxl",
+          "end": 58,
+          "expanded_url": "https://x.com/bisco91395061/status/2027767509349503462/photo/1",
+          "media_key": "3_2027767097473056768",
+          "start": 35,
+          "url": "https://t.co/szSJmuVpxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027767509349503462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😽😽😽好久之前的腿子😽看着就很有想下刀的欲望 #门槛 #女高 #反差 https://t.co/szSJmuVpxl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2027767097473056768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQTbnwbQAAUsHx.jpg",
+        "width": 3268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027767097473056768"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2027767509349503462",
+        "created_at": "2026-02-28T15:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027767509349503462"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "门槛"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "女高"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/szSJmuVpxl",
+              "end": 58,
+              "expanded_url": "https://x.com/bisco91395061/status/2027767509349503462/photo/1",
+              "media_key": "3_2027767097473056768",
+              "start": 35,
+              "url": "https://t.co/szSJmuVpxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027767509349503462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😽😽😽好久之前的腿子😽看着就很有想下刀的欲望 #门槛 #女高 #反差 https://t.co/szSJmuVpxl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 19,
+          "like_count": 2477,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2068925741027520774",
+    "created_at": "2026-06-22T08:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068981925600174180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1727727485704675328",
+          "start": 0,
+          "username": "doki00614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068981925600174180",
+    "in_reply_to_user_id": "1727727485704675328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068970302852440339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doki00614 谢谢宝宝！！🥹🥹💖💖💖💖💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2068925741027520774",
+        "created_at": "2026-06-22T08:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068981925600174180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1727727485704675328",
+              "start": 0,
+              "username": "doki00614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068981925600174180",
+        "in_reply_to_user_id": "1727727485704675328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068970302852440339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doki00614 谢谢宝宝！！🥹🥹💖💖💖💖💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727727485704675328",
+        "conversation_id": "2068925741027520774",
+        "created_at": "2026-06-22T08:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068970302852440339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068970302852440339",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068925741027520774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 好萌哇 (ᐥᐜᐥ)♡︎ᐝ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 305,
+          "like_count": 8532,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1560
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T16:35:16.000Z",
+        "description": "重生第二世…\n可以叫我晓晓，目前休学中，已成年，精神病/自伤/药物依赖/收藏癖/强迫症/洁癖/不o，比较社恐但还是很期待友好的沟通…(ᐢᴖ ·̫ ᴖᐢ)\n👇🏻欢迎给我发ngl我好想和大家交流捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiao9",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiao9",
+                "start": 0,
+                "url": "https://t.co/SfwjU1SFHV"
+              }
+            ]
+          }
+        },
+        "id": "1727727485704675328",
+        "location": "none",
+        "name": "紫月晓",
+        "pinned_tweet_id": "2050309159720251462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054413101773246464/uUt_MEFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 87,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/SfwjU1SFHV",
+        "username": "doki00614",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2058526897332711530",
+    "created_at": "2026-05-24T15:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058571980362920081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750067499096547328",
+          "start": 0,
+          "username": "Kzzzzo0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058571980362920081",
+    "in_reply_to_user_id": "1750067499096547328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058570590651646118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kzzzzo0 神农精神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2058526897332711530",
+        "created_at": "2026-05-24T15:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058571980362920081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750067499096547328",
+              "start": 0,
+              "username": "Kzzzzo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058571980362920081",
+        "in_reply_to_user_id": "1750067499096547328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058570590651646118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kzzzzo0 神农精神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750067499096547328",
+        "conversation_id": "2058526897332711530",
+        "created_at": "2026-05-24T15:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058570590651646118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058570590651646118",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058526897332711530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 神农牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 135,
+          "like_count": 6242,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 749
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T08:06:42.000Z",
+        "description": "我是小杜 备用号@kzzzzo01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "kzzzzo01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kzzzzo0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kzzzzo0",
+                "start": 0,
+                "url": "https://t.co/wltHuOVJaM"
+              }
+            ]
+          }
+        },
+        "id": "1750067499096547328",
+        "location": "距您1km",
+        "name": "一起去天国吧",
+        "pinned_tweet_id": "2054600436418847155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009481289318240256/O2tsc6yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 367,
+          "like_count": 19520,
+          "listed_count": 4,
+          "media_count": 220,
+          "tweet_count": 3997
+        },
+        "url": "https://t.co/wltHuOVJaM",
+        "username": "Kzzzzo0",
+        "verified": false
+      }
+    ]
+  }
+}

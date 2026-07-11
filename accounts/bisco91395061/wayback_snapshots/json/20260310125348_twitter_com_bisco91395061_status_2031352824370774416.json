@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2031273065263607817",
+    "created_at": "2026-03-10T12:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T13:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031352824370774416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1402939678039314432",
+          "start": 0,
+          "username": "shisan033"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031352824370774416",
+    "in_reply_to_user_id": "1402939678039314432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031273065263607817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shisan033 已严肃学习！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2031273065263607817",
+        "created_at": "2026-03-10T12:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T13:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031352824370774416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1402939678039314432",
+              "start": 0,
+              "username": "shisan033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031352824370774416",
+        "in_reply_to_user_id": "1402939678039314432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031273065263607817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shisan033 已严肃学习！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1402939678039314432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2031273065263607817",
+        "created_at": "2026-03-10T07:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T08:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031273065263607817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031273065263607817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 365,
+          "impression_count": 51567,
+          "like_count": 1353,
+          "quote_count": 22,
+          "reply_count": 27,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "中国語の推し活用語1️⃣\n\n塌房 tāfáng → 推しが炎上\n\n产粮 chǎn liáng → 二次創作を制作\n\n磕CP kē CP → カップリングを愛でる\n\n毛娘 máoniáng → ウィッグ師\n\n妆娘 zhuāngniáng → コスプレメイク師\n\n魔改 mó gǎi → 原作無視の改変\n\n约稿 yuēgǎo → 有償依頼\n\n原作党 yuánzuò dǎng → 原作至上主義"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 21,
+          "like_count": 2689,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 64
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-10T10:44:35.000Z",
+        "description": "学生/起業/海外生活経験あり（家族帯同＆留学）/ミックス🐱＆シーズー🐶",
+        "id": "1402939678039314432",
+        "name": "꧁༺༒し༒い༒༻꧂",
+        "pinned_tweet_id": "2025326213745791113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967174029783289856/0q0Yvh0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 499,
+          "like_count": 199723,
+          "listed_count": 17,
+          "media_count": 4053,
+          "tweet_count": 43466
+        },
+        "username": "shisan033",
+        "verified": false
+      }
+    ]
+  }
+}

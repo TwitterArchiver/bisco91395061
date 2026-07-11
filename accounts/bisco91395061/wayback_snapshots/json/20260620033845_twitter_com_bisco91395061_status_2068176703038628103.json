@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2067861280841674886",
+    "created_at": "2026-06-20T03:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T04:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068176703038628103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1607189446629404673",
+          "start": 0,
+          "username": "SANS88802851"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068176703038628103",
+    "in_reply_to_user_id": "1607189446629404673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068165849966690388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SANS88802851 谢谢你🥺🥺😚💖💖💖！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2067861280841674886",
+        "created_at": "2026-06-20T03:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068176703038628103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1607189446629404673",
+              "start": 0,
+              "username": "SANS88802851"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068176703038628103",
+        "in_reply_to_user_id": "1607189446629404673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068165849966690388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SANS88802851 谢谢你🥺🥺😚💖💖💖！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607189446629404673",
+        "conversation_id": "2067861280841674886",
+        "created_at": "2026-06-20T02:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T03:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068165849966690388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068165849966690388",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067861280841674886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 这个就是，嗯。超级的，冷脸萌。🙂‍↕️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 296,
+          "like_count": 8326,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1488
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T01:40:15.000Z",
+        "description": "推只当做日常发，欢迎互fo呀⪩. .⪨\n。。。。。。。\n我真的好喜欢瘦瘦小小萌脸小正太……",
+        "id": "1607189446629404673",
+        "location": "万事屋",
+        "name": "苏敛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945896966560284672/1-ew9Zvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 120,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "SANS88802851",
+        "verified": false
+      }
+    ]
+  }
+}

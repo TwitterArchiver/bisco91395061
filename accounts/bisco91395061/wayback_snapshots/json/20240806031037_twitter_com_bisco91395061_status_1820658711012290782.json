@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "1820658711012290782",
+    "created_at": "2024-08-06T03:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T04:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820658711012290782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "69455592",
+          "start": 3,
+          "username": "WhiskeLtd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820658711012290782",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820656050581766637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WhiskeLtd: 🎸今年もサマソニを応援！👨‍🎤\n\n抽選で総計1010名様に\nバスカーオリジナルグッズが当たる🎯\n\n①本アカウントをフォロー\n②8/7 11:59 迄にリポスト\n③当選者のみDM\n\nWチャンス🤘\nバスカーボールを飲みながら聴きたい曲を\n #バスカーボ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "1820658711012290782",
+        "created_at": "2024-08-06T03:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T04:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820658711012290782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "69455592",
+              "start": 3,
+              "username": "WhiskeLtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820658711012290782",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820656050581766637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WhiskeLtd: 🎸今年もサマソニを応援！👨‍🎤\n\n抽選で総計1010名様に\nバスカーオリジナルグッズが当たる🎯\n\n①本アカウントをフォロー\n②8/7 11:59 迄にリポスト\n③当選者のみDM\n\nWチャンス🤘\nバスカーボールを飲みながら聴きたい曲を\n #バスカーボ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "69455592",
+        "conversation_id": "1820656050581766637",
+        "created_at": "2024-08-06T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820656050581766637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 118,
+              "tag": "バスカーボールで乾杯"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820656050581766637",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1676,
+          "like_count": 39,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "🎸今年もサマソニを応援！👨‍🎤\n\n抽選で総計1010名様に\nバスカーオリジナルグッズが当たる🎯\n\n①本アカウントをフォロー\n②8/7 11:59 迄にリポスト\n③当選者のみDM\n\nWチャンス🤘\nバスカーボールを飲みながら聴きたい曲を\n #バスカーボールで乾杯 と一緒に引用で\n“サマソニ限定”グッズが当たる！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰2022.9月から洗車はじめました！皆さん、色々と教えて下さい🙇🏻‍♂️ ウィスキーも少し勉強中",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602223879472427008/pvTqSHmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 152,
+          "like_count": 2268,
+          "listed_count": 0,
+          "tweet_count": 183
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-28T00:38:41.000Z",
+        "description": "洋酒インポーター、ウィスク・イーの公式アカウントです🌏🥃 世界中から自ら選定したこだわりのウイスキーやジン、ラム、リキュール、ビールを輸入し『これまでになかったお酒の選択肢』を提供します🍸 洋酒の美味しい飲み方や、期間限定のイベント、キャンペーン、新商品情報などをつぶやきます💭 ★フォローは20歳以上限定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whisk-e.co.jp",
+                "end": 23,
+                "expanded_url": "https://whisk-e.co.jp/",
+                "start": 0,
+                "url": "https://t.co/QWitouAtp4"
+              }
+            ]
+          }
+        },
+        "id": "69455592",
+        "location": "Tokyo, Japan",
+        "name": "ウィスク・イー｜洋酒インポーター",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807584816705294336/Zn_CghX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42448,
+          "following_count": 1624,
+          "like_count": 22782,
+          "listed_count": 235,
+          "tweet_count": 196489
+        },
+        "url": "https://t.co/QWitouAtp4",
+        "username": "WhiskeLtd",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2061086542240915580",
+    "created_at": "2026-05-31T14:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061086542240915580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1924098466646794240",
+          "start": 3,
+          "username": "keiba_hodohodo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061086542240915580",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061040506826801381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keiba_hodohodo: 川田さんの斜行ひどすぎる。\n人馬の命を危険に晒す行為なのに過怠金たったの3万円でGI3着。理解できない"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2061086542240915580",
+        "created_at": "2026-05-31T14:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061086542240915580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1924098466646794240",
+              "start": 3,
+              "username": "keiba_hodohodo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061086542240915580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061040506826801381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keiba_hodohodo: 川田さんの斜行ひどすぎる。\n人馬の命を危険に晒す行為なのに過怠金たったの3万円でGI3着。理解できない"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924098466646794240",
+        "conversation_id": "2061040506826801381",
+        "created_at": "2026-05-31T11:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061040506826801381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061040506826801381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1022,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "川田さんの斜行ひどすぎる。\n人馬の命を危険に晒す行為なのに過怠金たったの3万円でGI3着。理解できない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 160,
+          "like_count": 6710,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 863
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T13:43:29.000Z",
+        "description": "21(04)🚹 中央&南関 高杉くん、横山琉人くん、岩田望来くん モレイラ ミュージアムマイル ジャスティンパレス フェスティバルヒル ラヴァンダ ファウストラーゼン パンサラッサ 矢野貴之さん、西啓太くん ディクテオン　シーテープ",
+        "id": "1924098466646794240",
+        "name": "りつ",
+        "pinned_tweet_id": "1998381045398544595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924098604311994368/8f9-8ceV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 224,
+          "like_count": 18907,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1101
+        },
+        "username": "keiba_hodohodo",
+        "verified": false
+      }
+    ]
+  }
+}

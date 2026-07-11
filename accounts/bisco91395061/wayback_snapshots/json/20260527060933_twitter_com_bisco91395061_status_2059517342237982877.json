@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2059517342237982877",
+    "created_at": "2026-05-27T06:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T07:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059517342237982877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1177430806110691329",
+          "start": 3,
+          "username": "neko_sickbone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059517342237982877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059268271329661225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko_sickbone: 请不要一时兴起进入我的生活。\n我的生活单调 甚至称得上无聊 我不是一个灵活的人  甚至称得上木讷。我不懂人与人之间虚伪的假面。我不懂人心异变 不懂新鲜感和一时兴起。我无意与任何人周旋 更不愿和任何人玩无趣的攻略游戏。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2059517342237982877",
+        "created_at": "2026-05-27T06:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059517342237982877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1177430806110691329",
+              "start": 3,
+              "username": "neko_sickbone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059517342237982877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059268271329661225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko_sickbone: 请不要一时兴起进入我的生活。\n我的生活单调 甚至称得上无聊 我不是一个灵活的人  甚至称得上木讷。我不懂人与人之间虚伪的假面。我不懂人心异变 不懂新鲜感和一时兴起。我无意与任何人周旋 更不愿和任何人玩无趣的攻略游戏。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1177430806110691329",
+        "conversation_id": "2059268271329661225",
+        "created_at": "2026-05-26T13:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059268271329661225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059268271329661225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1249,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "请不要一时兴起进入我的生活。\n我的生活单调 甚至称得上无聊 我不是一个灵活的人  甚至称得上木讷。我不懂人与人之间虚伪的假面。我不懂人心异变 不懂新鲜感和一时兴起。我无意与任何人周旋 更不愿和任何人玩无趣的攻略游戏。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 150,
+          "like_count": 6473,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 822
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-27T03:53:01.000Z",
+        "description": "虚拟日记本。瓦罗兰特英雄联盟重度依赖。没开私信，喜欢礼貌友善的人。",
+        "id": "1177430806110691329",
+        "location": "坐标北美",
+        "name": "困兽",
+        "pinned_tweet_id": "2031462203778383877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049973995521368065/QIy6lFXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 32,
+          "like_count": 1947,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 553
+        },
+        "username": "neko_sickbone",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2062810487012917747",
+    "created_at": "2026-06-05T08:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062810487012917747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawarage_yatan…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/kawarage_yatano/status/2062750013768548779",
+          "start": 13,
+          "url": "https://t.co/l4vG9lrlV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062810487012917747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062750013768548779",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看这种帖子能让我哈特软软 https://t.co/l4vG9lrlV3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2062810487012917747",
+        "created_at": "2026-06-05T08:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062810487012917747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawarage_yatan…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/kawarage_yatano/status/2062750013768548779",
+              "start": 13,
+              "url": "https://t.co/l4vG9lrlV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062810487012917747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062750013768548779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看这种帖子能让我哈特软软 https://t.co/l4vG9lrlV3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818677880249036801",
+        "conversation_id": "2062750013768548779",
+        "created_at": "2026-06-05T04:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062750013768548779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062750013768548779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 25770,
+          "like_count": 413,
+          "quote_count": 4,
+          "reply_count": 142,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "私「来月中国に行きます！」\n\n本当に沢山の中国人「「「「ようこそ！」」」」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 169,
+          "like_count": 7083,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 922
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T15:59:54.000Z",
+        "description": "illustrator/アジア風の世界観で創作をしています。［無断転載、自作発言、AI学習✖️］skeb→ (https://t.co/OYUUBqU1Gd)/お仕事は現在企業様のみ募集中！ご相談、ご連絡はメールまたはDMにて受付→(kawarage.n.929@ezweb.ne.jp)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kawarage_yata…",
+                "end": 78,
+                "expanded_url": "https://skeb.jp/@kawarage_yatano",
+                "start": 55,
+                "url": "https://t.co/OYUUBqU1Gd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kawarage.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://kawarage.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/sNyDULf7xD"
+              }
+            ]
+          }
+        },
+        "id": "1818677880249036801",
+        "location": "創作タイトル「龍苑小話」「望虚館」",
+        "name": "かわらげ",
+        "pinned_tweet_id": "2047509634165154280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818678123057336320/yhnRfotr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46142,
+          "following_count": 17,
+          "like_count": 684,
+          "listed_count": 251,
+          "media_count": 468,
+          "tweet_count": 2925
+        },
+        "url": "https://t.co/sNyDULf7xD",
+        "username": "kawarage_yatano",
+        "verified": false
+      }
+    ]
+  }
+}

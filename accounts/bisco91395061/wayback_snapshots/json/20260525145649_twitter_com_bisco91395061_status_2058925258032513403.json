@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058925231016927233"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2058925258032513403",
+    "created_at": "2026-05-25T14:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058925258032513403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MwsnOaxfKW",
+          "end": 32,
+          "expanded_url": "https://x.com/bisco91395061/status/2058925258032513403/photo/1",
+          "media_key": "3_2058925231016927233",
+          "start": 9,
+          "url": "https://t.co/MwsnOaxfKW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058925258032513403",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "overdose https://t.co/MwsnOaxfKW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2058925231016927233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLFlsXaYAEWM6Q.jpg",
+        "width": 2818
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058925231016927233"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2058925258032513403",
+        "created_at": "2026-05-25T14:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058925258032513403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MwsnOaxfKW",
+              "end": 32,
+              "expanded_url": "https://x.com/bisco91395061/status/2058925258032513403/photo/1",
+              "media_key": "3_2058925231016927233",
+              "start": 9,
+              "url": "https://t.co/MwsnOaxfKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058925258032513403",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "overdose https://t.co/MwsnOaxfKW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 140,
+          "like_count": 6326,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 781
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

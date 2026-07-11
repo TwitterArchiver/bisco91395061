@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2065026751257100409",
+    "created_at": "2026-06-12T05:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065306556602994790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042895427289092096",
+          "start": 0,
+          "username": "Pr_GAA569"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065306556602994790",
+    "in_reply_to_user_id": "2042895427289092096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065266052129230962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pr_GAA569 啊啊啊啊啊笑死我了🥺🥺🥺😚😚💖💖我亲亲你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2065026751257100409",
+        "created_at": "2026-06-12T05:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065306556602994790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042895427289092096",
+              "start": 0,
+              "username": "Pr_GAA569"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065306556602994790",
+        "in_reply_to_user_id": "2042895427289092096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065266052129230962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pr_GAA569 啊啊啊啊啊笑死我了🥺🥺🥺😚😚💖💖我亲亲你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042895427289092096",
+        "conversation_id": "2065026751257100409",
+        "created_at": "2026-06-12T02:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065266052129230962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065266052129230962",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065026751257100409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 这辈子谈不到这种我就不死了😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜骂我先骂@cryptochenrui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 228,
+          "like_count": 7624,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1156
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T09:22:23.000Z",
+        "description": "",
+        "id": "2042895427289092096",
+        "name": "山岚雪狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042896181567590400/KKj5CP8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 347,
+          "like_count": 1340,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 252
+        },
+        "username": "Pr_GAA569",
+        "verified": false
+      }
+    ]
+  }
+}

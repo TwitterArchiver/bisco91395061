@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2051609130440572945",
+    "created_at": "2026-05-06T09:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T10:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051955660976525809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599461205935943680",
+          "start": 0,
+          "username": "love7yuzuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051955660976525809",
+    "in_reply_to_user_id": "1599461205935943680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051609130440572945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love7yuzuru 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2051609111696166912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjHngCa0AAYJbQ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2051609130440572945",
+        "created_at": "2026-05-06T09:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051955660976525809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599461205935943680",
+              "start": 0,
+              "username": "love7yuzuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051955660976525809",
+        "in_reply_to_user_id": "1599461205935943680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051609130440572945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love7yuzuru 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051609111696166912"
+          ]
+        },
+        "author_id": "1599461205935943680",
+        "conversation_id": "2051609130440572945",
+        "created_at": "2026-05-05T10:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051609130440572945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvzNrUI2np",
+              "end": 28,
+              "expanded_url": "https://x.com/love7yuzuru/status/2051609130440572945/photo/1",
+              "media_key": "3_2051609111696166912",
+              "start": 5,
+              "url": "https://t.co/dvzNrUI2np"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051609130440572945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10035,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 59,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "魔童降世 https://t.co/dvzNrUI2np"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜低浮上",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "愛我請給我pr80",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 110,
+          "like_count": 4950,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 546
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T17:50:55.000Z",
+        "description": "=我只是一个小呆呆😂",
+        "id": "1599461205935943680",
+        "location": "🚪",
+        "name": "病娇来的吧",
+        "pinned_tweet_id": "2050902921123090559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045885534057439233/gz2fSt7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 147,
+          "like_count": 1591,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 107
+        },
+        "username": "love7yuzuru",
+        "verified": false
+      }
+    ]
+  }
+}

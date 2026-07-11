@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2058761658676445248",
+    "created_at": "2026-05-27T03:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059479032274788505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2051188013619875840",
+          "start": 0,
+          "username": "yukimaru_suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059479032274788505",
+    "in_reply_to_user_id": "2051188013619875840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059465453521809460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukimaru_suki 是的啊啊啊啊我就这样（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2058761658676445248",
+        "created_at": "2026-05-27T03:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059479032274788505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2051188013619875840",
+              "start": 0,
+              "username": "yukimaru_suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059479032274788505",
+        "in_reply_to_user_id": "2051188013619875840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059465453521809460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukimaru_suki 是的啊啊啊啊我就这样（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051188013619875840",
+        "conversation_id": "2058761658676445248",
+        "created_at": "2026-05-27T02:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059465453521809460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059465453521809460",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058761658676445248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 佐匹克隆重度依赖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 150,
+          "like_count": 6444,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 821
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T06:34:28.000Z",
+        "description": "中国语/日本語 /20⬆️/od/缓慢治疗精神疾病中/cp暴言中/fo会查成分",
+        "id": "2051188013619875840",
+        "name": "苦情剧又该我上演",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059458181710192640/SCSuqh8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 42,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 185
+        },
+        "username": "yukimaru_suki",
+        "verified": false
+      }
+    ]
+  }
+}

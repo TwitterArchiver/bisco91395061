@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2061779759173095929",
+    "created_at": "2026-06-02T11:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061779759173095929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1116522505387118594",
+          "start": 3,
+          "username": "keibastorytell1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061779759173095929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061644668652392470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keibastorytell1: 【安田記念出走ガイアフォースが国内芝1600ｍで先着された7頭】\n\n・シュネルマイスター（GI馬）\n・ソングライン（GI3勝）\n・セリフォス（GI馬）\n・ロマンチックウォリアー（GI14勝）\n・ナミュール（GI馬）\n・ソウルラッシュ（G…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2061779759173095929",
+        "created_at": "2026-06-02T11:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061779759173095929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1116522505387118594",
+              "start": 3,
+              "username": "keibastorytell1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061779759173095929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061644668652392470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keibastorytell1: 【安田記念出走ガイアフォースが国内芝1600ｍで先着された7頭】\n\n・シュネルマイスター（GI馬）\n・ソングライン（GI3勝）\n・セリフォス（GI馬）\n・ロマンチックウォリアー（GI14勝）\n・ナミュール（GI馬）\n・ソウルラッシュ（G…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1116522505387118594",
+        "conversation_id": "2061644668652392470",
+        "created_at": "2026-06-02T03:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061644668652392470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061644668652392470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 146973,
+          "like_count": 1246,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "【安田記念出走ガイアフォースが国内芝1600ｍで先着された7頭】\n\n・シュネルマイスター（GI馬）\n・ソングライン（GI3勝）\n・セリフォス（GI馬）\n・ロマンチックウォリアー（GI14勝）\n・ナミュール（GI馬）\n・ソウルラッシュ（GI2勝）\n・ジャンタルマンタル（GI4勝）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 163,
+          "like_count": 6856,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 887
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-12T02:04:44.000Z",
+        "description": "渾身の分析で馬柱に隠されたヒントを解く馬柱探偵。Winsightにて予想記事執筆、YouTubeは毎週月/木/金/土の4回更新、noteではWIN5対象レースのS-A評価馬を主に取り上げています！\n\nWinsight→https://t.co/R8yo8lcbE1\nhttps://t.co/yEabu2YSCQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "winsight.jp",
+                "end": 132,
+                "expanded_url": "https://winsight.jp/",
+                "start": 109,
+                "url": "https://t.co/R8yo8lcbE1"
+              },
+              {
+                "display_url": "note.com/bachu_tantei",
+                "end": 156,
+                "expanded_url": "https://note.com/bachu_tantei",
+                "start": 133,
+                "url": "https://t.co/yEabu2YSCQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCk1as…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCk1asdjEkApxpaSg148ynJA/",
+                "start": 0,
+                "url": "https://t.co/dHH0vNTubG"
+              }
+            ]
+          }
+        },
+        "id": "1116522505387118594",
+        "name": "馬柱探偵・田原基成@競馬データ分析家",
+        "pinned_tweet_id": "2030538689458356380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903745220065538048/CDMYqWqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24895,
+          "following_count": 731,
+          "like_count": 4835,
+          "listed_count": 351,
+          "media_count": 1421,
+          "tweet_count": 5922
+        },
+        "url": "https://t.co/dHH0vNTubG",
+        "username": "keibastorytell1",
+        "verified": true
+      }
+    ]
+  }
+}

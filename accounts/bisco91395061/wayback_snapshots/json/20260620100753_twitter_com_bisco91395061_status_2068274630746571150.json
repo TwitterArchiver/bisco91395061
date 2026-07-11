@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2067914556794610061",
+    "created_at": "2026-06-20T10:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068274630746571150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540315386931204098",
+          "start": 0,
+          "username": "kyouka_charming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068274630746571150",
+    "in_reply_to_user_id": "1540315386931204098",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068244761069404258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyouka_charming 💖💖💖💖🥺🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1599,
+        "media_key": "3_2068244752529813504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPhpPca8AAh_4x.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2067914556794610061",
+        "created_at": "2026-06-20T10:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068274630746571150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540315386931204098",
+              "start": 0,
+              "username": "kyouka_charming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068274630746571150",
+        "in_reply_to_user_id": "1540315386931204098",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068244761069404258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyouka_charming 💖💖💖💖🥺🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068244752529813504"
+          ]
+        },
+        "author_id": "1540315386931204098",
+        "conversation_id": "2067914556794610061",
+        "created_at": "2026-06-20T08:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068244761069404258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8K82TWX5Qr",
+              "end": 64,
+              "expanded_url": "https://x.com/kyouka_charming/status/2068244761069404258/photo/1",
+              "media_key": "3_2068244752529813504",
+              "start": 41,
+              "url": "https://t.co/8K82TWX5Qr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068244761069404258",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067914556794610061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 找到自己的生活诀窍就好哦，但是要记得保护好自己的心 https://t.co/8K82TWX5Qr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 306,
+          "like_count": 8410,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1506
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "京香と申します。\n物知らず悪役令嬢です、🏳️‍⚧️20↑トランスジェンダー女性,ENG/日本語/華语OK。\n元漫画家志望者、TRPG民間通訳。元日本留学不登校児高校生、現在北京在住。\n「メンヘラ」を中国語へ「心病系(誤訳：鬱デレ)」ヘ通訳した者\n現在TRPG「少女漫画RPG芳しい♥ハーデザート」制作中",
+        "id": "1540315386931204098",
+        "name": "🪞🌺【メンヘラ救済RPG絆創幸際】体験版ダウンロード可能",
+        "pinned_tweet_id": "2056598549660664003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065357408965459968/A6PsLujG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 1906,
+          "like_count": 13711,
+          "listed_count": 1,
+          "media_count": 1315,
+          "tweet_count": 10339
+        },
+        "url": "",
+        "username": "kyouka_charming",
+        "verified": false
+      }
+    ]
+  }
+}

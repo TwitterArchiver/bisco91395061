@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2066089559927169141",
+    "created_at": "2026-06-14T09:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066092055940755943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1384831606276476930",
+          "start": 0,
+          "username": "Xxx_kkkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066092055940755943",
+    "in_reply_to_user_id": "1384831606276476930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066089559927169141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxx_kkkl 卧槽一次5t啥感觉啊好好奇。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1852,
+        "media_key": "3_2066089554701099008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw5gN4aoAAjkSX.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2066089559927169141",
+        "created_at": "2026-06-14T09:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066092055940755943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1384831606276476930",
+              "start": 0,
+              "username": "Xxx_kkkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066092055940755943",
+        "in_reply_to_user_id": "1384831606276476930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066089559927169141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxx_kkkl 卧槽一次5t啥感觉啊好好奇。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066089554701099008"
+          ]
+        },
+        "author_id": "1384831606276476930",
+        "conversation_id": "2066089559927169141",
+        "created_at": "2026-06-14T09:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066089559927169141"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "棉花糖"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "飘飘糖"
+            },
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vorsVZxNPx",
+              "end": 68,
+              "expanded_url": "https://x.com/Xxx_kkkl/status/2066089559927169141/photo/1",
+              "media_key": "3_2066089554701099008",
+              "start": 45,
+              "url": "https://t.co/vorsVZxNPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066089559927169141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们迎来了解离之神……\n（已严格教育安全用药知识）\n#棉花糖 #飘飘糖 #drugtwt https://t.co/vorsVZxNPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 244,
+          "like_count": 7848,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1271
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-21T11:29:28.000Z",
+        "description": "活人死的",
+        "id": "1384831606276476930",
+        "name": "Jahseh（4.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065751551243886592/8KJyvMdm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 36,
+          "like_count": 51,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 57
+        },
+        "username": "Xxx_kkkl",
+        "verified": false
+      }
+    ]
+  }
+}

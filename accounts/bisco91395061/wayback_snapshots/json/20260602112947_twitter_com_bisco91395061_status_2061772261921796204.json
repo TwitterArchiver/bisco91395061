@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2061772261921796204",
+    "created_at": "2026-06-02T11:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061772261921796204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hukugyootaku/s…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/hukugyootaku/status/2061643562471886938",
+          "start": 44,
+          "url": "https://t.co/4iHw3Jovva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061772261921796204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061643562471886938",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我说什么来着，就喜欢炒马券，我真服了，国内斯佩的德比马券翻了70倍都收不着你们满意了吗 https://t.co/4iHw3Jovva"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1844,
+        "media_key": "3_2061643556893392896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxt5FYagAAf3-m.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1827,
+        "media_key": "3_2061643556893433856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxt5FYbIAAoau1.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1814,
+        "media_key": "3_2061643556889194496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxt5FXacAA2Unn.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1837,
+        "media_key": "3_2061643556893474816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxt5FYbwAAekMa.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2061772261921796204",
+        "created_at": "2026-06-02T11:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061772261921796204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hukugyootaku/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/hukugyootaku/status/2061643562471886938",
+              "start": 44,
+              "url": "https://t.co/4iHw3Jovva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061772261921796204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061643562471886938",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说什么来着，就喜欢炒马券，我真服了，国内斯佩的德比马券翻了70倍都收不着你们满意了吗 https://t.co/4iHw3Jovva"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061643556893392896",
+            "3_2061643556893433856",
+            "3_2061643556889194496",
+            "3_2061643556893474816"
+          ]
+        },
+        "author_id": "1085238140",
+        "conversation_id": "2061643562471886938",
+        "created_at": "2026-06-02T02:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061643562471886938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7JOv5Lkur1",
+              "end": 106,
+              "expanded_url": "https://x.com/hukugyootaku/status/2061643562471886938/photo/1",
+              "media_key": "3_2061643556893392896",
+              "start": 83,
+              "url": "https://t.co/7JOv5Lkur1"
+            },
+            {
+              "display_url": "pic.x.com/7JOv5Lkur1",
+              "end": 106,
+              "expanded_url": "https://x.com/hukugyootaku/status/2061643562471886938/photo/1",
+              "media_key": "3_2061643556893433856",
+              "start": 83,
+              "url": "https://t.co/7JOv5Lkur1"
+            },
+            {
+              "display_url": "pic.x.com/7JOv5Lkur1",
+              "end": 106,
+              "expanded_url": "https://x.com/hukugyootaku/status/2061643562471886938/photo/1",
+              "media_key": "3_2061643556889194496",
+              "start": 83,
+              "url": "https://t.co/7JOv5Lkur1"
+            },
+            {
+              "display_url": "pic.x.com/7JOv5Lkur1",
+              "end": 106,
+              "expanded_url": "https://x.com/hukugyootaku/status/2061643562471886938/photo/1",
+              "media_key": "3_2061643556893474816",
+              "start": 83,
+              "url": "https://t.co/7JOv5Lkur1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061643562471886938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 432279,
+          "like_count": 810,
+          "quote_count": 72,
+          "reply_count": 38,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "ロブチェンの100円馬券、もう8,000円以上で売れてる。\n\nこれ3年くらい寝かすと5万超えますな。\n\nこれが本当の万馬券。\n\nちなみにドウデュースは100円→5万 https://t.co/7JOv5Lkur1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 162,
+          "like_count": 6841,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 885
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-13T06:47:01.000Z",
+        "description": "副業×投資×競馬でFIRE｜副業収益2億｜ 1記事1.1億売上｜【今はメンバーシップが初月無料でお試しだけなら実質無料】副業、投資、競馬が月888円で見れるメンバーシップは下のリンクから｜ Yahooニュース出演｜【5900人が購読中の販売数日本一の副業記事➡】https://t.co/b3VrLBDlic",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "brmk.io/kpVj",
+                "end": 154,
+                "expanded_url": "http://brmk.io/kpVj",
+                "start": 131,
+                "url": "https://t.co/b3VrLBDlic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/niyahoo/member…",
+                "end": 23,
+                "expanded_url": "https://note.com/niyahoo/membership",
+                "start": 0,
+                "url": "https://t.co/vQCcT8MO1K"
+              }
+            ]
+          }
+        },
+        "id": "1085238140",
+        "location": "期間限定お試し無料の副業、投資、競馬のメンシプはこちら🔽",
+        "name": "副業オタクにゃふ～@楽過ぎる副業",
+        "pinned_tweet_id": "1743923703367573936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545456926506782720/AEPmr-at_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51370,
+          "following_count": 269,
+          "like_count": 56075,
+          "listed_count": 513,
+          "media_count": 8837,
+          "tweet_count": 47178
+        },
+        "url": "https://t.co/vQCcT8MO1K",
+        "username": "hukugyootaku",
+        "verified": true
+      }
+    ]
+  }
+}

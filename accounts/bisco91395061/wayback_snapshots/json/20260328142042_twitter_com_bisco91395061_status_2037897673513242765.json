@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2037897673513242765",
+    "created_at": "2026-03-28T14:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T15:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037897673513242765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1605731018815983616",
+          "start": 3,
+          "username": "liecross"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037897673513242765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037889784488845538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liecross: 转发点赞这个帖子抽一个宝宝喝奶茶 希望大家都好好的🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2037897673513242765",
+        "created_at": "2026-03-28T14:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037897673513242765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1605731018815983616",
+              "start": 3,
+              "username": "liecross"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037897673513242765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037889784488845538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liecross: 转发点赞这个帖子抽一个宝宝喝奶茶 希望大家都好好的🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605731018815983616",
+        "conversation_id": "2037889784488845538",
+        "created_at": "2026-03-28T13:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037889784488845538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037889784488845538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "转发点赞这个帖子抽一个宝宝喝奶茶 希望大家都好好的🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 52,
+          "like_count": 3480,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 254
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T01:04:55.000Z",
+        "description": "叫我哈哈或者倩倩 欢迎找我玩！⼁08退学上班状态⼁od自残⼁同类看成分互fo⼁目前愿望是活着以及大家幸福⼁不聊骚 聊骚的别来找骂",
+        "id": "1605731018815983616",
+        "location": "外空",
+        "name": "我假装过去不重要",
+        "pinned_tweet_id": "2033796312454640085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026743135838285831/tXA48KSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 90,
+          "like_count": 3135,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 796
+        },
+        "username": "liecross",
+        "verified": false
+      }
+    ]
+  }
+}

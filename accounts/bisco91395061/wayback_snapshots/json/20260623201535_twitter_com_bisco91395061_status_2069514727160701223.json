@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2069428790993051944",
+    "created_at": "2026-06-23T20:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T21:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069514727160701223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1446160096275275780",
+          "start": 0,
+          "username": "unrecognizab4L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069514727160701223",
+    "in_reply_to_user_id": "1446160096275275780",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069451457355735213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unrecognizab4L 行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2069428790993051944",
+        "created_at": "2026-06-23T20:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069514727160701223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1446160096275275780",
+              "start": 0,
+              "username": "unrecognizab4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069514727160701223",
+        "in_reply_to_user_id": "1446160096275275780",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069451457355735213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unrecognizab4L 行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446160096275275780",
+        "conversation_id": "2069428790993051944",
+        "created_at": "2026-06-23T16:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069451457355735213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069451457355735213",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069428790993051944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 买那个白云山的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 312,
+          "like_count": 8579,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1582
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T17:07:02.000Z",
+        "description": "space cadet\nalt art projects account @",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/manwearingbean…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/manwearingbeanie",
+                "start": 0,
+                "url": "https://t.co/SYjCXQCXgt"
+              }
+            ]
+          }
+        },
+        "id": "1446160096275275780",
+        "location": "space station",
+        "name": "manwearingbeanie",
+        "pinned_tweet_id": "2058986004544102784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049064385524744192/73AiJAQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 322,
+          "like_count": 10768,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 3621
+        },
+        "url": "https://t.co/SYjCXQCXgt",
+        "username": "unrecognizab4L",
+        "verified": false
+      }
+    ]
+  }
+}

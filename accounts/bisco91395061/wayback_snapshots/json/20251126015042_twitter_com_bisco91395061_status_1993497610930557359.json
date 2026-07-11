@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1993497610930557359",
+    "created_at": "2025-11-26T01:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T02:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993497610930557359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "188233441",
+          "start": 3,
+          "username": "KFC_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993497610930557359",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49197
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993333866090971647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KFC_jp: 【竜田バーガーは、新時代へ。】\n\n／\n本日11月26日(水)から\n【鶏竜田バーガー】が新発売❗️\n＼\n\n抽選で合計1万名様に鶏竜田バーガー1個無料お試し券をプレゼント🎁\n昼12:00～12:59に参加で当選率UP⤴️✨\n\n新時代へご招待します。\n\n① @…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1993497610930557359",
+        "created_at": "2025-11-26T01:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T02:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993497610930557359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "188233441",
+              "start": 3,
+              "username": "KFC_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993497610930557359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49197
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993333866090971647",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KFC_jp: 【竜田バーガーは、新時代へ。】\n\n／\n本日11月26日(水)から\n【鶏竜田バーガー】が新発売❗️\n＼\n\n抽選で合計1万名様に鶏竜田バーガー1個無料お試し券をプレゼント🎁\n昼12:00～12:59に参加で当選率UP⤴️✨\n\n新時代へご招待します。\n\n① @…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "188233441",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1993333866090971647",
+        "created_at": "2025-11-25T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993333866090971647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 133,
+              "id": "188233441",
+              "start": 126,
+              "username": "KFC_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993333866090971647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1750,
+          "impression_count": 19288323,
+          "like_count": 15928,
+          "quote_count": 245,
+          "reply_count": 205,
+          "retweet_count": 49197
+        },
+        "reply_settings": "everyone",
+        "text": "【竜田バーガーは、新時代へ。】\n\n／\n本日11月26日(水)から\n【鶏竜田バーガー】が新発売❗️\n＼\n\n抽選で合計1万名様に鶏竜田バーガー1個無料お試し券をプレゼント🎁\n昼12:00～12:59に参加で当選率UP⤴️✨\n\n新時代へご招待します。\n\n① @KFC_jp をフォロー\n②この投稿をリポスト\n③動画で抽選結果を確認"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰ウイスキーも少し勉強中、ウマ娘も少し、ファジアーノも",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981275771931942912/DkGP4QSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 179,
+          "like_count": 2370,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 211
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-08T06:54:00.000Z",
+        "description": "KFC公式アカウントです🍗新商品の情報やキャンペーン、KFCにまつわる裏話などを投稿しております。店舗・商品に関するお問い合わせはこちらからお願いいたします。https://t.co/6eJur2PmPJ\nTikTok公式アカウントはこちら→ https://t.co/uGIsnOf09m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ssl.kfc.co.jp/support/",
+                "end": 102,
+                "expanded_url": "https://ssl.kfc.co.jp/support/",
+                "start": 79,
+                "url": "https://t.co/6eJur2PmPJ"
+              },
+              {
+                "display_url": "tiktok.com/@kfc_jp",
+                "end": 145,
+                "expanded_url": "https://www.tiktok.com/@kfc_jp",
+                "start": 122,
+                "url": "https://t.co/uGIsnOf09m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kfc.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.kfc.co.jp/",
+                "start": 0,
+                "url": "https://t.co/Z8fTAjFFvj"
+              }
+            ]
+          }
+        },
+        "id": "188233441",
+        "location": "神奈川県横浜市",
+        "name": "ケンタッキーフライドチキン🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930518697124544512/wprVBnOe_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3132154,
+          "following_count": 5188,
+          "like_count": 16341,
+          "listed_count": 7807,
+          "media_count": 17417826,
+          "tweet_count": 20126150
+        },
+        "url": "https://t.co/Z8fTAjFFvj",
+        "username": "KFC_jp",
+        "verified": true
+      }
+    ]
+  }
+}

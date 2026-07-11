@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2062651936726552991",
+    "created_at": "2026-06-05T10:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062848580524876137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "56489953",
+          "start": 0,
+          "username": "yusas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062848580524876137",
+    "in_reply_to_user_id": "56489953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062651936726552991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusas 完全小宝宝。。。。。好想rua"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24128,
+        "height": 1280,
+        "media_key": "13_2062651913955676160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062651913955676160/img/gLGyjOJOzjGh-KS8.jpg",
+        "public_metrics": {
+          "view_count": 2103
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062651913955676160/vid/avc1/320x568/1_qFGvUXXQTM52WG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062651913955676160/vid/avc1/480x852/wH8JuRNriEL2LWI1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062651913955676160/vid/avc1/720x1280/W6cIyWzrga9bheJD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062651913955676160/pl/R6-KnRkOCnpDSmum.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2062651936726552991",
+        "created_at": "2026-06-05T10:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062848580524876137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "56489953",
+              "start": 0,
+              "username": "yusas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062848580524876137",
+        "in_reply_to_user_id": "56489953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062651936726552991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusas 完全小宝宝。。。。。好想rua"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062651913955676160"
+          ]
+        },
+        "author_id": "56489953",
+        "conversation_id": "2062651936726552991",
+        "created_at": "2026-06-04T21:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062651936726552991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5DCxhdvwh",
+              "end": 36,
+              "expanded_url": "https://x.com/yusas/status/2062651936726552991/video/1",
+              "media_key": "13_2062651913955676160",
+              "start": 13,
+              "url": "https://t.co/h5DCxhdvwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062651936726552991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 9413,
+          "like_count": 763,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "今朝のステラヴェローチェ https://t.co/h5DCxhdvwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 171,
+          "like_count": 7116,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 938
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-13T20:55:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/jbba_stallions…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/jbba_stallions/?hl=ja",
+                "start": 0,
+                "url": "https://t.co/7yWc5OH3Jp"
+              }
+            ]
+          }
+        },
+        "id": "56489953",
+        "name": "shigeki yusa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/809614359160705024/5ezi9BO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7796,
+          "following_count": 351,
+          "like_count": 1705,
+          "listed_count": 57,
+          "media_count": 3787,
+          "tweet_count": 5700
+        },
+        "url": "https://t.co/7yWc5OH3Jp",
+        "username": "yusas",
+        "verified": true
+      }
+    ]
+  }
+}

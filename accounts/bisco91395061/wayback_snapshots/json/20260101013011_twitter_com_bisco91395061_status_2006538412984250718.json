@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006503130478071808"
+      ],
+      "media_source_tweet_id": [
+        "2006504028935696664"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Barbecues and Grilling",
+          "id": "858037909219192833",
+          "name": "Grilling"
+        }
+      }
+    ],
+    "conversation_id": "2006538412984250718",
+    "created_at": "2026-01-01T01:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T02:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006538412984250718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1141121205082005505",
+          "start": 3,
+          "username": "yakiniku_king_"
+        },
+        {
+          "end": 96,
+          "id": "1141121205082005505",
+          "start": 81,
+          "username": "yakiniku_king_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ZtoFejPKv",
+          "end": 137,
+          "expanded_url": "https://x.com/yakiniku_king_/status/2006504028935696664/photo/1",
+          "media_key": "3_2006503130478071808",
+          "start": 114,
+          "url": "https://t.co/1ZtoFejPKv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006538412984250718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4944
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006504028935696664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yakiniku_king_: あけましておめでとうございます！🎍\nお肉初めはもう決めましたか？😋\n2026年も焼肉きんぐをよろしくお願いします🔥\n\n1⃣@yakiniku_king_をフォロー\n2⃣この投稿をリポスト https://t.co/1ZtoFejPKv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2006503130478071808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9iH91za0AAPXIu.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006503130478071808"
+          ],
+          "media_source_tweet_id": [
+            "2006504028935696664"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Barbecues and Grilling",
+              "id": "858037909219192833",
+              "name": "Grilling"
+            }
+          }
+        ],
+        "conversation_id": "2006538412984250718",
+        "created_at": "2026-01-01T01:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T02:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006538412984250718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1141121205082005505",
+              "start": 3,
+              "username": "yakiniku_king_"
+            },
+            {
+              "end": 96,
+              "id": "1141121205082005505",
+              "start": 81,
+              "username": "yakiniku_king_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZtoFejPKv",
+              "end": 137,
+              "expanded_url": "https://x.com/yakiniku_king_/status/2006504028935696664/photo/1",
+              "media_key": "3_2006503130478071808",
+              "start": 114,
+              "url": "https://t.co/1ZtoFejPKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006538412984250718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4944
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006504028935696664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yakiniku_king_: あけましておめでとうございます！🎍\nお肉初めはもう決めましたか？😋\n2026年も焼肉きんぐをよろしくお願いします🔥\n\n1⃣@yakiniku_king_をフォロー\n2⃣この投稿をリポスト https://t.co/1ZtoFejPKv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006503130478071808"
+          ]
+        },
+        "author_id": "1141121205082005505",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Barbecues and Grilling",
+              "id": "858037909219192833",
+              "name": "Grilling"
+            }
+          }
+        ],
+        "conversation_id": "2006504028935696664",
+        "created_at": "2025-12-31T23:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T00:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006504028935696664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 76,
+              "id": "1141121205082005505",
+              "start": 61,
+              "username": "yakiniku_king_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZtoFejPKv",
+              "end": 117,
+              "expanded_url": "https://x.com/yakiniku_king_/status/2006504028935696664/photo/1",
+              "media_key": "3_2006503130478071808",
+              "start": 94,
+              "url": "https://t.co/1ZtoFejPKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006504028935696664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 172790,
+          "like_count": 1640,
+          "quote_count": 10,
+          "reply_count": 69,
+          "retweet_count": 4944
+        },
+        "reply_settings": "everyone",
+        "text": "あけましておめでとうございます！🎍\nお肉初めはもう決めましたか？😋\n2026年も焼肉きんぐをよろしくお願いします🔥\n\n1⃣@yakiniku_king_をフォロー\n2⃣この投稿をリポスト https://t.co/1ZtoFejPKv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰ウイスキーも少し勉強中、ウマ娘も少し、ファジアーノも",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981275771931942912/DkGP4QSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 183,
+          "like_count": 2392,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 216
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-18T23:11:11.000Z",
+        "description": "『焼肉きんぐ』の公式アカウントです。\n最新情報や『焼肉きんぐ』の楽しみ方をお届けいたします!\n食べにきてくれた方はぜひ #焼肉きんぐ で投稿してくださいね！\n素敵な投稿にはリアクションさせていただく場合がござ\nいます。\n\n※原則DMへのご返信は行っておりません。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "焼肉きんぐ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yakiniku-king.jp/lp/link/",
+                "end": 23,
+                "expanded_url": "https://www.yakiniku-king.jp/lp/link/",
+                "start": 0,
+                "url": "https://t.co/iwrU7W4v0z"
+              }
+            ]
+          }
+        },
+        "id": "1141121205082005505",
+        "location": "日本",
+        "name": "焼肉きんぐ【公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642693688588664832/fPUOzug4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686525,
+          "following_count": 0,
+          "like_count": 28880,
+          "listed_count": 657,
+          "media_count": 2121,
+          "tweet_count": 13665
+        },
+        "url": "https://t.co/iwrU7W4v0z",
+        "username": "yakiniku_king_",
+        "verified": true
+      }
+    ]
+  }
+}

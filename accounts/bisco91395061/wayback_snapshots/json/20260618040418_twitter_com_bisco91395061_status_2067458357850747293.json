@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2067348021013348639",
+    "created_at": "2026-06-18T04:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067458357850747293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "951930939248082944",
+          "start": 0,
+          "username": "Love_OXYcontin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067458357850747293",
+    "in_reply_to_user_id": "951930939248082944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067348021013348639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Love_OXYcontin 我的法克你好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067348007583121408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCyD0MagAACKH4.jpg",
+        "width": 1520
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067348007599882240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCyD0QaQAAlWhG.jpg",
+        "width": 1474
+      },
+      {
+        "height": 1877,
+        "media_key": "3_2067348007574716416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCyD0KaQAA5LDG.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2067348021013348639",
+        "created_at": "2026-06-18T04:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067458357850747293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "951930939248082944",
+              "start": 0,
+              "username": "Love_OXYcontin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067458357850747293",
+        "in_reply_to_user_id": "951930939248082944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067348021013348639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Love_OXYcontin 我的法克你好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067348007583121408",
+            "3_2067348007599882240",
+            "3_2067348007574716416"
+          ]
+        },
+        "author_id": "951930939248082944",
+        "conversation_id": "2067348021013348639",
+        "created_at": "2026-06-17T20:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T21:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067348021013348639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tbqMW1TFmg",
+              "end": 37,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2067348021013348639/photo/1",
+              "media_key": "3_2067348007583121408",
+              "start": 14,
+              "url": "https://t.co/tbqMW1TFmg"
+            },
+            {
+              "display_url": "pic.x.com/tbqMW1TFmg",
+              "end": 37,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2067348021013348639/photo/1",
+              "media_key": "3_2067348007599882240",
+              "start": 14,
+              "url": "https://t.co/tbqMW1TFmg"
+            },
+            {
+              "display_url": "pic.x.com/tbqMW1TFmg",
+              "end": 37,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2067348021013348639/photo/1",
+              "media_key": "3_2067348007574716416",
+              "start": 14,
+              "url": "https://t.co/tbqMW1TFmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067348021013348639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（血图and我这个丑逼来袭 https://t.co/tbqMW1TFmg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 275,
+          "like_count": 8120,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1383
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-12T21:36:36.000Z",
+        "description": "MTF🏳️‍⚧️ 已术后 10年 ADHD 环形心境障碍 BZD/Zdrug/Opioids-重度依赖 不经常上X 有急事尽量TG联系喔\n\n-活着就是为了药物 没有药物我会死-",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Da_i_su_ki_da_…",
+                "end": 23,
+                "expanded_url": "https://t.me/Da_i_su_ki_da_yo",
+                "start": 0,
+                "url": "https://t.co/jrNU36WaHn"
+              }
+            ]
+          }
+        },
+        "id": "951930939248082944",
+        "location": "天国",
+        "name": "呓语🍥",
+        "pinned_tweet_id": "2066839838385713344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067133926205014016/jZq2f4O5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 341,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 200
+        },
+        "url": "https://t.co/jrNU36WaHn",
+        "username": "Love_OXYcontin",
+        "verified": false
+      }
+    ]
+  }
+}

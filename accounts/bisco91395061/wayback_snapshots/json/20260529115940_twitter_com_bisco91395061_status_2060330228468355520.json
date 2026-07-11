@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060037224020815873"
+      ],
+      "media_source_tweet_id": [
+        "2060037320175186209"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060330228468355520",
+    "created_at": "2026-05-29T11:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060330228468355520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2473722414",
+          "start": 3,
+          "username": "_Faris13"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T6FA1mJVRH",
+          "end": 73,
+          "expanded_url": "https://x.com/_Faris13/status/2060037320175186209/video/1",
+          "media_key": "13_2060037224020815873",
+          "start": 50,
+          "url": "https://t.co/T6FA1mJVRH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060330228468355520",
+    "lang": "ar",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060037320175186209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Faris13: اللي يتساءل متى كانت المرة الماضية: https://t.co/T6FA1mJVRH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60088,
+        "height": 720,
+        "media_key": "13_2060037224020815873",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060037224020815873/img/tNg-wahTusIUaxBz.jpg",
+        "public_metrics": {
+          "view_count": 65979
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060037224020815873/vid/avc1/480x270/0OFdkkVeAYOYhaTB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060037224020815873/vid/avc1/640x360/_yADZJrAG0OQzgbG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060037224020815873/vid/avc1/1280x720/sAyLwk1lMmWcRwtp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060037224020815873/pl/nQu6moINR3BzEPpC.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060037224020815873"
+          ],
+          "media_source_tweet_id": [
+            "2060037320175186209"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060330228468355520",
+        "created_at": "2026-05-29T11:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060330228468355520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2473722414",
+              "start": 3,
+              "username": "_Faris13"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6FA1mJVRH",
+              "end": 73,
+              "expanded_url": "https://x.com/_Faris13/status/2060037320175186209/video/1",
+              "media_key": "13_2060037224020815873",
+              "start": 50,
+              "url": "https://t.co/T6FA1mJVRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060330228468355520",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060037320175186209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Faris13: اللي يتساءل متى كانت المرة الماضية: https://t.co/T6FA1mJVRH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060037224020815873"
+          ]
+        },
+        "author_id": "2473722414",
+        "conversation_id": "2060037320175186209",
+        "created_at": "2026-05-28T16:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060037320175186209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6FA1mJVRH",
+              "end": 59,
+              "expanded_url": "https://x.com/_Faris13/status/2060037320175186209/video/1",
+              "media_key": "13_2060037224020815873",
+              "start": 36,
+              "url": "https://t.co/T6FA1mJVRH"
+            },
+            {
+              "display_url": "x.com/rezero_arabic/…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/rezero_arabic/status/2060033918225559779",
+              "start": 60,
+              "url": "https://t.co/0VJMEM0N5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060037320175186209",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 544,
+          "impression_count": 213991,
+          "like_count": 3999,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060033918225559779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "اللي يتساءل متى كانت المرة الماضية: https://t.co/T6FA1mJVRH https://t.co/0VJMEM0N5R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 158,
+          "like_count": 6605,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 849
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-02T09:19:47.000Z",
+        "description": "#HalaMadrid| #JJBA| #KyoAni |#OTC  |#レム | #OnePiece | Electrical Engineering | دام عندك وقت تقرأ البايو اكيد عندك وقت تقرأ ري زيرو | @ReZero_Arabic",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "HalaMadrid"
+              },
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "JJBA"
+              },
+              {
+                "end": 27,
+                "start": 20,
+                "tag": "KyoAni"
+              },
+              {
+                "end": 33,
+                "start": 29,
+                "tag": "OTC"
+              },
+              {
+                "end": 39,
+                "start": 36,
+                "tag": "レム"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "OnePiece"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 147,
+                "start": 133,
+                "username": "ReZero_Arabic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anilist.co/user/Faris13/",
+                "end": 23,
+                "expanded_url": "https://anilist.co/user/Faris13/",
+                "start": 0,
+                "url": "https://t.co/TL3V3fv5Jn"
+              }
+            ]
+          }
+        },
+        "id": "2473722414",
+        "location": "The Vollachian Empire",
+        "name": "Faris",
+        "pinned_tweet_id": "2047379766580265154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639455570968158209/YM4Dy-Nx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2828,
+          "following_count": 110,
+          "like_count": 269387,
+          "listed_count": 10,
+          "media_count": 5184,
+          "tweet_count": 37474
+        },
+        "url": "https://t.co/TL3V3fv5Jn",
+        "username": "_Faris13",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10036214049",
+          "name": "Jリーグ"
+        }
+      }
+    ],
+    "conversation_id": "2002072928209547333",
+    "created_at": "2025-12-19T17:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T18:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002072928209547333"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 112,
+          "normalized_text": "J.LEAGUE FANTASY CARD",
+          "probability": 0.6672,
+          "start": 92,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1967837511696388098",
+          "start": 3,
+          "username": "JL_Fantasy_Card"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002072928209547333",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1228
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001540431235137563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JL_Fantasy_Card: ／\n　JFCの魅力がわかる！\n　✨PVを公開✨\n＼\n\nこの投稿をフォロー＆リポストで、\n好きな選手のデジタルトレカ1枚が当たるチャンス！\n\n『J.LEAGUE FANTASY CARD』は事前登録受付中！\n詳細は動画をタップしてチェック👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10036214049",
+              "name": "Jリーグ"
+            }
+          }
+        ],
+        "conversation_id": "2002072928209547333",
+        "created_at": "2025-12-19T17:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T18:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002072928209547333"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 112,
+              "normalized_text": "J.LEAGUE FANTASY CARD",
+              "probability": 0.6672,
+              "start": 92,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1967837511696388098",
+              "start": 3,
+              "username": "JL_Fantasy_Card"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002072928209547333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1228
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001540431235137563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JL_Fantasy_Card: ／\n　JFCの魅力がわかる！\n　✨PVを公開✨\n＼\n\nこの投稿をフォロー＆リポストで、\n好きな選手のデジタルトレカ1枚が当たるチャンス！\n\n『J.LEAGUE FANTASY CARD』は事前登録受付中！\n詳細は動画をタップしてチェック👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967837511696388098",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10036214049",
+              "name": "Jリーグ"
+            }
+          }
+        ],
+        "conversation_id": "2001540431235137563",
+        "created_at": "2025-12-18T06:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T07:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001540431235137563"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 91,
+              "normalized_text": "J.LEAGUE FANTASY CARD",
+              "probability": 0.7046,
+              "start": 71,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001540431235137563",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 913631,
+          "like_count": 644,
+          "quote_count": 20,
+          "reply_count": 17,
+          "retweet_count": 1228
+        },
+        "reply_settings": "everyone",
+        "text": "／\n　JFCの魅力がわかる！\n　✨PVを公開✨\n＼\n\nこの投稿をフォロー＆リポストで、\n好きな選手のデジタルトレカ1枚が当たるチャンス！\n\n『J.LEAGUE FANTASY CARD』は事前登録受付中！\n詳細は動画をタップしてチェック👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰ウイスキーも少し勉強中、ウマ娘も少し、ファジアーノも",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981275771931942912/DkGP4QSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 180,
+          "like_count": 2384,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 214
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T06:27:00.000Z",
+        "description": "Ｊリーグ公式トレーディングカード×ファンタジースポーツゲーム『J.LEAGUE FANTASY CARD』公式アカウントです！#JFC 事前登録受付中！\n📌公式サイト:https://t.co/Gt06tfA1EP 📌カード一覧: https://t.co/cbQcLInNQ2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 63,
+                "tag": "JFC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pre.fantasy-fc.com",
+                "end": 107,
+                "expanded_url": "https://pre.fantasy-fc.com",
+                "start": 84,
+                "url": "https://t.co/Gt06tfA1EP"
+              },
+              {
+                "display_url": "cardlist.fantasy-fc.com",
+                "end": 139,
+                "expanded_url": "https://cardlist.fantasy-fc.com/",
+                "start": 116,
+                "url": "https://t.co/cbQcLInNQ2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pre.fantasy-fc.com",
+                "end": 23,
+                "expanded_url": "https://pre.fantasy-fc.com/",
+                "start": 0,
+                "url": "https://t.co/lHVeYGFPjK"
+              }
+            ]
+          }
+        },
+        "id": "1967837511696388098",
+        "name": "J.LEAGUE FANTASY CARD【公式】",
+        "pinned_tweet_id": "2001540431235137563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980454150929293312/UsA1j0eh_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13332,
+          "following_count": 24,
+          "like_count": 34,
+          "listed_count": 14,
+          "media_count": 38,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/lHVeYGFPjK",
+        "username": "JL_Fantasy_Card",
+        "verified": true
+      }
+    ]
+  }
+}

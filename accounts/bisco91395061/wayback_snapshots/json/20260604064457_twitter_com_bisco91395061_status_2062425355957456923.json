@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2062332080848347634",
+    "created_at": "2026-06-04T06:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062425355957456923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040088857064943616",
+          "start": 0,
+          "username": "kami_keiba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062425355957456923",
+    "in_reply_to_user_id": "2040088857064943616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062332080848347634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami_keiba セリフォス也是G1马哦🥺❤️不管怎么说，今年的安田纪念ガイアフォース还是很有希望的，大家也都很看好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2062332080848347634",
+        "created_at": "2026-06-04T06:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062425355957456923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040088857064943616",
+              "start": 0,
+              "username": "kami_keiba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062425355957456923",
+        "in_reply_to_user_id": "2040088857064943616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062332080848347634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami_keiba セリフォス也是G1马哦🥺❤️不管怎么说，今年的安田纪念ガイアフォース还是很有希望的，大家也都很看好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040088857064943616",
+        "conversation_id": "2062332080848347634",
+        "created_at": "2026-06-04T00:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062332080848347634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062332080848347634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 273480,
+          "like_count": 405,
+          "quote_count": 7,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "【安田記念】\n\nレベルが違いすぎるだろ。\n\nこの馬が戦ってきたG1馬\n\nイクイノックス\nロマンチックウォリアー\nソングライン\nソウルラッシュ\nセリフォス\nシュネルマイスター\nジャンタルマンタル\nナミュール\nジャスティンパレス\n\n今年の安田記念でG1馬になるこの馬...↓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 163,
+          "like_count": 6969,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 899
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T15:28:08.000Z",
+        "description": "競馬予想界の神です。7年連続回収率150%超え/的中率は40%ほど。データで絞って、展開で刺す。参考にどうぞ。公式LINE限定の予想や買い目を配信しているので、受け取りたい方は↓から追加してください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lin.ee/RehOYNB",
+                "end": 23,
+                "expanded_url": "https://lin.ee/RehOYNB",
+                "start": 0,
+                "url": "https://t.co/lf6ReWkxPl"
+              }
+            ]
+          }
+        },
+        "id": "2040088857064943616",
+        "location": "神に逆らうと天罰がくだります。",
+        "name": "神｜データ×展開予想",
+        "pinned_tweet_id": "2043229021782360362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056736486654193664/sbILK8n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2889,
+          "following_count": 16,
+          "like_count": 179,
+          "listed_count": 14,
+          "media_count": 115,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/lf6ReWkxPl",
+        "username": "kami_keiba",
+        "verified": true
+      }
+    ]
+  }
+}

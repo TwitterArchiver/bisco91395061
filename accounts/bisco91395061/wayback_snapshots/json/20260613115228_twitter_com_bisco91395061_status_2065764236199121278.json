@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2065336902014693775",
+    "created_at": "2026-06-13T11:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065764236199121278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851449112652378112",
+          "start": 0,
+          "username": "yuyuankswl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065764236199121278",
+    "in_reply_to_user_id": "1851449112652378112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065474609932321258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuankswl 贴贴你！！😚😚😚😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2065336902014693775",
+        "created_at": "2026-06-13T11:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065764236199121278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851449112652378112",
+              "start": 0,
+              "username": "yuyuankswl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065764236199121278",
+        "in_reply_to_user_id": "1851449112652378112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065474609932321258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuankswl 贴贴你！！😚😚😚😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851449112652378112",
+        "conversation_id": "2065336902014693775",
+        "created_at": "2026-06-12T16:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065474609932321258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065474609932321258",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065336902014693775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 看到我啦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜骂我先骂@cryptochenrui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2065026751257100409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 236,
+          "like_count": 7749,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1212
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T02:20:54.000Z",
+        "description": "哈/滚/乒/直/排/鸢，左右不固定❕杂食，随机支持all向/梦女，爱好冷门拉郎修罗场严重虐角色癖，g向大欢迎",
+        "id": "1851449112652378112",
+        "name": "一般路过同人女🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851451089629167618/5Im4la3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 95,
+          "like_count": 683,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 97
+        },
+        "username": "yuyuankswl",
+        "verified": false
+      }
+    ]
+  }
+}

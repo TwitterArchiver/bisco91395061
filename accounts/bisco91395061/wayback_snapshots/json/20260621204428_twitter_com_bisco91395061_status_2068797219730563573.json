@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2068739157070082244",
+    "created_at": "2026-06-21T20:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T21:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068797219730563573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066080690438123520",
+          "start": 0,
+          "username": "Seviraine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068797219730563573",
+    "in_reply_to_user_id": "2066080690438123520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068739157070082244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seviraine 😭😭😭😭😭😭😭妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6800,
+        "height": 720,
+        "media_key": "7_2068739118600003584",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068739118600003584/pu/img/jNA31pehIOAA6LBO.jpg",
+        "public_metrics": {
+          "view_count": 48
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068739118600003584/pu/vid/avc1/480x270/bpRlb9cZ0kUge4W7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068739118600003584/pu/vid/avc1/640x360/hAqkb7IE0rkS3YqN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068739118600003584/pu/vid/avc1/1280x720/SGPZdAtfZeSFmPAl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068739118600003584/pu/pl/fnBOIjyuxntUjqIS.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2068739157070082244",
+        "created_at": "2026-06-21T20:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068797219730563573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066080690438123520",
+              "start": 0,
+              "username": "Seviraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068797219730563573",
+        "in_reply_to_user_id": "2066080690438123520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068739157070082244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seviraine 😭😭😭😭😭😭😭妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068739118600003584"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "conversation_id": "2068739157070082244",
+        "created_at": "2026-06-21T16:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068739157070082244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8J4u7WrzPY",
+              "end": 30,
+              "expanded_url": "https://x.com/Seviraine/status/2068739157070082244/video/1",
+              "media_key": "7_2068739118600003584",
+              "start": 7,
+              "url": "https://t.co/8J4u7WrzPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068739157070082244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦累累哦啦啦 https://t.co/8J4u7WrzPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 304,
+          "like_count": 8495,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1535
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 200,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      }
+    ]
+  }
+}

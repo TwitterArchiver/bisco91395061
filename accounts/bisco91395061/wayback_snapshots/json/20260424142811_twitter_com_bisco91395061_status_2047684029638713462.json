@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2047309237471388012",
+    "created_at": "2026-04-24T14:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047684029638713462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1661418553801580544",
+          "start": 0,
+          "username": "Nzstz53"
+        },
+        {
+          "end": 22,
+          "id": "622036546",
+          "start": 9,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047684029638713462",
+    "in_reply_to_user_id": "1661418553801580544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047322522136264976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nzstz53 @overdose_six 这个是啥啊从哪买"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047322509507166208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmM-afWAAAYod9.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2047309237471388012",
+        "created_at": "2026-04-24T14:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047684029638713462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1661418553801580544",
+              "start": 0,
+              "username": "Nzstz53"
+            },
+            {
+              "end": 22,
+              "id": "622036546",
+              "start": 9,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047684029638713462",
+        "in_reply_to_user_id": "1661418553801580544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047322522136264976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nzstz53 @overdose_six 这个是啥啊从哪买"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047322509507166208"
+          ]
+        },
+        "author_id": "1661418553801580544",
+        "conversation_id": "2047309237471388012",
+        "created_at": "2026-04-23T14:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047322522136264976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgx2RWcgr9",
+              "end": 41,
+              "expanded_url": "https://x.com/Nzstz53/status/2047322522136264976/photo/1",
+              "media_key": "3_2047322509507166208",
+              "start": 18,
+              "url": "https://t.co/fgx2RWcgr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047322522136264976",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3215,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047309237471388012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 并没有 https://t.co/fgx2RWcgr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜低浮上",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 65,
+          "like_count": 3920,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 359
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T17:07:22.000Z",
+        "description": "",
+        "id": "1661418553801580544",
+        "name": "κ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004932256914440197/Z0wcEEtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 67
+        },
+        "username": "Nzstz53",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "提问箱：https://t.co/b5c8bbntR6 | 接受药物报告及相关投稿",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 27,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 4,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名Shiina",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2813,
+          "following_count": 98,
+          "like_count": 11543,
+          "listed_count": 8,
+          "media_count": 688,
+          "tweet_count": 4158
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2054548221108834689",
+    "created_at": "2026-05-13T17:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054610940650545503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1960505849362911232",
+          "start": 0,
+          "username": "allayaalq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054610940650545503",
+    "in_reply_to_user_id": "1960505849362911232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054548221108834689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allayaalq 效果咋样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2054548205430616065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIM4tRabsAE0KlU.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054548216767758336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIM4t7pawAAXkZ0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2054548221108834689",
+        "created_at": "2026-05-13T17:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054610940650545503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1960505849362911232",
+              "start": 0,
+              "username": "allayaalq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054610940650545503",
+        "in_reply_to_user_id": "1960505849362911232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054548221108834689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allayaalq 效果咋样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054548205430616065",
+            "3_2054548216767758336"
+          ]
+        },
+        "author_id": "1960505849362911232",
+        "conversation_id": "2054548221108834689",
+        "created_at": "2026-05-13T13:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054548221108834689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AaboAZTePm",
+              "end": 30,
+              "expanded_url": "https://x.com/allayaalq/status/2054548221108834689/photo/1",
+              "media_key": "3_2054548205430616065",
+              "start": 7,
+              "url": "https://t.co/AaboAZTePm"
+            },
+            {
+              "display_url": "pic.x.com/AaboAZTePm",
+              "end": 30,
+              "expanded_url": "https://x.com/allayaalq/status/2054548221108834689/photo/1",
+              "media_key": "3_2054548216767758336",
+              "start": 7,
+              "url": "https://t.co/AaboAZTePm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054548221108834689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧6g加巴 https://t.co/AaboAZTePm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 114,
+          "like_count": 5358,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 625
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T00:53:28.000Z",
+        "description": "泥嚎 我是黑洞总部派来毁灭地球的特别喜欢装可爱的小小生物 如果你和我一样是来毁灭地球的外星人就来和我互fo吧！😈😈😈@Leleucffq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "Leleucffq"
+              }
+            ]
+          }
+        },
+        "id": "1960505849362911232",
+        "location": "Hino-shi, Tokyo",
+        "name": "黑洞陨石啵啵",
+        "pinned_tweet_id": "2054488596934222257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053557683882807296/x8DGE3Jv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 1707,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 441
+        },
+        "username": "allayaalq",
+        "verified": false
+      }
+    ]
+  }
+}

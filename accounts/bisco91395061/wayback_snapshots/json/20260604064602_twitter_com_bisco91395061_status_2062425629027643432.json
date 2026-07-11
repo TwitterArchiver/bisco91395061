@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2062007111673139391",
+    "created_at": "2026-06-04T06:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062425629027643432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445681460497694723",
+          "start": 0,
+          "username": "cryptochenrui"
+        },
+        {
+          "end": 28,
+          "id": "334507412",
+          "start": 15,
+          "username": "misskoichiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062425629027643432",
+    "in_reply_to_user_id": "1445681460497694723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062379068407091207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cryptochenrui @misskoichiro 🤤🤤🤤对哦听起来好美好……………好想去这辈子一定要去一次🆘🆘🆘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2062007111673139391",
+        "created_at": "2026-06-04T06:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062425629027643432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445681460497694723",
+              "start": 0,
+              "username": "cryptochenrui"
+            },
+            {
+              "end": 28,
+              "id": "334507412",
+              "start": 15,
+              "username": "misskoichiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062425629027643432",
+        "in_reply_to_user_id": "1445681460497694723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062379068407091207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cryptochenrui @misskoichiro 🤤🤤🤤对哦听起来好美好……………好想去这辈子一定要去一次🆘🆘🆘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445681460497694723",
+        "conversation_id": "2062007111673139391",
+        "created_at": "2026-06-04T03:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062379068407091207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            },
+            {
+              "end": 28,
+              "id": "334507412",
+              "start": 15,
+              "username": "misskoichiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062379068407091207",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062067512980967864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 @misskoichiro 像什么园游会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 163,
+          "like_count": 6970,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 901
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-06T09:25:19.000Z",
+        "description": "这里是精神病和嗑药od频道.\n大学退学。intj。\n欢迎温良边缘人直fo。\n🈲过激健全基本盘男权女权。\n交易员频道是@chenrui2025",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "chenrui2025"
+              }
+            ]
+          }
+        },
+        "id": "1445681460497694723",
+        "location": "南昌",
+        "name": "relife栗子",
+        "pinned_tweet_id": "2059960258286776424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034259613885796353/B-zmpLFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 231,
+          "like_count": 9202,
+          "listed_count": 5,
+          "media_count": 128,
+          "tweet_count": 2309
+        },
+        "username": "cryptochenrui",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-13T06:16:57.000Z",
+        "description": "渋沢栄一の孫が道楽的に開業🏇競馬場オープン当初から残る数少ないお店の一つ。競馬場グルメグランプリ1位獲得「モカソフト」が大人気の喫茶店？です☕️🍦東京、中山両競馬場で営業してます。頂いたリプ、DMにはできるだけ反応してます。気軽にコメント頂けると嬉しいです😆",
+        "id": "334507412",
+        "location": "東京競馬場、中山競馬場",
+        "name": "耕一路｜KOICHIRO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1539630052983570437/YqkV1qAW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11805,
+          "following_count": 6912,
+          "like_count": 131789,
+          "listed_count": 85,
+          "media_count": 868,
+          "tweet_count": 84329
+        },
+        "username": "misskoichiro",
+        "verified": true
+      }
+    ]
+  }
+}

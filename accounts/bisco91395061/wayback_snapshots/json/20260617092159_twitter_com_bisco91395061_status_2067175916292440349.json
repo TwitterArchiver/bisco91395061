@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067175772738232320"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2067175916292440349",
+    "created_at": "2026-06-17T09:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067175916292440349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UhxLRoDoEM",
+          "end": 50,
+          "expanded_url": "https://x.com/bisco91395061/status/2067175916292440349/photo/1",
+          "media_key": "3_2067175772738232320",
+          "start": 27,
+          "url": "https://t.co/UhxLRoDoEM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067175916292440349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没米了我来要饭，现在爆米有概率随机掉落联系方式和画👅 https://t.co/UhxLRoDoEM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 923,
+        "media_key": "3_2067175772738232320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAVabZbIAAH0Fw.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067175772738232320"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2067175916292440349",
+        "created_at": "2026-06-17T09:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067175916292440349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UhxLRoDoEM",
+              "end": 50,
+              "expanded_url": "https://x.com/bisco91395061/status/2067175916292440349/photo/1",
+              "media_key": "3_2067175772738232320",
+              "start": 27,
+              "url": "https://t.co/UhxLRoDoEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067175916292440349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没米了我来要饭，现在爆米有概率随机掉落联系方式和画👅 https://t.co/UhxLRoDoEM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 269,
+          "like_count": 8038,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1353
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

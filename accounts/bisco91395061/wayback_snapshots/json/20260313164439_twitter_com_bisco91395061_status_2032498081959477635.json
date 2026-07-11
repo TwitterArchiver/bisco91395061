@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032497928364015616"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2032498081959477635",
+    "created_at": "2026-03-13T16:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T17:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032498081959477635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YKZpSK1nJW",
+          "end": 49,
+          "expanded_url": "https://x.com/bisco91395061/status/2032498081959477635/photo/1",
+          "media_key": "3_2032497928364015616",
+          "start": 26,
+          "url": "https://t.co/YKZpSK1nJW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032498081959477635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没等到专注达等到晶哥了。。。拜托了不要这样对我！！ https://t.co/YKZpSK1nJW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1340,
+        "media_key": "3_2032497928364015616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDTiGOLawAAiCKn.jpg",
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032497928364015616"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2032498081959477635",
+        "created_at": "2026-03-13T16:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T17:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032498081959477635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YKZpSK1nJW",
+              "end": 49,
+              "expanded_url": "https://x.com/bisco91395061/status/2032498081959477635/photo/1",
+              "media_key": "3_2032497928364015616",
+              "start": 26,
+              "url": "https://t.co/YKZpSK1nJW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032498081959477635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没等到专注达等到晶哥了。。。拜托了不要这样对我！！ https://t.co/YKZpSK1nJW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 37,
+          "like_count": 2999,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 131
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

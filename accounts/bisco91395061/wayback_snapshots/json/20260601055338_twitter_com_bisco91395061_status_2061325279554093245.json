@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2061074386430681088",
+    "created_at": "2026-06-01T05:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061325279554093245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "39434573",
+          "start": 0,
+          "username": "wakou1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061325279554093245",
+    "in_reply_to_user_id": "39434573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061074386430681088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wakou1 我操笑死我了。。。。。说得好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2061074386430681088",
+        "created_at": "2026-06-01T05:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061325279554093245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "39434573",
+              "start": 0,
+              "username": "wakou1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061325279554093245",
+        "in_reply_to_user_id": "39434573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061074386430681088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wakou1 我操笑死我了。。。。。说得好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39434573",
+        "conversation_id": "2061074386430681088",
+        "created_at": "2026-05-31T13:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061074386430681088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061074386430681088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 371055,
+          "like_count": 1154,
+          "quote_count": 32,
+          "reply_count": 32,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "もし私が津村騎手だったら人生を賭けて挑んだ日本ダービーで、同期の川田騎手からあれだけの妨害をされたら気を病むかな。お互い仲が良いアピールしてたけど、もしかして仲が良くない？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 160,
+          "like_count": 6729,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 864
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-12T04:35:26.000Z",
+        "description": "Horse Racing Fan / PVC Figure Collector/ POG青本の裏キャラです / 出資馬はこちら→ https://t.co/15Sn2KPw6U?",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "umadb.com/s/qDZfRwa8Xv",
+                "end": 88,
+                "expanded_url": "https://www.umadb.com/s/qDZfRwa8Xv",
+                "start": 65,
+                "url": "https://t.co/15Sn2KPw6U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/%E5%A4%A9%E6%8…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/%E5%A4%A9%E6%89%8D-%E3%81%AEPOG%E9%9D%92%E6%9C%AC2026-2027/dp/4863885113",
+                "start": 0,
+                "url": "https://t.co/T3o9UtAa9y"
+              }
+            ]
+          }
+        },
+        "id": "39434573",
+        "location": "東京",
+        "name": "wakou1@講師",
+        "pinned_tweet_id": "2046225203303522542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1096241237726683136/ma4vd_rc_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 5855,
+          "like_count": 49563,
+          "listed_count": 73,
+          "media_count": 5276,
+          "tweet_count": 202126
+        },
+        "url": "https://t.co/T3o9UtAa9y",
+        "username": "wakou1",
+        "verified": false
+      }
+    ]
+  }
+}

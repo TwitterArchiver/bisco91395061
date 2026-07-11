@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2058146138415599862",
+    "created_at": "2026-05-23T11:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058146138415599862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShiroSkura/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ShiroSkura/status/2058113120766132302",
+          "start": 5,
+          "url": "https://t.co/JVRDFItZri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058146138415599862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058113120766132302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这期神了 https://t.co/JVRDFItZri"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058113115800133632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_i-XbW4AA7YQv.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2058146138415599862",
+        "created_at": "2026-05-23T11:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058146138415599862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShiroSkura/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ShiroSkura/status/2058113120766132302",
+              "start": 5,
+              "url": "https://t.co/JVRDFItZri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058146138415599862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058113120766132302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这期神了 https://t.co/JVRDFItZri"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058113115800133632"
+          ]
+        },
+        "author_id": "1662439435726905344",
+        "conversation_id": "2058113120766132302",
+        "created_at": "2026-05-23T09:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058113120766132302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rIQ1WdCPbz",
+              "end": 66,
+              "expanded_url": "https://x.com/ShiroSkura/status/2058113120766132302/photo/1",
+              "media_key": "3_2058113115800133632",
+              "start": 43,
+              "url": "https://t.co/rIQ1WdCPbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058113120766132302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8083,
+          "like_count": 118,
+          "quote_count": 9,
+          "reply_count": 19,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "娜娜警官，你也不想这件事被你家里人知道吧\n识趣的话，就乖乖的把手上的右美沙芬都交给我 https://t.co/rIQ1WdCPbz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 128,
+          "like_count": 6147,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 705
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "17岁生活在Kennewick的天才美少女\n想知道我是谁？才不告诉你！ 商务联系⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+kbiFvS7eC4k3Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+kbiFvS7eC4k3YzNl",
+                "start": 0,
+                "url": "https://t.co/BhUcaEgfh1"
+              }
+            ]
+          }
+        },
+        "id": "1662439435726905344",
+        "location": "Kennewick, WA",
+        "name": "VOIDlink",
+        "pinned_tweet_id": "1999157411341570111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056973883295801344/YG8gP4hr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 41,
+          "like_count": 10495,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/BhUcaEgfh1",
+        "username": "ShiroSkura",
+        "verified": false
+      }
+    ]
+  }
+}

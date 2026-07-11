@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2067494244915593694",
+    "created_at": "2026-06-18T07:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067504722576396669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1846525424714891264",
+          "start": 0,
+          "username": "Jfishyuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067504722576396669",
+    "in_reply_to_user_id": "1846525424714891264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067501773212745988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jfishyuyu 宝宝🥺🥺🥺🥺你好宠我。。。。我好爱你。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2067494244915593694",
+        "created_at": "2026-06-18T07:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067504722576396669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1846525424714891264",
+              "start": 0,
+              "username": "Jfishyuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067504722576396669",
+        "in_reply_to_user_id": "1846525424714891264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067501773212745988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jfishyuyu 宝宝🥺🥺🥺🥺你好宠我。。。。我好爱你。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846525424714891264",
+        "conversation_id": "2067494244915593694",
+        "created_at": "2026-06-18T06:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067501773212745988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067501773212745988",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067494244915593694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 咋这萌啊🤤手机壳也好可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 276,
+          "like_count": 8139,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1391
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T12:16:03.000Z",
+        "description": "叫我洋芋就好\n垃圾号@Jfish_QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Jfish_QwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jfishyuyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jfishyuyu",
+                "start": 0,
+                "url": "https://t.co/HPHkJhgxyC"
+              }
+            ]
+          }
+        },
+        "id": "1846525424714891264",
+        "name": "眠眠芋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052414104074149888/hwFHGdhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 66,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/HPHkJhgxyC",
+        "username": "Jfishyuyu",
+        "verified": false
+      }
+    ]
+  }
+}

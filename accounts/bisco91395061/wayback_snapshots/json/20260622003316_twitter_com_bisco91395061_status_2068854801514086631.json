@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2068753848781697311",
+    "created_at": "2026-06-22T00:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T01:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068854801514086631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2051188013619875840",
+          "start": 0,
+          "username": "yukimaru_suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068854801514086631",
+    "in_reply_to_user_id": "2051188013619875840",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068854585834504481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukimaru_suki 🫂🫂🫂🫂🫂🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2068753848781697311",
+        "created_at": "2026-06-22T00:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068854801514086631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2051188013619875840",
+              "start": 0,
+              "username": "yukimaru_suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068854801514086631",
+        "in_reply_to_user_id": "2051188013619875840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068854585834504481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukimaru_suki 🫂🫂🫂🫂🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051188013619875840",
+        "conversation_id": "2068753848781697311",
+        "created_at": "2026-06-22T00:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068854585834504481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068854585834504481",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068854410642686151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 木事！伤口不是很深就是出血量大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 305,
+          "like_count": 8505,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1542
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T06:34:28.000Z",
+        "description": "中国语/日本語 /20⬆️/od/缓慢治疗精神疾病中/cp暴言中/韩漫/fo会查成分",
+        "id": "2051188013619875840",
+        "name": "苦情剧又该我上演",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068752646207647744/GMRm1TUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 115,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "yukimaru_suki",
+        "verified": false
+      }
+    ]
+  }
+}

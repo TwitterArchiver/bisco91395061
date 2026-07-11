@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2064961401685504480",
+    "created_at": "2026-06-11T10:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T11:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065018442730860705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2064445837334474752",
+          "start": 0,
+          "username": "Alan2nx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065018442730860705",
+    "in_reply_to_user_id": "2064445837334474752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065000932103033134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alan2nx 😚😚😚😚啊啊啊啊啊宝贝。。。。我亲你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2064961401685504480",
+        "created_at": "2026-06-11T10:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065018442730860705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2064445837334474752",
+              "start": 0,
+              "username": "Alan2nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065018442730860705",
+        "in_reply_to_user_id": "2064445837334474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065000932103033134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alan2nx 😚😚😚😚啊啊啊啊啊宝贝。。。。我亲你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064445837334474752",
+        "conversation_id": "2064961401685504480",
+        "created_at": "2026-06-11T09:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065000932103033134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065000932103033134",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064961401685504480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 眼镜女就是萌呀…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 211,
+          "like_count": 7586,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1099
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T20:34:32.000Z",
+        "description": "请不要接触我",
+        "id": "2064445837334474752",
+        "name": "Alan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064447547180281856/mz7xxVxG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 89,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 94
+        },
+        "username": "Alan2nx",
+        "verified": false
+      }
+    ]
+  }
+}

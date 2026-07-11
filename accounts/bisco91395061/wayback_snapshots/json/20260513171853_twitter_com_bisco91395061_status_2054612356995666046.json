@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2054459716236165531",
+    "created_at": "2026-05-13T17:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054612356995666046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291988176496545792",
+          "start": 0,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054612356995666046",
+    "in_reply_to_user_id": "1291988176496545792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054459716236165531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vox35112635 蹲红包"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 396,
+        "media_key": "3_2054459706111045632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILoN7waMAAyT19.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2054459716236165531",
+        "created_at": "2026-05-13T17:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054612356995666046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054612356995666046",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054459716236165531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 蹲红包"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054459706111045632"
+          ]
+        },
+        "author_id": "1291988176496545792",
+        "conversation_id": "2054459716236165531",
+        "created_at": "2026-05-13T07:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054459716236165531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/04WQPNF7ir",
+              "end": 23,
+              "expanded_url": "https://x.com/Vox35112635/status/2054459716236165531/photo/1",
+              "media_key": "3_2054459706111045632",
+              "start": 0,
+              "url": "https://t.co/04WQPNF7ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054459716236165531",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 36729,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 228,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/04WQPNF7ir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 115,
+          "like_count": 5361,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 626
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/现在会接一点有偿转发/付费线上纯绿色交友委托/如果谎称投稿人私下联系你们请找我确认防止被骗/广告正规推以外的其他投稿均为免费/不做任何验证/加vx随缘给门槛就好了/算卦找@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 101,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300526,
+          "following_count": 529,
+          "like_count": 478,
+          "listed_count": 352,
+          "media_count": 12024,
+          "tweet_count": 17324
+        },
+        "username": "Vox35112635",
+        "verified": true
+      }
+    ]
+  }
+}

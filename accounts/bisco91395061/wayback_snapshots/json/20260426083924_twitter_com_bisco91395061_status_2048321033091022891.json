@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2048314919511298287",
+    "created_at": "2026-04-26T08:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T09:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048321033091022891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829004961627373568",
+          "start": 0,
+          "username": "BiDuoduo99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048321033091022891",
+    "in_reply_to_user_id": "829004961627373568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048320906226016478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiDuoduo99 我不炒币啊。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2048314919511298287",
+        "created_at": "2026-04-26T08:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048321033091022891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829004961627373568",
+              "start": 0,
+              "username": "BiDuoduo99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048321033091022891",
+        "in_reply_to_user_id": "829004961627373568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048320906226016478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiDuoduo99 我不炒币啊。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "829004961627373568",
+        "conversation_id": "2048314919511298287",
+        "created_at": "2026-04-26T08:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048320906226016478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048320906226016478",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048314919511298287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 蓝V互关，有关必回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜低浮上",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 74,
+          "like_count": 4018,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 386
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-07T16:32:39.000Z",
+        "description": "合约交易的精髓，在于长期、持续、稳定地盈利，这与“一夜暴富”的赌博心态有天壤之别。",
+        "id": "829004961627373568",
+        "name": "币多多",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047233636597174272/2jovL2gr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6400,
+          "following_count": 747,
+          "like_count": 5824,
+          "listed_count": 30,
+          "media_count": 79,
+          "tweet_count": 2777
+        },
+        "username": "BiDuoduo99",
+        "verified": true
+      }
+    ]
+  }
+}

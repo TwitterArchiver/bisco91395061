@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2066101160365461911",
+    "created_at": "2026-06-14T11:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066114164486242769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1630986969928056832",
+          "start": 0,
+          "username": "omangopuuding"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066114164486242769",
+    "in_reply_to_user_id": "1630986969928056832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066102808697614386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omangopuuding 谢谢亲爱的么么么么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2066101160365461911",
+        "created_at": "2026-06-14T11:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066114164486242769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1630986969928056832",
+              "start": 0,
+              "username": "omangopuuding"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066114164486242769",
+        "in_reply_to_user_id": "1630986969928056832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066102808697614386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omangopuuding 谢谢亲爱的么么么么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630986969928056832",
+        "conversation_id": "2066101160365461911",
+        "created_at": "2026-06-14T10:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066102808697614386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066102808697614386",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066101160365461911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 画这么好看宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 247,
+          "like_count": 7857,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1280
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-01T17:43:02.000Z",
+        "description": "通过潜在能力，比较容易找到镰刀",
+        "id": "1630986969928056832",
+        "name": "芒果布丁",
+        "pinned_tweet_id": "2065339468362776899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064936438207299584/dw3NElFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 173,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 481
+        },
+        "username": "omangopuuding",
+        "verified": false
+      }
+    ]
+  }
+}

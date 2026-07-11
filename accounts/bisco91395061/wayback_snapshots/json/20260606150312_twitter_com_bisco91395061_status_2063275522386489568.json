@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2063234579557646653",
+    "created_at": "2026-06-06T15:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063275522386489568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2060627239654629376",
+          "start": 0,
+          "username": "ashdieds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063275522386489568",
+    "in_reply_to_user_id": "2060627239654629376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063234579557646653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashdieds 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063234567184502784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIU6ElW0AApX3N.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2063234579557646653",
+        "created_at": "2026-06-06T15:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063275522386489568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060627239654629376",
+              "start": 0,
+              "username": "ashdieds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063275522386489568",
+        "in_reply_to_user_id": "2060627239654629376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063234579557646653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashdieds 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063234567184502784"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2063234579557646653",
+        "created_at": "2026-06-06T12:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063234579557646653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PGCskDlhBH",
+              "end": 38,
+              "expanded_url": "https://x.com/ashdieds/status/2063234579557646653/photo/1",
+              "media_key": "3_2063234567184502784",
+              "start": 15,
+              "url": "https://t.co/PGCskDlhBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063234579557646653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这张图我还没有在此号发过好像 https://t.co/PGCskDlhBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 185,
+          "like_count": 7268,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 989
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 90,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 71
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

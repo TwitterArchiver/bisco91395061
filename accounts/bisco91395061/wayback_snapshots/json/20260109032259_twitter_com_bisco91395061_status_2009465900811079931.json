@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2009465900811079931",
+    "created_at": "2026-01-09T03:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T04:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009465900811079931"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "JFC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1967837511696388098",
+          "start": 3,
+          "username": "JL_Fantasy_Card"
+        },
+        {
+          "end": 127,
+          "id": "1967837511696388098",
+          "start": 111,
+          "username": "JL_Fantasy_Card"
+        }
+      ],
+      "urls": [
+        {
+          "description": "『希少な1枚　多彩な楽しみ』Ｊリーグ公式のデジタルトレカ登場！数量限定の特別な選手カードをコレクション！Ｊ１の試合と連動するファンタジースポーツで競い合おう！",
+          "display_url": "pre.fantasy-fc.com",
+          "end": 101,
+          "expanded_url": "https://pre.fantasy-fc.com/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2006943716783828993/YE3yXQr5?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2006943716783828993/YE3yXQr5?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 78,
+          "status": 200,
+          "title": "【Ｊリーグ公式】J.LEAGUE FANTASY CARD｜2026年1月14日リリース！【JFC】",
+          "unwound_url": "https://pre.fantasy-fc.com/",
+          "url": "https://t.co/cCdKbJT0mu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009465900811079931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009460415437348920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JL_Fantasy_Card: ＼毎日参加できる！／\n300Ｊコインが当たる✨\n═══════════════\n\n🔴#JFC 事前登録受付中！\n　https://t.co/cCdKbJT0mu\n\n📌応募方法\n① @JL_Fantasy_Card をフォロー\n②この投稿…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2009460408684589056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-MJmFnbMAAv3Ey.png",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2009465900811079931",
+        "created_at": "2026-01-09T03:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T04:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009465900811079931"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "JFC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1967837511696388098",
+              "start": 3,
+              "username": "JL_Fantasy_Card"
+            },
+            {
+              "end": 127,
+              "id": "1967837511696388098",
+              "start": 111,
+              "username": "JL_Fantasy_Card"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『希少な1枚　多彩な楽しみ』Ｊリーグ公式のデジタルトレカ登場！数量限定の特別な選手カードをコレクション！Ｊ１の試合と連動するファンタジースポーツで競い合おう！",
+              "display_url": "pre.fantasy-fc.com",
+              "end": 101,
+              "expanded_url": "https://pre.fantasy-fc.com/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2006943716783828993/YE3yXQr5?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006943716783828993/YE3yXQr5?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 78,
+              "status": 200,
+              "title": "【Ｊリーグ公式】J.LEAGUE FANTASY CARD｜2026年1月14日リリース！【JFC】",
+              "unwound_url": "https://pre.fantasy-fc.com/",
+              "url": "https://t.co/cCdKbJT0mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009465900811079931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009460415437348920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JL_Fantasy_Card: ＼毎日参加できる！／\n300Ｊコインが当たる✨\n═══════════════\n\n🔴#JFC 事前登録受付中！\n　https://t.co/cCdKbJT0mu\n\n📌応募方法\n① @JL_Fantasy_Card をフォロー\n②この投稿…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009460408684589056"
+          ]
+        },
+        "author_id": "1967837511696388098",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10036214049",
+              "name": "Jリーグ"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756538548948992",
+              "name": "J1 League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756538548948992",
+              "name": "J1 League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756538548948992",
+              "name": "J1 League"
+            }
+          }
+        ],
+        "conversation_id": "2009460415437348920",
+        "created_at": "2026-01-09T03:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T04:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009460415437348920"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "JFC"
+            },
+            {
+              "end": 166,
+              "start": 161,
+              "tag": "Ｊリーグ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 106,
+              "id": "1967837511696388098",
+              "start": 90,
+              "username": "JL_Fantasy_Card"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『希少な1枚　多彩な楽しみ』Ｊリーグ公式のデジタルトレカ登場！数量限定の特別な選手カードをコレクション！Ｊ１の試合と連動するファンタジースポーツで競い合おう！",
+              "display_url": "pre.fantasy-fc.com",
+              "end": 80,
+              "expanded_url": "https://pre.fantasy-fc.com/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2006943716783828993/YE3yXQr5?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006943716783828993/YE3yXQr5?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "【Ｊリーグ公式】J.LEAGUE FANTASY CARD｜2026年1月14日リリース！【JFC】",
+              "unwound_url": "https://pre.fantasy-fc.com/",
+              "url": "https://t.co/cCdKbJT0mu"
+            },
+            {
+              "display_url": "present.social-camp.com/JL_Fantasy_Car…",
+              "end": 159,
+              "expanded_url": "https://present.social-camp.com/JL_Fantasy_Card/784457649961",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2009460421825318919/SsIoa1Fr?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009460421825318919/SsIoa1Fr?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 136,
+              "status": 200,
+              "title": "300Ｊコイン抽選キャンペーン",
+              "unwound_url": "https://present.social-camp.com/JL_Fantasy_Card/784457649961",
+              "url": "https://t.co/aN3tCcJnkn"
+            },
+            {
+              "display_url": "pic.x.com/ELRTd3cZPq",
+              "end": 190,
+              "expanded_url": "https://x.com/JL_Fantasy_Card/status/2009460415437348920/photo/1",
+              "media_key": "3_2009460408684589056",
+              "start": 167,
+              "url": "https://t.co/ELRTd3cZPq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009460415437348920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1572,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "＼毎日参加できる！／\n300Ｊコインが当たる✨\n═══════════════\n\n🔴#JFC 事前登録受付中！\n　https://t.co/cCdKbJT0mu\n\n📌応募方法\n① @JL_Fantasy_Card をフォロー\n②この投稿をリポスト\n③URLから結果を確認\nhttps://t.co/aN3tCcJnkn\n\n#Ｊリーグ https://t.co/ELRTd3cZPq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰ウイスキーも少し勉強中、ウマ娘も少し、ファジアーノも",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981275771931942912/DkGP4QSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 185,
+          "like_count": 2395,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 218
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T06:27:00.000Z",
+        "description": "Ｊリーグ公式トレーディングカード×ファンタジースポーツゲーム『J.LEAGUE FANTASY CARD』公式アカウントです！#JFC 事前登録受付中！\n📌公式サイト:https://t.co/Gt06tfA1EP 📌カード一覧: https://t.co/cbQcLInNQ2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 63,
+                "tag": "JFC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pre.fantasy-fc.com",
+                "end": 107,
+                "expanded_url": "https://pre.fantasy-fc.com",
+                "start": 84,
+                "url": "https://t.co/Gt06tfA1EP"
+              },
+              {
+                "display_url": "cardlist.fantasy-fc.com",
+                "end": 139,
+                "expanded_url": "https://cardlist.fantasy-fc.com/",
+                "start": 116,
+                "url": "https://t.co/cbQcLInNQ2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pre.fantasy-fc.com",
+                "end": 23,
+                "expanded_url": "https://pre.fantasy-fc.com/",
+                "start": 0,
+                "url": "https://t.co/lHVeYGFPjK"
+              }
+            ]
+          }
+        },
+        "id": "1967837511696388098",
+        "name": "J.LEAGUE FANTASY CARD【公式】",
+        "pinned_tweet_id": "2007014009011327298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980454150929293312/UsA1j0eh_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18352,
+          "following_count": 24,
+          "like_count": 36,
+          "listed_count": 17,
+          "media_count": 78,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/lHVeYGFPjK",
+        "username": "JL_Fantasy_Card",
+        "verified": true
+      }
+    ]
+  }
+}

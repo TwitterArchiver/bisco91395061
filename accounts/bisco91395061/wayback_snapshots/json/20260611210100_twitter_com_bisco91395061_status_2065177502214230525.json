@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2064961401685504480",
+    "created_at": "2026-06-11T21:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T22:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065177502214230525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1293269612713385987",
+          "start": 0,
+          "username": "koqiang2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065177502214230525",
+    "in_reply_to_user_id": "1293269612713385987",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065046889607946599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koqiang2 你好喵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2064961401685504480",
+        "created_at": "2026-06-11T21:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T22:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065177502214230525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1293269612713385987",
+              "start": 0,
+              "username": "koqiang2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065177502214230525",
+        "in_reply_to_user_id": "1293269612713385987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065046889607946599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koqiang2 你好喵！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293269612713385987",
+        "conversation_id": "2064961401685504480",
+        "created_at": "2026-06-11T12:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065046889607946599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065046889607946599",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064961401685504480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 警光好👮‍♂️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 218,
+          "like_count": 7605,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1128
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-11T19:34:51.000Z",
+        "description": "nice guy",
+        "id": "1293269612713385987",
+        "name": "uuukoqd guy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1293270885848231937/EZM9UnCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 1640,
+          "like_count": 9698,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 710
+        },
+        "username": "koqiang2",
+        "verified": false
+      }
+    ]
+  }
+}

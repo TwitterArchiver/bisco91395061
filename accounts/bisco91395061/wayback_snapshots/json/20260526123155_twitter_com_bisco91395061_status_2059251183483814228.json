@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2059219430719238429",
+    "created_at": "2026-05-26T12:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059251183483814228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2036523006412070912",
+          "start": 0,
+          "username": "Ob0gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059251183483814228",
+    "in_reply_to_user_id": "2036523006412070912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059235163394167019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ob0gu 宝宝我亲亲你。。😘😘😘😘😘😌😌❤️❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2059219430719238429",
+        "created_at": "2026-05-26T12:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059251183483814228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2036523006412070912",
+              "start": 0,
+              "username": "Ob0gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059251183483814228",
+        "in_reply_to_user_id": "2036523006412070912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059235163394167019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ob0gu 宝宝我亲亲你。。😘😘😘😘😘😌😌❤️❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036523006412070912",
+        "conversation_id": "2059219430719238429",
+        "created_at": "2026-05-26T11:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059235163394167019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059235163394167019",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059219430719238429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 好美..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 150,
+          "like_count": 6423,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 811
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T19:20:23.000Z",
+        "description": "一个药曲，一个小画师，一个小女孩，一个鼠王，一个被制裁之人。",
+        "id": "2036523006412070912",
+        "name": "O",
+        "pinned_tweet_id": "2057628304497418584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057416642356027392/shgd3UXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 42,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 61
+        },
+        "username": "Ob0gu",
+        "verified": false
+      }
+    ]
+  }
+}

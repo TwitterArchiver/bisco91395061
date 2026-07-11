@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2067168273834418233",
+    "created_at": "2026-06-18T07:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067504633879433470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1652413551103934465",
+          "start": 0,
+          "username": "qdd3235987005c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067504633879433470",
+    "in_reply_to_user_id": "1652413551103934465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067501988192141609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qdd3235987005c 第一次5-7t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2067168273834418233",
+        "created_at": "2026-06-18T07:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067504633879433470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1652413551103934465",
+              "start": 0,
+              "username": "qdd3235987005c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067504633879433470",
+        "in_reply_to_user_id": "1652413551103934465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067501988192141609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qdd3235987005c 第一次5-7t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652413551103934465",
+        "conversation_id": "2067168273834418233",
+        "created_at": "2026-06-18T06:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067501988192141609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067501988192141609",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067168273834418233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 老师 第一场o 多少t合适啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 276,
+          "like_count": 8139,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1390
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T20:44:35.000Z",
+        "description": "武汉 0 性欲强 耐",
+        "id": "1652413551103934465",
+        "location": "Wuhan",
+        "name": "趣多多",
+        "pinned_tweet_id": "1707431687771353356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702369248843276288/jSsUSiVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 433,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "qdd3235987005c",
+        "verified": false
+      }
+    ]
+  }
+}

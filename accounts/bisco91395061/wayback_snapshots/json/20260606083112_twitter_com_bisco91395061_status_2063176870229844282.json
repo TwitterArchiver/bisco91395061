@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2063176870229844282",
+    "created_at": "2026-06-06T08:31:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063176870229844282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lunarandsunny/…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/lunarandsunny/status/2062909466518159851",
+          "start": 64,
+          "url": "https://t.co/r7e66rAbPl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063176870229844282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062909466518159851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗷嗷嗷嗷嗷啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊嗷嗷嗷好可爱啊！！！！！！要和我推拍这个！！！！要和我推拍这个！！！！！ https://t.co/r7e66rAbPl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3966,
+        "height": 1280,
+        "media_key": "13_2062909376952991744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062909376952991744/img/0lC9nSDr53QsS7fC.jpg",
+        "public_metrics": {
+          "view_count": 8285
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062909376952991744/vid/avc1/320x568/V-mi2n9y7dglf4O5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062909376952991744/vid/avc1/480x852/kXz3lHqAM1O2jxe9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062909376952991744/vid/avc1/720x1280/YOVL26sS0GL9frYH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062909376952991744/pl/3HItgfmTK2bCUZRm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2063176870229844282",
+        "created_at": "2026-06-06T08:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063176870229844282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lunarandsunny/…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/lunarandsunny/status/2062909466518159851",
+              "start": 64,
+              "url": "https://t.co/r7e66rAbPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063176870229844282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062909466518159851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗷嗷嗷嗷嗷啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊嗷嗷嗷好可爱啊！！！！！！要和我推拍这个！！！！要和我推拍这个！！！！！ https://t.co/r7e66rAbPl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062909376952991744"
+          ]
+        },
+        "author_id": "1893297188442382339",
+        "conversation_id": "2062909466518159851",
+        "created_at": "2026-06-05T14:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062909466518159851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Kh0cKJG8N",
+              "end": 49,
+              "expanded_url": "https://x.com/lunarandsunny/status/2062909466518159851/video/1",
+              "media_key": "13_2062909376952991744",
+              "start": 26,
+              "url": "https://t.co/2Kh0cKJG8N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062909466518159851",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 61407,
+          "like_count": 2187,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "Sunny pushes Orfevre over https://t.co/2Kh0cKJG8N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 178,
+          "like_count": 7222,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 966
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T13:50:08.000Z",
+        "description": "🐎 Retired racehorses Moon Rising & More Importance",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lunarandsunny.carrd.co",
+                "end": 23,
+                "expanded_url": "https://lunarandsunny.carrd.co",
+                "start": 0,
+                "url": "https://t.co/2yJud4hxT0"
+              }
+            ]
+          }
+        },
+        "id": "1893297188442382339",
+        "location": "VIC, AUS 🇦🇺 | 18 ",
+        "name": "Lunar & Sunny 🐴",
+        "pinned_tweet_id": "2000068915419091280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039186192168853504/e7meYw0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9657,
+          "following_count": 385,
+          "like_count": 10402,
+          "listed_count": 18,
+          "media_count": 2856,
+          "tweet_count": 8687
+        },
+        "url": "https://t.co/2yJud4hxT0",
+        "username": "lunarandsunny",
+        "verified": false
+      }
+    ]
+  }
+}

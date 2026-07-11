@@ -1,0 +1,553 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027745618723307520"
+      ],
+      "media_source_tweet_id": [
+        "2027745680513454208"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2031941396316496038",
+    "created_at": "2026-03-12T03:52:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T04:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031941396316496038"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Aki",
+          "probability": 0.6321,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 44,
+          "normalized_text": "Power",
+          "probability": 0.7543,
+          "start": 40,
+          "type": "Other"
+        },
+        {
+          "end": 54,
+          "normalized_text": "Denji",
+          "probability": 0.762,
+          "start": 50,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1922310444242632709",
+          "start": 3,
+          "username": "fubukitweets"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FWxSAjR88X",
+          "end": 95,
+          "expanded_url": "https://x.com/i/status/2027745680513454208/video/1",
+          "media_key": "13_2027745618723307520",
+          "start": 72,
+          "url": "https://t.co/FWxSAjR88X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031941396316496038",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 438
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031748891998339191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fubukitweets: Aki really tolerating Power and Denji all the time 😭🙌\nhttps://t.co/FWxSAjR88X"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25933,
+        "height": 954,
+        "media_key": "13_2027745618723307520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027745618723307520/img/effAlRKpFNoRroYF.jpg",
+        "public_metrics": {
+          "view_count": 1301330
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027745618723307520/vid/avc1/320x424/8Ws0QmjQb0QH9SLV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027745618723307520/vid/avc1/480x636/qTS_7-l-Q6qu90hQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027745618723307520/vid/avc1/720x954/dB9QcOFBxpsYtxIw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027745618723307520/pl/rSU-maVWZKjUO8BE.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027745618723307520"
+          ],
+          "media_source_tweet_id": [
+            "2027745680513454208"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2031941396316496038",
+        "created_at": "2026-03-12T03:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031941396316496038"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Aki",
+              "probability": 0.6321,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "Power",
+              "probability": 0.7543,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 54,
+              "normalized_text": "Denji",
+              "probability": 0.762,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1922310444242632709",
+              "start": 3,
+              "username": "fubukitweets"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWxSAjR88X",
+              "end": 95,
+              "expanded_url": "https://x.com/i/status/2027745680513454208/video/1",
+              "media_key": "13_2027745618723307520",
+              "start": 72,
+              "url": "https://t.co/FWxSAjR88X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031941396316496038",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 438
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031748891998339191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fubukitweets: Aki really tolerating Power and Denji all the time 😭🙌\nhttps://t.co/FWxSAjR88X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027745618723307520"
+          ],
+          "media_source_tweet_id": [
+            "2027745680513454208"
+          ]
+        },
+        "author_id": "1922310444242632709",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2031748891998339191",
+        "created_at": "2026-03-11T15:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031748891998339191"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "Aki",
+              "probability": 0.7043,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 26,
+              "normalized_text": "Power",
+              "probability": 0.7792,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 36,
+              "normalized_text": "Denji",
+              "probability": 0.8257,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWxSAjR88X",
+              "end": 77,
+              "expanded_url": "https://x.com/i/status/2027745680513454208/video/1",
+              "media_key": "13_2027745618723307520",
+              "start": 54,
+              "url": "https://t.co/FWxSAjR88X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031748891998339191",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 709,
+          "impression_count": 413633,
+          "like_count": 4909,
+          "quote_count": 12,
+          "reply_count": 23,
+          "retweet_count": 438
+        },
+        "reply_settings": "everyone",
+        "text": "Aki really tolerating Power and Denji all the time 😭🙌\nhttps://t.co/FWxSAjR88X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 29,
+          "like_count": 2836,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 106
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T15:18:39.000Z",
+        "description": "fubuki 🤍| Multi fandom | Dm for promo\nhttps://t.co/KVdht5D7oy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/itsmefubukq",
+                "end": 61,
+                "expanded_url": "http://buymeacoffee.com/itsmefubukq",
+                "start": 38,
+                "url": "https://t.co/KVdht5D7oy"
+              }
+            ]
+          }
+        },
+        "id": "1922310444242632709",
+        "name": "ꜰᴜʙᴜᴋɪ",
+        "pinned_tweet_id": "1982722925380911442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987570536373948416/xH0t6wTX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16971,
+          "following_count": 1021,
+          "like_count": 39407,
+          "listed_count": 57,
+          "media_count": 2842,
+          "tweet_count": 15221
+        },
+        "username": "fubukitweets",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324489219360784384",
+          "name": "Summer festivals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2072876427066876414",
+    "created_at": "2026-07-03T02:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T03:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072876427066876414"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 108,
+          "start": 93,
+          "tag": "夏の創作クラスタフォロー祭り"
+        },
+        {
+          "end": 121,
+          "start": 109,
+          "tag": "絵描きさんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1968940871660744705",
+          "start": 3,
+          "username": "guest07080279"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/xqJP",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/xqJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072876427066876414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072858504168423922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guest07080279: 🍏の代理ちゃん！描くのめちゃくちゃ楽しかったです！✨\n​もっとたくさんの人の創作キャラ（OC）を描きたいです！ぜひたくさん絡んでください！🥺💖\n\n​#夏の創作クラスタフォロー祭り\n#絵描きさんと繋がりたい https://t.co/xqJP…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2200,
+        "media_key": "3_2072858478021144576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRFzaQbcAAoNr_.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2200,
+        "media_key": "3_2072858479157784576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRFzefbMAAqTUj.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324489219360784384",
+              "name": "Summer festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2072876427066876414",
+        "created_at": "2026-07-03T02:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072876427066876414"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 93,
+              "tag": "夏の創作クラスタフォロー祭り"
+            },
+            {
+              "end": 121,
+              "start": 109,
+              "tag": "絵描きさんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1968940871660744705",
+              "start": 3,
+              "username": "guest07080279"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/xqJP",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/xqJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072876427066876414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072858504168423922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guest07080279: 🍏の代理ちゃん！描くのめちゃくちゃ楽しかったです！✨\n​もっとたくさんの人の創作キャラ（OC）を描きたいです！ぜひたくさん絡んでください！🥺💖\n\n​#夏の創作クラスタフォロー祭り\n#絵描きさんと繋がりたい https://t.co/xqJP…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072858478021144576",
+            "3_2072858479157784576"
+          ]
+        },
+        "author_id": "1968940871660744705",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324489219360784384",
+              "name": "Summer festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2072858504168423922",
+        "created_at": "2026-07-03T01:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072858504168423922"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 74,
+              "tag": "夏の創作クラスタフォロー祭り"
+            },
+            {
+              "end": 102,
+              "start": 90,
+              "tag": "絵描きさんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xqJPSZpGub",
+              "end": 126,
+              "expanded_url": "https://x.com/guest07080279/status/2072858504168423922/photo/1",
+              "media_key": "3_2072858478021144576",
+              "start": 103,
+              "url": "https://t.co/xqJPSZpGub"
+            },
+            {
+              "display_url": "pic.x.com/xqJPSZpGub",
+              "end": 126,
+              "expanded_url": "https://x.com/guest07080279/status/2072858504168423922/photo/1",
+              "media_key": "3_2072858479157784576",
+              "start": 103,
+              "url": "https://t.co/xqJPSZpGub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072858504168423922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🍏の代理ちゃん！描くのめちゃくちゃ楽しかったです！✨\n​もっとたくさんの人の創作キャラ（OC）を描きたいです！ぜひたくさん絡んでください！🥺💖\n\n​#夏の創作クラスタフォロー祭り\n#絵描きさんと繋がりたい https://t.co/xqJPSZpGub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 337,
+          "like_count": 8897,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1713
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T07:31:18.000Z",
+        "description": "画画人超级大进击！欢迎来和我玩🥺🥺！！\n 无言关注失礼了！是超级喜欢的意思🥺！\n/Eng&日本語 翻译器💖💖/   \n/可以叫我V 因为很酷👐/\n碎碎念@PaulaRiver9119  有负面预警😈⚠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "PaulaRiver9119"
+              }
+            ]
+          }
+        },
+        "id": "1968940871660744705",
+        "location": "DM大欢迎♡——",
+        "name": "砂",
+        "pinned_tweet_id": "2071901070754799713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050055162207846400/9aL-7zhd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 37,
+          "like_count": 8592,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 286
+        },
+        "url": "",
+        "username": "guest07080279",
+        "verified": true
+      }
+    ]
+  }
+}

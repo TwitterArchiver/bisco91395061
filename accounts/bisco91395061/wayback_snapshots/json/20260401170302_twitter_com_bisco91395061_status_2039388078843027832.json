@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2039385153471226327",
+    "created_at": "2026-04-01T17:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T18:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039388078843027832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1549627171240816640",
+          "start": 0,
+          "username": "BDsirius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039388078843027832",
+    "in_reply_to_user_id": "1549627171240816640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039385153471226327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BDsirius 打个女大学生tag是啥意思大哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2039385110391529476",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1Z8-kboAQ7BDt.jpg",
+        "width": 1200
+      },
+      {
+        "height": 263,
+        "media_key": "3_2039385142398263296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1Z-1zboAA8HRT.jpg",
+        "width": 350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2039385153471226327",
+        "created_at": "2026-04-01T17:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T18:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039388078843027832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1549627171240816640",
+              "start": 0,
+              "username": "BDsirius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039388078843027832",
+        "in_reply_to_user_id": "1549627171240816640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039385153471226327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BDsirius 打个女大学生tag是啥意思大哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039385110391529476",
+            "3_2039385142398263296"
+          ]
+        },
+        "author_id": "1549627171240816640",
+        "conversation_id": "2039385153471226327",
+        "created_at": "2026-04-01T16:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039385153471226327"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "ATM提款机"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "压榨"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "吸金"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "吐钱"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "榨金"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "上贡"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "脚奴"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "代付奴"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "报销奴"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "绿帽奴"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "绿王八"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "无脑上贡"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "鸡巴"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "肉棒"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "男dom"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "男菩萨"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "男大学生"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "dom"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "sub"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "牛子"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "女菩萨"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "恋足"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "恋足癖"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "足控"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "反差"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "足交"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "脚底"
+            },
+            {
+              "end": 151,
+              "start": 146,
+              "tag": "女大学生"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "合照"
+            },
+            {
+              "end": 159,
+              "start": 156,
+              "tag": "射屏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BnBdlLWRA",
+              "end": 183,
+              "expanded_url": "https://x.com/BDsirius/status/2039385153471226327/photo/1",
+              "media_key": "3_2039385110391529476",
+              "start": 160,
+              "url": "https://t.co/1BnBdlLWRA"
+            },
+            {
+              "display_url": "pic.x.com/1BnBdlLWRA",
+              "end": 183,
+              "expanded_url": "https://x.com/BDsirius/status/2039385153471226327/photo/1",
+              "media_key": "3_2039385142398263296",
+              "start": 160,
+              "url": "https://t.co/1BnBdlLWRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039385153471226327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（）逼吃不吃 #ATM奴 #ATM提款机 #压榨 #吸金 #吐钱 #榨金 #上贡 #脚奴 #代付奴 #报销奴 #绿帽奴 #绿王八 #无脑上贡 #女性崇拜 #鸡巴 #肉棒 #男dom #男菩萨 #男大学生 #dom #sub #牛子 #女菩萨 #恋足 #恋足癖 #足控 #反差 #足交 #脚底 #女大学生 #合照 #射屏 https://t.co/1BnBdlLWRA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 56,
+          "like_count": 3661,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 288
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T05:28:13.000Z",
+        "description": "191/17/169 究极恋足癖恋袜癖",
+        "id": "1549627171240816640",
+        "location": "河北省",
+        "name": "山与",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867448803629871104/Ojt2MTNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 4,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 5
+        },
+        "username": "BDsirius",
+        "verified": false
+      }
+    ]
+  }
+}

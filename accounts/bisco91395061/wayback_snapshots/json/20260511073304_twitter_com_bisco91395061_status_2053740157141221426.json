@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2053740157141221426",
+    "created_at": "2026-05-11T07:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T08:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053740157141221426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2033094355972726788",
+          "start": 3,
+          "username": "dongmugen0508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053740157141221426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053156690598724014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dongmugen0508: 我这种社交孤儿怎么活。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2053740157141221426",
+        "created_at": "2026-05-11T07:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053740157141221426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2033094355972726788",
+              "start": 3,
+              "username": "dongmugen0508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053740157141221426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053156690598724014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dongmugen0508: 我这种社交孤儿怎么活。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033094355972726788",
+        "conversation_id": "2053156690598724014",
+        "created_at": "2026-05-09T16:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053156690598724014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053156690598724014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我这种社交孤儿怎么活。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 114,
+          "like_count": 5211,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 607
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T08:14:16.000Z",
+        "description": "前世@dongmugen08",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "dongmugen08"
+              }
+            ]
+          }
+        },
+        "id": "2033094355972726788",
+        "name": "东木艮（推油巡回中）",
+        "pinned_tweet_id": "2033095957039194381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033095147467190276/aYDkP8w8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 159,
+          "like_count": 963,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 230
+        },
+        "username": "dongmugen0508",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2059648976513830993",
+    "created_at": "2026-05-27T21:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T22:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059751592929448365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2030199419438792704",
+          "start": 0,
+          "username": "nvgaoS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059751592929448365",
+    "in_reply_to_user_id": "2030199419438792704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059685957159567851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nvgaoS 好的谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2059685921717641216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJV5buDaYAA7KrO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2059648976513830993",
+        "created_at": "2026-05-27T21:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T22:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059751592929448365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2030199419438792704",
+              "start": 0,
+              "username": "nvgaoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059751592929448365",
+        "in_reply_to_user_id": "2030199419438792704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059685957159567851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nvgaoS 好的谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059685921717641216"
+          ]
+        },
+        "author_id": "2030199419438792704",
+        "conversation_id": "2059648976513830993",
+        "created_at": "2026-05-27T17:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059685957159567851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uG1Gf1DPOK",
+              "end": 41,
+              "expanded_url": "https://x.com/nvgaoS/status/2059685957159567851/photo/1",
+              "media_key": "3_2059685921717641216",
+              "start": 18,
+              "url": "https://t.co/uG1Gf1DPOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059685957159567851",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059648976513830993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 没用 https://t.co/uG1Gf1DPOK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 154,
+          "like_count": 6498,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 840
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T08:31:25.000Z",
+        "description": "有的帖子转自小号，大号发太多容易被封，然后思诺思、劳拉西泮、扎来普隆等各种精二类药物，都有也都能开到，需要的私，全网性价比最高",
+        "id": "2030199419438792704",
+        "name": "出（od💊）思诺思等",
+        "pinned_tweet_id": "2059362398478491649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054628116895793152/GqL-iyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 38,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 34
+        },
+        "username": "nvgaoS",
+        "verified": false
+      }
+    ]
+  }
+}

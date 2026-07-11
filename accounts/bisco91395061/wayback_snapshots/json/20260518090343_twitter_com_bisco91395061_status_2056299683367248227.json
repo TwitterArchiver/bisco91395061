@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2056299683367248227",
+    "created_at": "2026-05-18T09:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056299683367248227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1484072544009347072",
+          "start": 3,
+          "username": "BelovedUren8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056299683367248227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055823826567709147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BelovedUren8964: 平日：压抑、焦虑、极度抑郁、自杀欲求、无力\n84t白兔+270ml鬼杀酒+空调一直吵导致一夜未眠后：\n把空调修了 房间大清扫 每个柜子收拾了 享受早晨的微风 喝茶 校内散步 吃早饭 决定计划并再度学习日语（基础开始） 决定把作业写了 h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1255,
+        "media_key": "3_2055823820272132096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfA31AbYAAf7rb.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2056299683367248227",
+        "created_at": "2026-05-18T09:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056299683367248227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1484072544009347072",
+              "start": 3,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056299683367248227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055823826567709147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BelovedUren8964: 平日：压抑、焦虑、极度抑郁、自杀欲求、无力\n84t白兔+270ml鬼杀酒+空调一直吵导致一夜未眠后：\n把空调修了 房间大清扫 每个柜子收拾了 享受早晨的微风 喝茶 校内散步 吃早饭 决定计划并再度学习日语（基础开始） 决定把作业写了 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055823820272132096"
+          ]
+        },
+        "author_id": "1484072544009347072",
+        "conversation_id": "2055823826567709147",
+        "created_at": "2026-05-17T01:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055823826567709147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y91dz7h4ke",
+              "end": 140,
+              "expanded_url": "https://x.com/BelovedUren8964/status/2055823826567709147/photo/1",
+              "media_key": "3_2055823820272132096",
+              "start": 117,
+              "url": "https://t.co/y91dz7h4ke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055823826567709147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1823,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "平日：压抑、焦虑、极度抑郁、自杀欲求、无力\n84t白兔+270ml鬼杀酒+空调一直吵导致一夜未眠后：\n把空调修了 房间大清扫 每个柜子收拾了 享受早晨的微风 喝茶 校内散步 吃早饭 决定计划并再度学习日语（基础开始） 决定把作业写了 https://t.co/y91dz7h4ke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 130,
+          "like_count": 5849,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 680
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "滨边雨怜（曾用名：伊藤政子 伊政兰 体調不良） 猫砂帮荣誉成员 老学校客座教授 主讲谈论 人在日本 合法住民",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTsiwH"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Kyushu",
+        "name": "浜辺雨怜会成为真正的传奇",
+        "pinned_tweet_id": "2050110766905475396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048064307309797376/v6DCWgfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 515,
+          "like_count": 5872,
+          "listed_count": 3,
+          "media_count": 555,
+          "tweet_count": 4464
+        },
+        "url": "https://t.co/DgJHLTsiwH",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

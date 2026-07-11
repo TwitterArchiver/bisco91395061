@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Chicken",
+          "id": "825049331975589888",
+          "name": "Chicken recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1967022791875850400",
+    "created_at": "2025-09-14T00:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T01:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967022791875850400"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 3,
+          "tag": "にんにくと醤油が香るチキン"
+        },
+        {
+          "end": 127,
+          "start": 123,
+          "tag": "KFC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 35,
+          "id": "188233441",
+          "start": 28,
+          "username": "KFC_jp"
+        }
+      ],
+      "urls": [
+        {
+          "description": "本応募要項をお読みになり、内容に同意したうえで、ご応募ください。なお、参加された場合は本利用規約に同意したものとみなします。 ■KFC公式Xアカウント（旧Twitter） にんにく醤油チキン販売記念キャンペーン第1弾では、抽選で100名様にデジタルKFCカード1,000円分が当たるX（旧Twitter）キャンペーンを実施いたします。 KFC公式Xアカウント(旧Twitter)「@KFC_jp」をフォロー後、該当の投稿下部からボタンを選択してポストしていただくことで、キャンペーンへの参加が可能です。 その場で抽選を行い、KFC公式Xアカウント(旧Twitter)「@KFC_jp」から届くリプライにて抽選結果を通知いたします。また当選者には、ダイレクトメッセージ（DM）にてデジタルKFCカード1,000円分をプレゼントいたします。 また、キャンペーンへ参加をすることで商品の発売日当日（9月17日）にお知らせが届きます。届いたお知らせは通知欄の「@ツイート」からご確認いただけます。 万が一ポストをした後に発売日のお知らせ（リプライ通知）が不要となった方は、「@KFC_jp」と「配信停止」をつけて投稿していただくこ",
+          "display_url": "kfc.co.jp/agreement_ninn…",
+          "end": 122,
+          "expanded_url": "https://www.kfc.co.jp/agreement_ninnikushoyu250917first",
+          "start": 99,
+          "status": 200,
+          "title": "【にんにく醤油チキン販売記念キャンペーン 第1弾 応募規約】｜ケンタッキー公式サイト",
+          "unwound_url": "https://www.kfc.co.jp/agreement_ninnikushoyu250917first",
+          "url": "https://t.co/kpz3Djorfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967022791875850400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "私は #にんにくと醤油が香るチキン に期待❗️KFC( @KFC_jp )ではにんにく醤油チキンのどの点に期待しているか答えると、発売当日にお知らせ&amp;デジタルKFCカードが抽選で当たる🎁➡️https://t.co/kpz3Djorfl #KFC 【食欲の秋は、にんにく醤油チキン！】"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chicken",
+              "id": "825049331975589888",
+              "name": "Chicken recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1967022791875850400",
+        "created_at": "2025-09-14T00:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T01:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967022791875850400"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 3,
+              "tag": "にんにくと醤油が香るチキン"
+            },
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "KFC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "188233441",
+              "start": 28,
+              "username": "KFC_jp"
+            }
+          ],
+          "urls": [
+            {
+              "description": "本応募要項をお読みになり、内容に同意したうえで、ご応募ください。なお、参加された場合は本利用規約に同意したものとみなします。 ■KFC公式Xアカウント（旧Twitter） にんにく醤油チキン販売記念キャンペーン第1弾では、抽選で100名様にデジタルKFCカード1,000円分が当たるX（旧Twitter）キャンペーンを実施いたします。 KFC公式Xアカウント(旧Twitter)「@KFC_jp」をフォロー後、該当の投稿下部からボタンを選択してポストしていただくことで、キャンペーンへの参加が可能です。 その場で抽選を行い、KFC公式Xアカウント(旧Twitter)「@KFC_jp」から届くリプライにて抽選結果を通知いたします。また当選者には、ダイレクトメッセージ（DM）にてデジタルKFCカード1,000円分をプレゼントいたします。 また、キャンペーンへ参加をすることで商品の発売日当日（9月17日）にお知らせが届きます。届いたお知らせは通知欄の「@ツイート」からご確認いただけます。 万が一ポストをした後に発売日のお知らせ（リプライ通知）が不要となった方は、「@KFC_jp」と「配信停止」をつけて投稿していただくこ",
+              "display_url": "kfc.co.jp/agreement_ninn…",
+              "end": 122,
+              "expanded_url": "https://www.kfc.co.jp/agreement_ninnikushoyu250917first",
+              "start": 99,
+              "status": 200,
+              "title": "【にんにく醤油チキン販売記念キャンペーン 第1弾 応募規約】｜ケンタッキー公式サイト",
+              "unwound_url": "https://www.kfc.co.jp/agreement_ninnikushoyu250917first",
+              "url": "https://t.co/kpz3Djorfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967022791875850400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私は #にんにくと醤油が香るチキン に期待❗️KFC( @KFC_jp )ではにんにく醤油チキンのどの点に期待しているか答えると、発売当日にお知らせ&amp;デジタルKFCカードが抽選で当たる🎁➡️https://t.co/kpz3Djorfl #KFC 【食欲の秋は、にんにく醤油チキン！】"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰2022.9月から洗車はじめました！皆さん、色々と教えて下さい🙇🏻‍♂️ ウィスキーも少し勉強中、ウマ娘も少し",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602223879472427008/pvTqSHmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 179,
+          "like_count": 2324,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 207
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-08T06:54:00.000Z",
+        "description": "KFC公式アカウントです🍗新商品の情報やキャンペーン、KFCにまつわる裏話などを投稿しております。店舗・商品に関するお問い合わせはこちらからお願いいたします。https://t.co/6eJur2PmPJ\nTikTok公式アカウントはこちら→ https://t.co/uGIsnOf09m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ssl.kfc.co.jp/support/",
+                "end": 102,
+                "expanded_url": "https://ssl.kfc.co.jp/support/",
+                "start": 79,
+                "url": "https://t.co/6eJur2PmPJ"
+              },
+              {
+                "display_url": "tiktok.com/@kfc_jp",
+                "end": 145,
+                "expanded_url": "https://www.tiktok.com/@kfc_jp",
+                "start": 122,
+                "url": "https://t.co/uGIsnOf09m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kfc.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.kfc.co.jp/",
+                "start": 0,
+                "url": "https://t.co/Z8fTAjFFvj"
+              }
+            ]
+          }
+        },
+        "id": "188233441",
+        "location": "神奈川県横浜市",
+        "name": "ケンタッキーフライドチキン🍗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930518697124544512/wprVBnOe_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3092478,
+          "following_count": 5203,
+          "like_count": 16319,
+          "listed_count": 7786,
+          "media_count": 17417724,
+          "tweet_count": 20125997
+        },
+        "url": "https://t.co/Z8fTAjFFvj",
+        "username": "KFC_jp",
+        "verified": true
+      }
+    ]
+  }
+}

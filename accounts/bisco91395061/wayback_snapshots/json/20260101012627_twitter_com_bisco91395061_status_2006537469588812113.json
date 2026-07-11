@@ -1,0 +1,607 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105164288",
+          "name": "Casual - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Sushiro (スシロー)",
+          "id": "1037040836716843008",
+          "name": "Sushiro"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Meals",
+          "id": "1034860760093024257",
+          "name": "Meals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sushi",
+          "id": "825054873343234048",
+          "name": "Sushi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1400493319017222145",
+          "name": "Chain restaurants"
+        }
+      }
+    ],
+    "conversation_id": "2006537469588812113",
+    "created_at": "2026-01-01T01:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T02:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006537469588812113"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 49,
+          "normalized_text": "天然本鮪7貫盛り",
+          "probability": 0.4009,
+          "start": 42,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2673761042",
+          "start": 3,
+          "username": "akindosushiroco"
+        }
+      ],
+      "urls": [
+        {
+          "description": "スシローの最新情報についてご紹介します。",
+          "display_url": "akindo-sushiro.co.jp/campaign/detai…",
+          "end": 98,
+          "expanded_url": "https://www.akindo-sushiro.co.jp/campaign/detail.php?id=4258",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2005398401752391680/23k5Scwv?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2005398401752391680/23k5Scwv?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 75,
+          "status": 200,
+          "title": "冬のうまいもん祭　『天然本鮪7貫盛り』 | おすすめ一覧 | 株式会社あきんどスシロー",
+          "unwound_url": "https://www.akindo-sushiro.co.jp/campaign/detail.php?id=4258",
+          "url": "https://t.co/E8N50cy97w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006537469588812113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38282
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005398352087630219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akindosushiroco: ＼🏮✨大好評販売中✨🏮／\n\n🍣✨ 『天然本鮪7貫盛り』 ✨🍣 が 登場～❗❗❗❗❗\n\n🟦詳しくはこちら ▶ https://t.co/E8N50cy97w\nすしに真っすぐスシロー\n\n抽選で1⃣0⃣名さまに🧧お食事券🧧が当たる🎁\n1⃣@a…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2003746005024669699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G868YBGagAMfCws.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105164288",
+              "name": "Casual - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sushiro (スシロー)",
+              "id": "1037040836716843008",
+              "name": "Sushiro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400493319017222145",
+              "name": "Chain restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2006537469588812113",
+        "created_at": "2026-01-01T01:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T02:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006537469588812113"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "天然本鮪7貫盛り",
+              "probability": 0.4009,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2673761042",
+              "start": 3,
+              "username": "akindosushiroco"
+            }
+          ],
+          "urls": [
+            {
+              "description": "スシローの最新情報についてご紹介します。",
+              "display_url": "akindo-sushiro.co.jp/campaign/detai…",
+              "end": 98,
+              "expanded_url": "https://www.akindo-sushiro.co.jp/campaign/detail.php?id=4258",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2005398401752391680/23k5Scwv?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2005398401752391680/23k5Scwv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 75,
+              "status": 200,
+              "title": "冬のうまいもん祭　『天然本鮪7貫盛り』 | おすすめ一覧 | 株式会社あきんどスシロー",
+              "unwound_url": "https://www.akindo-sushiro.co.jp/campaign/detail.php?id=4258",
+              "url": "https://t.co/E8N50cy97w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006537469588812113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38282
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005398352087630219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akindosushiroco: ＼🏮✨大好評販売中✨🏮／\n\n🍣✨ 『天然本鮪7貫盛り』 ✨🍣 が 登場～❗❗❗❗❗\n\n🟦詳しくはこちら ▶ https://t.co/E8N50cy97w\nすしに真っすぐスシロー\n\n抽選で1⃣0⃣名さまに🧧お食事券🧧が当たる🎁\n1⃣@a…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003746005024669699"
+          ]
+        },
+        "author_id": "2673761042",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105164288",
+              "name": "Casual - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sushiro (スシロー)",
+              "id": "1037040836716843008",
+              "name": "Sushiro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400493319017222145",
+              "name": "Chain restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2005398352087630219",
+        "created_at": "2025-12-28T22:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T23:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005398352087630219"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "天然本鮪7貫盛り",
+              "probability": 0.448,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 132,
+              "id": "2673761042",
+              "start": 116,
+              "username": "akindosushiroco"
+            }
+          ],
+          "urls": [
+            {
+              "description": "スシローの最新情報についてご紹介します。",
+              "display_url": "akindo-sushiro.co.jp/campaign/detai…",
+              "end": 77,
+              "expanded_url": "https://www.akindo-sushiro.co.jp/campaign/detail.php?id=4258",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2005398401752391680/23k5Scwv?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2005398401752391680/23k5Scwv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "冬のうまいもん祭　『天然本鮪7貫盛り』 | おすすめ一覧 | 株式会社あきんどスシロー",
+              "unwound_url": "https://www.akindo-sushiro.co.jp/campaign/detail.php?id=4258",
+              "url": "https://t.co/E8N50cy97w"
+            },
+            {
+              "display_url": "pic.x.com/KCuvNjH43s",
+              "end": 181,
+              "expanded_url": "https://x.com/akindosushiroco/status/2005398352087630219/photo/1",
+              "media_key": "3_2003746005024669699",
+              "start": 158,
+              "url": "https://t.co/KCuvNjH43s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005398352087630219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 248,
+          "impression_count": 869911,
+          "like_count": 33452,
+          "quote_count": 85,
+          "reply_count": 261,
+          "retweet_count": 38282
+        },
+        "reply_settings": "everyone",
+        "text": "＼🏮✨大好評販売中✨🏮／\n\n🍣✨ 『天然本鮪7貫盛り』 ✨🍣 が 登場～❗❗❗❗❗\n\n🟦詳しくはこちら ▶ https://t.co/E8N50cy97w\nすしに真っすぐスシロー\n\n抽選で1⃣0⃣名さまに🧧お食事券🧧が当たる🎁\n1⃣@akindosushiroco をフォロー📲\n2⃣この投稿をいいね❤＆リポスト🔃 https://t.co/KCuvNjH43s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰ウイスキーも少し勉強中、ウマ娘も少し、ファジアーノも",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981275771931942912/DkGP4QSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 182,
+          "like_count": 2391,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 215
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-23T13:03:09.000Z",
+        "description": "株式会社あきんどスシローの公式アカウントです🍣「うまいすしを、腹一杯。うまいすしで、心も一杯。」をモットーに、スシローの最新情報をお届けします！※原則として問い合わせに対する返信は行っておりませんので、予めご了承ください。 ⚠弊社のなりすましアカウントにご注意ください⚠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "akindo-sushiro.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.akindo-sushiro.co.jp/",
+                "start": 0,
+                "url": "https://t.co/IA03lGEjBI"
+              }
+            ]
+          }
+        },
+        "id": "2673761042",
+        "location": "日本 大阪",
+        "name": "スシロー",
+        "pinned_tweet_id": "2005398352087630219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971443649897693185/q9GECVm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526918,
+          "following_count": 105,
+          "like_count": 12221,
+          "listed_count": 3491,
+          "media_count": 335132,
+          "tweet_count": 450884
+        },
+        "url": "https://t.co/IA03lGEjBI",
+        "username": "akindosushiroco",
+        "verified": true
+      }
+    ]
+  }
+}

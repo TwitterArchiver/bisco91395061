@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065298557125742592"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2065298594396254694",
+    "created_at": "2026-06-12T05:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065298594396254694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l2QpqFBwt7",
+          "end": 35,
+          "expanded_url": "https://x.com/bisco91395061/status/2065298594396254694/photo/1",
+          "media_key": "3_2065298557125742592",
+          "start": 12,
+          "url": "https://t.co/l2QpqFBwt7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065298594396254694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这期是给小ou的py！ https://t.co/l2QpqFBwt7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2065298557125742592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlqGGSbUAAe8Ac.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065298557125742592"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2065298594396254694",
+        "created_at": "2026-06-12T05:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065298594396254694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l2QpqFBwt7",
+              "end": 35,
+              "expanded_url": "https://x.com/bisco91395061/status/2065298594396254694/photo/1",
+              "media_key": "3_2065298557125742592",
+              "start": 12,
+              "url": "https://t.co/l2QpqFBwt7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065298594396254694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这期是给小ou的py！ https://t.co/l2QpqFBwt7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 228,
+          "like_count": 7622,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1148
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

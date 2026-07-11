@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2039933914207379794",
+    "created_at": "2026-04-03T05:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T06:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039938129881452743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1954524887454011392",
+          "start": 0,
+          "username": "xiexiefubenXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039938129881452743",
+    "in_reply_to_user_id": "1954524887454011392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039933914207379794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiexiefubenXX 不要呀。。。🫂🫂🫂抱抱你。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2039933914207379794",
+        "created_at": "2026-04-03T05:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039938129881452743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "xiexiefubenXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039938129881452743",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039933914207379794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiexiefubenXX 不要呀。。。🫂🫂🫂抱抱你。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2039933914207379794",
+        "created_at": "2026-04-03T05:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039933914207379794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039933914207379794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想死 我踏马好想从这座山上跳下去。胳膊好痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 61,
+          "like_count": 3712,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 315
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血謝X",
+        "pinned_tweet_id": "2028863387640451093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019112095196069888/5sk-aoHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 276,
+          "like_count": 1125,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1048
+        },
+        "username": "xiexiefubenXX",
+        "verified": false
+      }
+    ]
+  }
+}

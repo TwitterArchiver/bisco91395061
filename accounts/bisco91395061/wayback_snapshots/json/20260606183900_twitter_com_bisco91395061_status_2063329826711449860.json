@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1992030783314464768"
+      ],
+      "media_source_tweet_id": [
+        "1992030846447149388"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2063329826711449860",
+    "created_at": "2026-06-06T18:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T19:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063329826711449860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1378550728608772097",
+          "start": 3,
+          "username": "ikumu_udon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QiDhQZQvXB",
+          "end": 48,
+          "expanded_url": "https://x.com/daily_odh/status/1992030846447149388/video/1",
+          "media_key": "13_1992030783314464768",
+          "start": 25,
+          "url": "https://t.co/QiDhQZQvXB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063329826711449860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063189025687781761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ikumu_udon: かわいい〜☺️✨ https://t.co/QiDhQZQvXB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5060,
+        "height": 1280,
+        "media_key": "13_1992030783314464768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992030783314464768/img/GUWHHJwB31FLFyE2.jpg",
+        "public_metrics": {
+          "view_count": 397069
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992030783314464768/vid/avc1/320x568/3pPYTza7DmeJRcaN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992030783314464768/vid/avc1/480x852/GwcpB-UtJfV2Z_GO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992030783314464768/vid/avc1/720x1280/KIS_KTkd425BWI6V.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992030783314464768/pl/JJScuN5mK73bsfge.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992030783314464768"
+          ],
+          "media_source_tweet_id": [
+            "1992030846447149388"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2063329826711449860",
+        "created_at": "2026-06-06T18:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063329826711449860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1378550728608772097",
+              "start": 3,
+              "username": "ikumu_udon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QiDhQZQvXB",
+              "end": 48,
+              "expanded_url": "https://x.com/daily_odh/status/1992030846447149388/video/1",
+              "media_key": "13_1992030783314464768",
+              "start": 25,
+              "url": "https://t.co/QiDhQZQvXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063329826711449860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063189025687781761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ikumu_udon: かわいい〜☺️✨ https://t.co/QiDhQZQvXB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992030783314464768"
+          ],
+          "media_source_tweet_id": [
+            "1992030846447149388"
+          ]
+        },
+        "author_id": "1378550728608772097",
+        "conversation_id": "2063189025687781761",
+        "created_at": "2026-06-06T09:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063189025687781761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QiDhQZQvXB",
+              "end": 32,
+              "expanded_url": "https://x.com/daily_odh/status/1992030846447149388/video/1",
+              "media_key": "13_1992030783314464768",
+              "start": 9,
+              "url": "https://t.co/QiDhQZQvXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063189025687781761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 261,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "かわいい〜☺️✨ https://t.co/QiDhQZQvXB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 189,
+          "like_count": 7302,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1001
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T03:31:38.000Z",
+        "description": "ウマ娘サークルメンバーを集めたいと始めたアカウントです！今はメンバーも集まりまったり。ウマの絵も上げる…かも！🥕 RT魔でフォローは非推奨┊ヘッダーはこなもんさん(@mon_subcul)┊BOOTH▶https://t.co/NjCvnTKhCr┊干し芋▶ https://t.co/81Gds808V7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "mon_subcul"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ikumu-udon.booth.pm",
+                "end": 124,
+                "expanded_url": "http://ikumu-udon.booth.pm",
+                "start": 101,
+                "url": "https://t.co/NjCvnTKhCr"
+              },
+              {
+                "display_url": "x.gd/ssYPG",
+                "end": 153,
+                "expanded_url": "https://x.gd/ssYPG",
+                "start": 130,
+                "url": "https://t.co/81Gds808V7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikumu-udon.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://ikumu-udon.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/T3QjofItvm"
+              }
+            ]
+          }
+        },
+        "id": "1378550728608772097",
+        "location": "うまるかめ製麺",
+        "name": "うどん🥕🍉 7th day2 ▶︎ 6/28URC6枠10",
+        "pinned_tweet_id": "2050596484408872985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1448275806250147855/EeHqAlAG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2889,
+          "following_count": 6859,
+          "like_count": 410349,
+          "listed_count": 54,
+          "media_count": 2711,
+          "tweet_count": 386342
+        },
+        "url": "https://t.co/T3QjofItvm",
+        "username": "ikumu_udon",
+        "verified": true
+      }
+    ]
+  }
+}

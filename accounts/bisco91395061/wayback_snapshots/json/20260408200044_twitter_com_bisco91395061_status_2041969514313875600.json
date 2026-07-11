@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2041969514313875600",
+    "created_at": "2026-04-08T20:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T21:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041969514313875600"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 117,
+          "start": 112,
+          "tag": "bdsm"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1767691817456476160",
+          "start": 3,
+          "username": "whereisyourc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041969514313875600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041542802882830562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whereisyourc: 喜欢被掐脖子的人，往往在潜意识中对伴侣有极高的安全感依附。正因为她极度信任对方不会真的掐死她，她才能享受那種交出生命主导权的快感。这是一种脆弱性的极致展露。\n只有安全感才是探索危险的前提\n#bdsm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2041969514313875600",
+        "created_at": "2026-04-08T20:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T21:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041969514313875600"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "bdsm"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767691817456476160",
+              "start": 3,
+              "username": "whereisyourc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041969514313875600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041542802882830562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whereisyourc: 喜欢被掐脖子的人，往往在潜意识中对伴侣有极高的安全感依附。正因为她极度信任对方不会真的掐死她，她才能享受那種交出生命主导权的快感。这是一种脆弱性的极致展露。\n只有安全感才是探索危险的前提\n#bdsm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767691817456476160",
+        "conversation_id": "2041542802882830562",
+        "created_at": "2026-04-07T15:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:38:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041541222326489473",
+          "2041542802882830562"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "bdsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041542802882830562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 49473,
+          "like_count": 1132,
+          "quote_count": 28,
+          "reply_count": 15,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢被掐脖子的人，往往在潜意识中对伴侣有极高的安全感依附。正因为她极度信任对方不会真的掐死她，她才能享受那種交出生命主导权的快感。这是一种脆弱性的极致展露。\n只有安全感才是探索危险的前提\n#bdsm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041961230580248576/VSQfV5zG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 60,
+          "like_count": 3869,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 349
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T23:19:18.000Z",
+        "description": "很难介绍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/where98094",
+                "end": 23,
+                "expanded_url": "https://ngl.link/where98094",
+                "start": 0,
+                "url": "https://t.co/cogZdpPI9s"
+              }
+            ]
+          }
+        },
+        "id": "1767691817456476160",
+        "location": "匿名箱➡️",
+        "name": "星期七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008533709834661889/CJy3RQCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 491,
+          "like_count": 825,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/cogZdpPI9s",
+        "username": "whereisyourc",
+        "verified": true
+      }
+    ]
+  }
+}

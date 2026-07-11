@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2058526897332711530",
+    "created_at": "2026-05-25T01:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058724562964189633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1933201065677377536",
+          "start": 0,
+          "username": "sakana_siujyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058724562964189633",
+    "in_reply_to_user_id": "1933201065677377536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058615574079651964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakana_siujyu 好可惜啊，我不吸烟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2058526897332711530",
+        "created_at": "2026-05-25T01:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058724562964189633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1933201065677377536",
+              "start": 0,
+              "username": "sakana_siujyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058724562964189633",
+        "in_reply_to_user_id": "1933201065677377536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058615574079651964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakana_siujyu 好可惜啊，我不吸烟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933201065677377536",
+        "conversation_id": "2058526897332711530",
+        "created_at": "2026-05-24T18:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058615574079651964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058615574079651964",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058526897332711530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 有的 加上尼古丁更舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 136,
+          "like_count": 6232,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 751
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T16:33:55.000Z",
+        "description": "INFP｜bmi16.2 ｜社會自由主義｜ MDD SAD｜Od｜SH｜慢熱但友善 歡迎交友｜Ban噁男",
+        "id": "1933201065677377536",
+        "location": "香港",
+        "name": "小魚🐟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053941727447363584/0p1dhbu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 322,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 243
+        },
+        "username": "sakana_siujyu",
+        "verified": false
+      }
+    ]
+  }
+}

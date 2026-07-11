@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2039380316864094242",
+    "created_at": "2026-04-01T16:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039380316864094242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933114395854610432",
+          "start": 3,
+          "username": "eweisi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039380316864094242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039346135404589268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eweisi32: 我丢掉了愈丑片，我丢掉了普瑞，我丢掉了美金刚，我丢掉了咳必清，我丢掉了舍曲林，我丢掉了我丢掉了喹硫平，我丢掉了阿普唑仑，我丢掉了佐匹克隆，我丢掉了劳拉西泮，我丢掉了右美沙芬，我丢掉了我丢掉了右佐匹克，我丢掉了氯硝西泮，我丢掉了晚安，我丢掉了红贝印，我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2039380316864094242",
+        "created_at": "2026-04-01T16:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039380316864094242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1933114395854610432",
+              "start": 3,
+              "username": "eweisi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039380316864094242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039346135404589268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eweisi32: 我丢掉了愈丑片，我丢掉了普瑞，我丢掉了美金刚，我丢掉了咳必清，我丢掉了舍曲林，我丢掉了我丢掉了喹硫平，我丢掉了阿普唑仑，我丢掉了佐匹克隆，我丢掉了劳拉西泮，我丢掉了右美沙芬，我丢掉了我丢掉了右佐匹克，我丢掉了氯硝西泮，我丢掉了晚安，我丢掉了红贝印，我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933114395854610432",
+        "conversation_id": "2039346135404589268",
+        "created_at": "2026-04-01T14:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039346135404589268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039346135404589268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 506,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我丢掉了愈丑片，我丢掉了普瑞，我丢掉了美金刚，我丢掉了咳必清，我丢掉了舍曲林，我丢掉了我丢掉了喹硫平，我丢掉了阿普唑仑，我丢掉了佐匹克隆，我丢掉了劳拉西泮，我丢掉了右美沙芬，我丢掉了我丢掉了右佐匹克，我丢掉了氯硝西泮，我丢掉了晚安，我丢掉了红贝印，我丟掉了眉刀，从此走向健全之路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "pinned_tweet_id": "2034177753885683785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 56,
+          "like_count": 3659,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 286
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "叫我蚀蚀就好…\n我会塔罗占卜可以找我 | 餐劵 | 互fo直关 | \n自残伤口可定制 | 喜欢我请打钱…无上限",
+        "id": "1933114395854610432",
+        "location": "🚪45好友位pyq/88陪聊照片/122语音/288一切",
+        "name": "Marvin",
+        "pinned_tweet_id": "2038696284224114769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 347,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 332
+        },
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

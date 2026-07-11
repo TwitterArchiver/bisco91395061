@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2063242299816214557",
+    "created_at": "2026-06-07T08:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063540158436348030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912326279468122112",
+          "start": 0,
+          "username": "opitia255274"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063540158436348030",
+    "in_reply_to_user_id": "1912326279468122112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063494254882959626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@opitia255274 你和楼上坐一桌吧你俩都耐受了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2063242299816214557",
+        "created_at": "2026-06-07T08:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063540158436348030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912326279468122112",
+              "start": 0,
+              "username": "opitia255274"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063540158436348030",
+        "in_reply_to_user_id": "1912326279468122112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063494254882959626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@opitia255274 你和楼上坐一桌吧你俩都耐受了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912326279468122112",
+        "conversation_id": "2063242299816214557",
+        "created_at": "2026-06-07T05:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063494254882959626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063494254882959626",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063242299816214557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 wtf。我吃了10800mg。一点感觉都没有。我崩溃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 190,
+          "like_count": 7350,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1005
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T02:05:00.000Z",
+        "description": "宝贝：@givemeyea @Cink1S52664 @Tangtffqn\n我所有的帖子都是乱说的\n我有精神病。别烦我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "givemeyea"
+              },
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Cink1S52664"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Tangtffqn"
+              }
+            ]
+          }
+        },
+        "id": "1912326279468122112",
+        "location": "🚪288纯圈没福利",
+        "name": "戒撸的仙人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049515241537757184/o0swebIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5665,
+          "following_count": 325,
+          "like_count": 8109,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 2856
+        },
+        "username": "opitia255274",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2064732342019846205",
+    "created_at": "2026-06-11T20:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T21:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065176588896129255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639996371879985157",
+          "start": 0,
+          "username": "SupernovaLLan"
+        },
+        {
+          "end": 22,
+          "id": "1618314905475743749",
+          "start": 15,
+          "username": "CuOqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065176588896129255",
+    "in_reply_to_user_id": "1639996371879985157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065120126249402492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SupernovaLLan @CuOqwq 非常感谢您提醒我😭😭😭以后我不会这么联用了啊啊啊真的特别感谢。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2064732342019846205",
+        "created_at": "2026-06-11T20:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T21:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065176588896129255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639996371879985157",
+              "start": 0,
+              "username": "SupernovaLLan"
+            },
+            {
+              "end": 22,
+              "id": "1618314905475743749",
+              "start": 15,
+              "username": "CuOqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065176588896129255",
+        "in_reply_to_user_id": "1639996371879985157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065120126249402492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SupernovaLLan @CuOqwq 非常感谢您提醒我😭😭😭以后我不会这么联用了啊啊啊真的特别感谢。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639996371879985157",
+        "conversation_id": "2064732342019846205",
+        "created_at": "2026-06-11T17:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065120126249402492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            },
+            {
+              "end": 22,
+              "id": "1618314905475743749",
+              "start": 15,
+              "username": "CuOqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065120126249402492",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064743589800976781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 @CuOqwq 度数不大还好啦，量都大的话有点呼吸抑制风险\n还有就是这个组合经常用之后容易导致记忆难以形成）出现严重的顺行性遗忘、反应迟钝和情感淡漠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 218,
+          "like_count": 7604,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1125
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T14:23:40.000Z",
+        "description": "Per Aspera Ad Astra",
+        "id": "1639996371879985157",
+        "location": "Laniakea Supercluster ",
+        "name": "*⁂汐渋鈴蘭⁂*.･ﾟﾟ",
+        "pinned_tweet_id": "1835705937086333243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053522922648776704/qB9xPTfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 602,
+          "like_count": 26564,
+          "listed_count": 2,
+          "media_count": 1181,
+          "tweet_count": 11036
+        },
+        "username": "SupernovaLLan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T18:28:45.000Z",
+        "description": "叫我CuO就好\n愿每位来访者能够幸福，平安，健康，心想事成\n请记住，You Are Not Alone。",
+        "id": "1618314905475743749",
+        "location": "重庆",
+        "name": "CuO",
+        "pinned_tweet_id": "2053190325477478619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053188110960431104/eVMUJpHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 138,
+          "like_count": 3590,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 768
+        },
+        "username": "CuOqwq",
+        "verified": false
+      }
+    ]
+  }
+}

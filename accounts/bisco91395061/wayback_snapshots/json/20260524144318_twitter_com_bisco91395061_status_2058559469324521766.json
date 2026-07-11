@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2058526897332711530",
+    "created_at": "2026-05-24T14:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058559469324521766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1634930304107581446",
+          "start": 0,
+          "username": "Sprim20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058559469324521766",
+    "in_reply_to_user_id": "1634930304107581446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058558298501349773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sprim20 od就要有神农精神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2058526897332711530",
+        "created_at": "2026-05-24T14:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058559469324521766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1634930304107581446",
+              "start": 0,
+              "username": "Sprim20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058559469324521766",
+        "in_reply_to_user_id": "1634930304107581446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058558298501349773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sprim20 od就要有神农精神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634930304107581446",
+        "conversation_id": "2058526897332711530",
+        "created_at": "2026-05-24T14:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058558298501349773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058558298501349773",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058526897332711530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 致敬神农"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 131,
+          "like_count": 6237,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 744
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T14:52:26.000Z",
+        "description": "蓝色的田野会带来什么？",
+        "id": "1634930304107581446",
+        "location": "回南天下的潮湿角落",
+        "name": "感受第102次心跳",
+        "pinned_tweet_id": "2035521953663242718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028146915486175232/tJXLqv4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 512,
+          "like_count": 6381,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1138
+        },
+        "username": "Sprim20",
+        "verified": false
+      }
+    ]
+  }
+}

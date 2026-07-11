@@ -1,0 +1,567 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pasta",
+          "id": "825056348412862464",
+          "name": "Pasta"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Pasta",
+          "id": "825056348412862464",
+          "name": "Pasta"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Horse racing",
+          "id": "847901716024446977",
+          "name": "Horse racing & equestrian"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horse racing",
+          "id": "847901716024446977",
+          "name": "Horse racing & equestrian"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2062066281571102721",
+    "created_at": "2026-06-03T06:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062066281571102721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "339071243",
+          "start": 3,
+          "username": "SK8804F_MS205M9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062066281571102721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061841719117943000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SK8804F_MS205M9: 【東京競馬場に行ってみた】\n\n・とにかく広い\n・アクセス便利（3路線あり）\n・飲食店が充実（おススメはパスタ）\n・人は多いが比較的歩きやすい\n・競馬博物館、結構面白い　暇つぶしに最適\n・人多いが「捌け」も早い\n・ルメール強い\n・とにかく…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061841694795218944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0iGOlbwAA48dw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061841694786772992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0iGOja4AAlO0m.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2061841694786805760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0iGOjbYAAep7r.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2061841694807699456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0iGOoaMAAiM2L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pasta",
+              "id": "825056348412862464",
+              "name": "Pasta"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Pasta",
+              "id": "825056348412862464",
+              "name": "Pasta"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Horse racing",
+              "id": "847901716024446977",
+              "name": "Horse racing & equestrian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horse racing",
+              "id": "847901716024446977",
+              "name": "Horse racing & equestrian"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2062066281571102721",
+        "created_at": "2026-06-03T06:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062066281571102721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "339071243",
+              "start": 3,
+              "username": "SK8804F_MS205M9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062066281571102721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061841719117943000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SK8804F_MS205M9: 【東京競馬場に行ってみた】\n\n・とにかく広い\n・アクセス便利（3路線あり）\n・飲食店が充実（おススメはパスタ）\n・人は多いが比較的歩きやすい\n・競馬博物館、結構面白い　暇つぶしに最適\n・人多いが「捌け」も早い\n・ルメール強い\n・とにかく…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061841694795218944",
+            "3_2061841694786772992",
+            "3_2061841694786805760",
+            "3_2061841694807699456"
+          ]
+        },
+        "author_id": "339071243",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pasta",
+              "id": "825056348412862464",
+              "name": "Pasta"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Pasta",
+              "id": "825056348412862464",
+              "name": "Pasta"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Horse racing",
+              "id": "847901716024446977",
+              "name": "Horse racing & equestrian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horse racing",
+              "id": "847901716024446977",
+              "name": "Horse racing & equestrian"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2061841719117943000",
+        "created_at": "2026-06-02T16:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061841719117943000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeKaeYm8Ki",
+              "end": 171,
+              "expanded_url": "https://x.com/SK8804F_MS205M9/status/2061841719117943000/photo/1",
+              "media_key": "3_2061841694795218944",
+              "start": 148,
+              "url": "https://t.co/QeKaeYm8Ki"
+            },
+            {
+              "display_url": "pic.x.com/QeKaeYm8Ki",
+              "end": 171,
+              "expanded_url": "https://x.com/SK8804F_MS205M9/status/2061841719117943000/photo/1",
+              "media_key": "3_2061841694786772992",
+              "start": 148,
+              "url": "https://t.co/QeKaeYm8Ki"
+            },
+            {
+              "display_url": "pic.x.com/QeKaeYm8Ki",
+              "end": 171,
+              "expanded_url": "https://x.com/SK8804F_MS205M9/status/2061841719117943000/photo/1",
+              "media_key": "3_2061841694786805760",
+              "start": 148,
+              "url": "https://t.co/QeKaeYm8Ki"
+            },
+            {
+              "display_url": "pic.x.com/QeKaeYm8Ki",
+              "end": 171,
+              "expanded_url": "https://x.com/SK8804F_MS205M9/status/2061841719117943000/photo/1",
+              "media_key": "3_2061841694807699456",
+              "start": 148,
+              "url": "https://t.co/QeKaeYm8Ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061841719117943000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 84443,
+          "like_count": 378,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "【東京競馬場に行ってみた】\n\n・とにかく広い\n・アクセス便利（3路線あり）\n・飲食店が充実（おススメはパスタ）\n・人は多いが比較的歩きやすい\n・競馬博物館、結構面白い　暇つぶしに最適\n・人多いが「捌け」も早い\n・ルメール強い\n・とにかく広い\n\n【結論】\n・競馬初心者は東京競馬場から行くべし❗️ https://t.co/QeKaeYm8Ki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 164,
+          "like_count": 6911,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 889
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-20T15:02:06.000Z",
+        "description": "「ビッグになりたい。」と願う人。 ブログや小説を投稿中。 鉄道・競馬・Vtuber好き。   いろいろ呟く雑多垢。 PGB参戦中。 フォロー・リプ・いいね・RT等歓迎！！ ブログ→https://t.co/fwkxNbBtdS ツイプロ→https://t.co/2uBhyZ8IgT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "chifumu-m.hatenablog.com",
+                "end": 113,
+                "expanded_url": "http://chifumu-m.hatenablog.com",
+                "start": 90,
+                "url": "https://t.co/fwkxNbBtdS"
+              },
+              {
+                "display_url": "twpf.jp/SK8804F_MS205M9",
+                "end": 142,
+                "expanded_url": "http://twpf.jp/SK8804F_MS205M9",
+                "start": 119,
+                "url": "https://t.co/2uBhyZ8IgT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=16183803",
+                "start": 0,
+                "url": "https://t.co/ikjeIfFpgH"
+              }
+            ]
+          }
+        },
+        "id": "339071243",
+        "location": "みなとまち",
+        "name": "ちふむ_めしはしかや@ブログ・小説もよろしく！",
+        "pinned_tweet_id": "2053148550901739612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650930684121448449/hMcrYGf5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8742,
+          "following_count": 9925,
+          "like_count": 250303,
+          "listed_count": 75,
+          "media_count": 2306,
+          "tweet_count": 65685
+        },
+        "url": "https://t.co/ikjeIfFpgH",
+        "username": "SK8804F_MS205M9",
+        "verified": false
+      }
+    ]
+  }
+}

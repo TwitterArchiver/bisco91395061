@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2062007111673139391",
+    "created_at": "2026-06-03T07:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062067512980967864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "334507412",
+          "start": 0,
+          "username": "misskoichiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062067512980967864",
+    "in_reply_to_user_id": "334507412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062007111673139391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misskoichiro 听起来好美好啊！迫不及待地想要去一次🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2062007111673139391",
+        "created_at": "2026-06-03T07:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062067512980967864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "334507412",
+              "start": 0,
+              "username": "misskoichiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062067512980967864",
+        "in_reply_to_user_id": "334507412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062007111673139391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misskoichiro 听起来好美好啊！迫不及待地想要去一次🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "334507412",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Horse racing",
+              "id": "847901716024446977",
+              "name": "Horse racing & equestrian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horse racing",
+              "id": "847901716024446977",
+              "name": "Horse racing & equestrian"
+            }
+          }
+        ],
+        "conversation_id": "2062007111673139391",
+        "created_at": "2026-06-03T03:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062007111673139391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062007111673139391",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 25729,
+          "like_count": 143,
+          "quote_count": 19,
+          "reply_count": 97,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "競馬場で、\n「そういえば昔よく見たな…」と思うものってありますか？🏇\n\n昔の売店、自由席、新聞を広げる人、紙馬券、場内の雰囲気、懐かしいイベントなど…\n\n今では少し懐かしく感じる“昔の競馬場”をぜひ教えてください😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 164,
+          "like_count": 6919,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 892
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-13T06:16:57.000Z",
+        "description": "渋沢栄一の孫が道楽的に開業🏇競馬場オープン当初から残る数少ないお店の一つ。競馬場グルメグランプリ1位獲得「モカソフト」が大人気の喫茶店？です☕️🍦東京、中山両競馬場で営業してます。頂いたリプ、DMにはできるだけ反応してます。気軽にコメント頂けると嬉しいです😆",
+        "id": "334507412",
+        "location": "東京競馬場、中山競馬場",
+        "name": "耕一路｜KOICHIRO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1539630052983570437/YqkV1qAW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11790,
+          "following_count": 6907,
+          "like_count": 131337,
+          "listed_count": 85,
+          "media_count": 866,
+          "tweet_count": 83999
+        },
+        "username": "misskoichiro",
+        "verified": true
+      }
+    ]
+  }
+}

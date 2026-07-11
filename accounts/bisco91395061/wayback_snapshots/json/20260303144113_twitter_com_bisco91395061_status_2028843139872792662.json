@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028843101490716672"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2028843139872792662",
+    "created_at": "2026-03-03T14:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T15:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028843139872792662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mlZ4ieC8mE",
+          "end": 29,
+          "expanded_url": "https://x.com/bisco91395061/status/2028843139872792662/photo/1",
+          "media_key": "3_2028843101490716672",
+          "start": 6,
+          "url": "https://t.co/mlZ4ieC8mE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028843139872792662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "毁灭菇一枚 https://t.co/mlZ4ieC8mE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2524,
+        "media_key": "3_2028843101490716672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfmDTFbIAAiM6A.jpg",
+        "width": 3404
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028843101490716672"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028843139872792662",
+        "created_at": "2026-03-03T14:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028843139872792662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mlZ4ieC8mE",
+              "end": 29,
+              "expanded_url": "https://x.com/bisco91395061/status/2028843139872792662/photo/1",
+              "media_key": "3_2028843101490716672",
+              "start": 6,
+              "url": "https://t.co/mlZ4ieC8mE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028843139872792662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毁灭菇一枚 https://t.co/mlZ4ieC8mE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 22,
+          "like_count": 2596,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 43
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

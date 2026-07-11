@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2063541679614009653",
+    "created_at": "2026-06-07T12:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063592829109301626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1331884182977482754",
+          "start": 0,
+          "username": "HorseProject1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063592829109301626",
+    "in_reply_to_user_id": "1331884182977482754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063541679614009653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HorseProject1 盖亚这一亲把自己的种马生活给亲没了😹😹😹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_2063541674513723392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMsOEia8AAaw2y.jpg",
+        "width": 2145
+      },
+      {
+        "height": 647,
+        "media_key": "3_2063541674505363456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMsOEgbYAA6Ia2.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2063541679614009653",
+        "created_at": "2026-06-07T12:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063592829109301626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1331884182977482754",
+              "start": 0,
+              "username": "HorseProject1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063592829109301626",
+        "in_reply_to_user_id": "1331884182977482754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063541679614009653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HorseProject1 盖亚这一亲把自己的种马生活给亲没了😹😹😹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063541674513723392",
+            "3_2063541674505363456"
+          ]
+        },
+        "author_id": "1331884182977482754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063541679614009653",
+        "created_at": "2026-06-07T08:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063541679614009653"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 37,
+              "tag": "ガイアフォース"
+            },
+            {
+              "end": 56,
+              "start": 47,
+              "tag": "ステレンボッシュ"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "安田記念"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fx9JO80hbf",
+              "end": 87,
+              "expanded_url": "https://x.com/HorseProject1/status/2063541679614009653/photo/1",
+              "media_key": "3_2063541674513723392",
+              "start": 64,
+              "url": "https://t.co/Fx9JO80hbf"
+            },
+            {
+              "display_url": "pic.x.com/Fx9JO80hbf",
+              "end": 87,
+              "expanded_url": "https://x.com/HorseProject1/status/2063541679614009653/photo/1",
+              "media_key": "3_2063541674505363456",
+              "start": 64,
+              "url": "https://t.co/Fx9JO80hbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063541679614009653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 245202,
+          "like_count": 3673,
+          "quote_count": 57,
+          "reply_count": 39,
+          "retweet_count": 585
+        },
+        "reply_settings": "everyone",
+        "text": "ガイアフォースが\nステレンボッシュにキスしにいった現場を押さえました\n\n #ガイアフォース\n #ステレンボッシュ\n #安田記念 https://t.co/Fx9JO80hbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 191,
+          "like_count": 7364,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1011
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-26T08:55:21.000Z",
+        "description": "競馬が好きです。ジャパンカップ2020よりYouTubeチャンネル開設🐴◆予想公開⇒ https://t.co/sL9evgbGML\nお仕事の依頼はDMにお願いします",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/horseproject1",
+                "end": 66,
+                "expanded_url": "https://note.com/horseproject1",
+                "start": 43,
+                "url": "https://t.co/sL9evgbGML"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCWht7…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCWht77MlrHqdYLgPe1V9PxQ/",
+                "start": 0,
+                "url": "https://t.co/0NaB1HfyQp"
+              }
+            ]
+          }
+        },
+        "id": "1331884182977482754",
+        "location": "少点主義",
+        "name": "ほーぷろ/ホースプロジェクト",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1453310098059800576/OoRaRQzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21858,
+          "following_count": 2759,
+          "like_count": 16488,
+          "listed_count": 204,
+          "media_count": 2511,
+          "tweet_count": 17569
+        },
+        "url": "https://t.co/0NaB1HfyQp",
+        "username": "HorseProject1",
+        "verified": true
+      }
+    ]
+  }
+}

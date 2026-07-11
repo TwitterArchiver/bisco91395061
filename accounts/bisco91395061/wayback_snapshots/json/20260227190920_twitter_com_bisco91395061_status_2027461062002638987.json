@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027460927239684096",
+        "3_2027460927290019840",
+        "3_2027460927231246336"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2027461062002638987",
+    "created_at": "2026-02-27T19:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T20:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027461062002638987"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 8,
+          "start": 5,
+          "tag": "足控"
+        },
+        {
+          "end": 12,
+          "start": 9,
+          "tag": "门槛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aUeCHs4SLl",
+          "end": 36,
+          "expanded_url": "https://x.com/bisco91395061/status/2027461062002638987/photo/1",
+          "media_key": "3_2027460927239684096",
+          "start": 13,
+          "url": "https://t.co/aUeCHs4SLl"
+        },
+        {
+          "display_url": "pic.x.com/aUeCHs4SLl",
+          "end": 36,
+          "expanded_url": "https://x.com/bisco91395061/status/2027461062002638987/photo/1",
+          "media_key": "3_2027460927290019840",
+          "start": 13,
+          "url": "https://t.co/aUeCHs4SLl"
+        },
+        {
+          "display_url": "pic.x.com/aUeCHs4SLl",
+          "end": 36,
+          "expanded_url": "https://x.com/bisco91395061/status/2027461062002638987/photo/1",
+          "media_key": "3_2027460927231246336",
+          "start": 13,
+          "url": "https://t.co/aUeCHs4SLl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027461062002638987",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#门槛妹 #足控 #门槛 https://t.co/aUeCHs4SLl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1372,
+        "media_key": "3_2027460927239684096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCL8-KwbAAAHgR8.jpg",
+        "width": 1268
+      },
+      {
+        "height": 1944,
+        "media_key": "3_2027460927290019840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCL8-K8bEAAoIxK.jpg",
+        "width": 2764
+      },
+      {
+        "height": 2760,
+        "media_key": "3_2027460927231246336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCL8-KuaQAA72_a.jpg",
+        "width": 3684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027460927239684096",
+            "3_2027460927290019840",
+            "3_2027460927231246336"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2027461062002638987",
+        "created_at": "2026-02-27T19:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T20:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027461062002638987"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "足控"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aUeCHs4SLl",
+              "end": 36,
+              "expanded_url": "https://x.com/bisco91395061/status/2027461062002638987/photo/1",
+              "media_key": "3_2027460927239684096",
+              "start": 13,
+              "url": "https://t.co/aUeCHs4SLl"
+            },
+            {
+              "display_url": "pic.x.com/aUeCHs4SLl",
+              "end": 36,
+              "expanded_url": "https://x.com/bisco91395061/status/2027461062002638987/photo/1",
+              "media_key": "3_2027460927290019840",
+              "start": 13,
+              "url": "https://t.co/aUeCHs4SLl"
+            },
+            {
+              "display_url": "pic.x.com/aUeCHs4SLl",
+              "end": 36,
+              "expanded_url": "https://x.com/bisco91395061/status/2027461062002638987/photo/1",
+              "media_key": "3_2027460927231246336",
+              "start": 13,
+              "url": "https://t.co/aUeCHs4SLl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027461062002638987",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛妹 #足控 #门槛 https://t.co/aUeCHs4SLl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027448497595977728/5nQhM9gq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 10,
+          "like_count": 2415,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

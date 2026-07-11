@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "1885881670701814085",
+    "created_at": "2025-02-02T02:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T03:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885881670701814085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1442342076633399304",
+          "start": 3,
+          "username": "musashiyataka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885881670701814085",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1019
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885502775293075698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @musashiyataka: 定価販売抽選！\n\nキルケラン ヘビリーピーテッド バッチ10￥7,975（税込み）＋送料\n\n当アカウントフォロー＆このツイートをリポスト＆いいね\nの中から抽選で6名の方を当選とします。\n抽選は今から開始!締め切りは2月3日8：00～12：0…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "1885881670701814085",
+        "created_at": "2025-02-02T02:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T03:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885881670701814085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1442342076633399304",
+              "start": 3,
+              "username": "musashiyataka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885881670701814085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1019
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885502775293075698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @musashiyataka: 定価販売抽選！\n\nキルケラン ヘビリーピーテッド バッチ10￥7,975（税込み）＋送料\n\n当アカウントフォロー＆このツイートをリポスト＆いいね\nの中から抽選で6名の方を当選とします。\n抽選は今から開始!締め切りは2月3日8：00～12：0…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442342076633399304",
+        "conversation_id": "1885502775293075698",
+        "created_at": "2025-02-01T01:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T02:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885502775293075698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885502775293075698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 34656,
+          "like_count": 1052,
+          "quote_count": 5,
+          "reply_count": 116,
+          "retweet_count": 1019
+        },
+        "reply_settings": "everyone",
+        "text": "定価販売抽選！\n\nキルケラン ヘビリーピーテッド バッチ10￥7,975（税込み）＋送料\n\n当アカウントフォロー＆このツイートをリポスト＆いいね\nの中から抽選で6名の方を当選とします。\n抽選は今から開始!締め切りは2月3日8：00～12：00】（仕事量に左右されるためご容赦ください）\n↓続き↓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰2022.9月から洗車はじめました！皆さん、色々と教えて下さい🙇🏻‍♂️ ウィスキーも少し勉強中、ウマ娘も少し",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602223879472427008/pvTqSHmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 168,
+          "like_count": 2297,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 194
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T04:15:31.000Z",
+        "description": "酒が好き人が好き武蔵屋（酒屋）のシングルモルト担当が中の人\n武蔵屋の公式メール配信よりも早く商品情報呟くことも\nたまにツイッター上でのみ抽選実施してます。\nいつか公式に怒られるかも・・・\n\n武蔵屋公式ツイッター@musashiyanet\n武蔵屋公式HP https://t.co/AMDZwTGOeu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 105,
+                "username": "musashiyanet"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "store.musashiya-net.co.jp",
+                "end": 150,
+                "expanded_url": "https://store.musashiya-net.co.jp",
+                "start": 127,
+                "url": "https://t.co/AMDZwTGOeu"
+              }
+            ]
+          }
+        },
+        "id": "1442342076633399304",
+        "location": "世田谷区",
+        "name": "武蔵屋の中のウイスキーの人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581911572112236545/k-1VOZwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12542,
+          "following_count": 611,
+          "like_count": 7004,
+          "listed_count": 43,
+          "media_count": 38,
+          "tweet_count": 4706
+        },
+        "username": "musashiyataka",
+        "verified": false
+      }
+    ]
+  }
+}

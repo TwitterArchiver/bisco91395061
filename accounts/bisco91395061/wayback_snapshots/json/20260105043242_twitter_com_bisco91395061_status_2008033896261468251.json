@@ -1,0 +1,615 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "768425369502310401",
+          "name": "Fagiano Okayama"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "768425369502310401",
+          "name": "Fagiano Okayama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "2008033896261468251",
+    "created_at": "2026-01-05T04:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T05:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008033896261468251"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "ファジアーノ岡山",
+          "probability": 0.6998,
+          "start": 26,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "JFC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1967837511696388098",
+          "start": 3,
+          "username": "JL_Fantasy_Card"
+        }
+      ],
+      "urls": [
+        {
+          "description": "『希少な1枚　多彩な楽しみ』Ｊリーグ公式のデジタルトレカ登場！数量限定の特別な選手カードをコレクション！Ｊ１の試合と連動するファンタジースポーツで競い合おう！",
+          "display_url": "pre.fantasy-fc.com",
+          "end": 120,
+          "expanded_url": "https://pre.fantasy-fc.com/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2006943716783828993/YE3yXQr5?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2006943716783828993/YE3yXQr5?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 97,
+          "status": 200,
+          "title": "【Ｊリーグ公式】J.LEAGUE FANTASY CARD｜2026年1月14日リリース！【JFC】",
+          "unwound_url": "https://pre.fantasy-fc.com/",
+          "url": "https://t.co/cCdKbJT0mu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008033896261468251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008010873936466356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JL_Fantasy_Card: ／\n　【 ファジアーノ岡山 】の壁紙を\n　全員にプレゼント！✨\n＼\n\n#JFC の選手カードを使用した壁紙を要チェック！\n\n📢JFCは事前登録受付中！\nhttps://t.co/cCdKbJT0mu\n\n【応募方法】\n1️⃣ @JL_Fa…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2008010865291976704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G93jPjraYAAfTy9.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "768425369502310401",
+              "name": "Fagiano Okayama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "768425369502310401",
+              "name": "Fagiano Okayama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2008033896261468251",
+        "created_at": "2026-01-05T04:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T05:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008033896261468251"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "ファジアーノ岡山",
+              "probability": 0.6998,
+              "start": 26,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "JFC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1967837511696388098",
+              "start": 3,
+              "username": "JL_Fantasy_Card"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『希少な1枚　多彩な楽しみ』Ｊリーグ公式のデジタルトレカ登場！数量限定の特別な選手カードをコレクション！Ｊ１の試合と連動するファンタジースポーツで競い合おう！",
+              "display_url": "pre.fantasy-fc.com",
+              "end": 120,
+              "expanded_url": "https://pre.fantasy-fc.com/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2006943716783828993/YE3yXQr5?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006943716783828993/YE3yXQr5?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "【Ｊリーグ公式】J.LEAGUE FANTASY CARD｜2026年1月14日リリース！【JFC】",
+              "unwound_url": "https://pre.fantasy-fc.com/",
+              "url": "https://t.co/cCdKbJT0mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008033896261468251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008010873936466356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JL_Fantasy_Card: ／\n　【 ファジアーノ岡山 】の壁紙を\n　全員にプレゼント！✨\n＼\n\n#JFC の選手カードを使用した壁紙を要チェック！\n\n📢JFCは事前登録受付中！\nhttps://t.co/cCdKbJT0mu\n\n【応募方法】\n1️⃣ @JL_Fa…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008010865291976704"
+          ]
+        },
+        "author_id": "1967837511696388098",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "768425369502310401",
+              "name": "Fagiano Okayama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "768425369502310401",
+              "name": "Fagiano Okayama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2008010873936466356",
+        "created_at": "2026-01-05T03:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T04:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008010873936466356"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "ファジアーノ岡山",
+              "probability": 0.7396,
+              "start": 5,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "JFC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 128,
+              "id": "1967837511696388098",
+              "start": 112,
+              "username": "JL_Fantasy_Card"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『希少な1枚　多彩な楽しみ』Ｊリーグ公式のデジタルトレカ登場！数量限定の特別な選手カードをコレクション！Ｊ１の試合と連動するファンタジースポーツで競い合おう！",
+              "display_url": "pre.fantasy-fc.com",
+              "end": 99,
+              "expanded_url": "https://pre.fantasy-fc.com/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2006943716783828993/YE3yXQr5?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006943716783828993/YE3yXQr5?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 76,
+              "status": 200,
+              "title": "【Ｊリーグ公式】J.LEAGUE FANTASY CARD｜2026年1月14日リリース！【JFC】",
+              "unwound_url": "https://pre.fantasy-fc.com/",
+              "url": "https://t.co/cCdKbJT0mu"
+            },
+            {
+              "display_url": "present.social-camp.com/JL_Fantasy_Car…",
+              "end": 189,
+              "expanded_url": "https://present.social-camp.com/JL_Fantasy_Card/251469180672",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2008010880840294400/nZO2J0Ft?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2008010880840294400/nZO2J0Ft?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 166,
+              "status": 200,
+              "title": "【岡山】壁紙プレゼントキャンペーン",
+              "unwound_url": "https://present.social-camp.com/JL_Fantasy_Card/251469180672",
+              "url": "https://t.co/LAzb4cCeTE"
+            },
+            {
+              "display_url": "pic.x.com/GTLsOVnavh",
+              "end": 213,
+              "expanded_url": "https://x.com/JL_Fantasy_Card/status/2008010873936466356/photo/1",
+              "media_key": "3_2008010865291976704",
+              "start": 190,
+              "url": "https://t.co/GTLsOVnavh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008010873936466356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 35,
+                "tag": "JFC"
+              },
+              {
+                "end": 196,
+                "start": 191,
+                "tag": "Ｊリーグ"
+              },
+              {
+                "end": 206,
+                "start": 197,
+                "tag": "ファジアーノ岡山"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 128,
+                "id": "1967837511696388098",
+                "start": 112,
+                "username": "JL_Fantasy_Card"
+              },
+              {
+                "end": 220,
+                "id": "829496016432877568",
+                "start": 207,
+                "username": "fagiano_koho"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pre.fantasy-fc.com",
+                "end": 99,
+                "expanded_url": "https://pre.fantasy-fc.com/",
+                "start": 76,
+                "url": "https://t.co/lHVeYGGn9i"
+              },
+              {
+                "display_url": "present.social-camp.com/JL_Fantasy_Car…",
+                "end": 189,
+                "expanded_url": "https://present.social-camp.com/JL_Fantasy_Card/251469180672",
+                "start": 166,
+                "url": "https://t.co/HTcHiN9OEj"
+              }
+            ]
+          },
+          "text": "／\n　【 ファジアーノ岡山 】の壁紙を\n　全員にプレゼント！✨\n＼\n\n#JFC の選手カードを使用した壁紙を要チェック！\n\n📢JFCは事前登録受付中！\nhttps://t.co/lHVeYGGn9i\n\n【応募方法】\n1️⃣ @JL_Fantasy_Card をフォロー\n2️⃣この投稿をリポスト\n3️⃣URLから画像をダウンロード\nhttps://t.co/HTcHiN9OEj\n\n#Ｊリーグ #ファジアーノ岡山 @fagiano_koho"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3793,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "／\n　【 ファジアーノ岡山 】の壁紙を\n　全員にプレゼント！✨\n＼\n\n#JFC の選手カードを使用した壁紙を要チェック！\n\n📢JFCは事前登録受付中！\nhttps://t.co/cCdKbJT0mu\n\n【応募方法】\n1️⃣ @JL_Fantasy_Card をフォロー\n2️⃣この投稿をリポスト\n3️⃣URLから画像をダウンロード\nhttps://t.co/LAzb4cCeTE https://t.co/GTLsOVnavh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰ウイスキーも少し勉強中、ウマ娘も少し、ファジアーノも",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981275771931942912/DkGP4QSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 185,
+          "like_count": 2393,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 217
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T06:27:00.000Z",
+        "description": "Ｊリーグ公式トレーディングカード×ファンタジースポーツゲーム『J.LEAGUE FANTASY CARD』公式アカウントです！#JFC 事前登録受付中！\n📌公式サイト:https://t.co/Gt06tfA1EP 📌カード一覧: https://t.co/cbQcLInNQ2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 63,
+                "tag": "JFC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pre.fantasy-fc.com",
+                "end": 107,
+                "expanded_url": "https://pre.fantasy-fc.com",
+                "start": 84,
+                "url": "https://t.co/Gt06tfA1EP"
+              },
+              {
+                "display_url": "cardlist.fantasy-fc.com",
+                "end": 139,
+                "expanded_url": "https://cardlist.fantasy-fc.com/",
+                "start": 116,
+                "url": "https://t.co/cbQcLInNQ2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pre.fantasy-fc.com",
+                "end": 23,
+                "expanded_url": "https://pre.fantasy-fc.com/",
+                "start": 0,
+                "url": "https://t.co/lHVeYGFPjK"
+              }
+            ]
+          }
+        },
+        "id": "1967837511696388098",
+        "name": "J.LEAGUE FANTASY CARD【公式】",
+        "pinned_tweet_id": "2007014009011327298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980454150929293312/UsA1j0eh_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16327,
+          "following_count": 24,
+          "like_count": 35,
+          "listed_count": 17,
+          "media_count": 59,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/lHVeYGFPjK",
+        "username": "JL_Fantasy_Card",
+        "verified": true
+      }
+    ]
+  }
+}

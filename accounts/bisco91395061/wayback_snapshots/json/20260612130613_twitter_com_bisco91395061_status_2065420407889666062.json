@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2065026751257100409",
+    "created_at": "2026-06-12T13:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065420407889666062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1242408384336252929",
+          "start": 0,
+          "username": "A0LUxySUrldn9w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065420407889666062",
+    "in_reply_to_user_id": "1242408384336252929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065404951099330948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A0LUxySUrldn9w0 谢谢你！🥺🥺🥺💖💖💖💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2065026751257100409",
+        "created_at": "2026-06-12T13:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065420407889666062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1242408384336252929",
+              "start": 0,
+              "username": "A0LUxySUrldn9w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065420407889666062",
+        "in_reply_to_user_id": "1242408384336252929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065404951099330948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A0LUxySUrldn9w0 谢谢你！🥺🥺🥺💖💖💖💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1242408384336252929",
+        "conversation_id": "2065026751257100409",
+        "created_at": "2026-06-12T12:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065404951099330948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065404951099330948",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065026751257100409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 羡慕头发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜骂我先骂@cryptochenrui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2065026751257100409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 239,
+          "like_count": 7724,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1201
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-24T11:10:26.000Z",
+        "description": "Hamilton faces an endless uphill climb\n提问箱：https://t.co/Wrdnw5UqHC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/A0LUxySUrldn9w…",
+                "end": 66,
+                "expanded_url": "https://ngl.link/A0LUxySUrldn9w078532",
+                "start": 43,
+                "url": "https://t.co/Wrdnw5UqHC"
+              }
+            ]
+          }
+        },
+        "id": "1242408384336252929",
+        "location": "小马利亚",
+        "name": "花散里翎音",
+        "pinned_tweet_id": "2055581176719704119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055277906759417856/3R3p2LX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 392,
+          "like_count": 5808,
+          "listed_count": 2,
+          "media_count": 504,
+          "tweet_count": 3466
+        },
+        "username": "A0LUxySUrldn9w0",
+        "verified": false
+      }
+    ]
+  }
+}

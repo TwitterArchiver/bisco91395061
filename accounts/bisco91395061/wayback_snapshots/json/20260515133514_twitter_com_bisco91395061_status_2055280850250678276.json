@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2055280850250678276",
+    "created_at": "2026-05-15T13:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055280850250678276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2055209344359190756",
+          "start": 25,
+          "url": "https://t.co/vW89W7F0dk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055280850250678276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055209344359190756",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "停停停这是真的吗，我真的信了，，，，，学习学起来 https://t.co/vW89W7F0dk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2055280850250678276",
+        "created_at": "2026-05-15T13:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055280850250678276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2055209344359190756",
+              "start": 25,
+              "url": "https://t.co/vW89W7F0dk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055280850250678276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055209344359190756",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "停停停这是真的吗，我真的信了，，，，，学习学起来 https://t.co/vW89W7F0dk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2055209344359190756",
+        "created_at": "2026-05-15T08:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055209344359190756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055209344359190756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2483,
+          "like_count": 52,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "偷偷告诉你：\n\npr80的戒断反应可能通过促进神经元突触发生的机理，增加记忆力和智力😋\n证据就是，社群中有很多人报告自己在断了pr后记忆力和智力提升了🤓☝\n\n所以啊，塞翁失马，焉知祸福。今年要高考的ODer推友们有福了(bushi)\n学有余力的推u们也可以和我们组wiki，一起写社论文档，共谋OD圈的未来哦🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 124,
+          "like_count": 5568,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 655
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4546,
+          "following_count": 1026,
+          "like_count": 23970,
+          "listed_count": 11,
+          "media_count": 525,
+          "tweet_count": 7722
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030540501540392960"
+      ],
+      "media_source_tweet_id": [
+        "2030540509144547666"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030612604876648668",
+    "created_at": "2026-03-08T11:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T12:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030612604876648668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966023688006078464",
+          "start": 3,
+          "username": "callme_mom_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6id4rpSVtz",
+          "end": 45,
+          "expanded_url": "https://x.com/callme_mom_/status/2030540509144547666/photo/1",
+          "media_key": "3_2030540501540392960",
+          "start": 22,
+          "url": "https://t.co/6id4rpSVtz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030612604876648668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030540509144547666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @callme_mom_: 我的一生 https://t.co/6id4rpSVtz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 781,
+        "media_key": "3_2030540501540392960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3t0_Bb0AAc4kM.jpg",
+        "width": 705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030540501540392960"
+          ],
+          "media_source_tweet_id": [
+            "2030540509144547666"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030612604876648668",
+        "created_at": "2026-03-08T11:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T12:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030612604876648668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966023688006078464",
+              "start": 3,
+              "username": "callme_mom_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6id4rpSVtz",
+              "end": 45,
+              "expanded_url": "https://x.com/callme_mom_/status/2030540509144547666/photo/1",
+              "media_key": "3_2030540501540392960",
+              "start": 22,
+              "url": "https://t.co/6id4rpSVtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030612604876648668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030540509144547666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @callme_mom_: 我的一生 https://t.co/6id4rpSVtz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030540501540392960"
+          ]
+        },
+        "author_id": "1966023688006078464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030540509144547666",
+        "created_at": "2026-03-08T07:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T08:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030540509144547666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6id4rpSVtz",
+              "end": 28,
+              "expanded_url": "https://x.com/callme_mom_/status/2030540509144547666/photo/1",
+              "media_key": "3_2030540501540392960",
+              "start": 5,
+              "url": "https://t.co/6id4rpSVtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030540509144547666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2791,
+          "like_count": 122,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我的一生 https://t.co/6id4rpSVtz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 22,
+          "like_count": 2629,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 49
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T06:19:22.000Z",
+        "description": "审美积累账号 尝试戒色者 乞讨18pm者 装疯卖傻者 辱追被打者 屁话很多者 有很多儿子者",
+        "id": "1966023688006078464",
+        "location": "如果您想为贫穷的我提供帮助：🚪52",
+        "name": "豆比（戒色day0）",
+        "pinned_tweet_id": "2014700169649131645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000933845299027972/G-KQIvi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 69,
+          "like_count": 1234,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 831
+        },
+        "username": "callme_mom_",
+        "verified": false
+      }
+    ]
+  }
+}

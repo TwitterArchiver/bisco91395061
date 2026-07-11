@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2063201096214978676",
+    "created_at": "2026-06-06T10:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063203611602305325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063203611602305325",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063201096214978676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 谁攻击你我开泥头车创死他。。。。。哪来的贱货。。！！🫂🫂🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2063201096214978676",
+        "created_at": "2026-06-06T10:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063203611602305325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063203611602305325",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063201096214978676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 谁攻击你我开泥头车创死他。。。。。哪来的贱货。。！！🫂🫂🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2063201096214978676",
+        "created_at": "2026-06-06T10:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063201096214978676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063201096214978676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在私信攻击我的人你们它爹的也是生活不如意攻击一个死目莉了。唉。那怎么办。你们这辈子不就这样了吗？我觉得其实好可怜，不都是一群惨逼何必互相为难。但是你既然攻击我那我只能微笑着看你和你全家人的遗像和你对一个互联网上看不见摸不着的人的臆测臆想发笑了。\n\n攻击我会让你悲惨的生活变好吗？\n不会的。\n\n攻击我让你的心情好一点了吗？\n哦哦，那不就好了吗😺😸"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在私信攻击我的人你们它爹的也是生活不如意攻击一个死目莉了。唉。那怎么办。你们这辈子不就这样了吗？我觉得其实好可怜，不都是一群惨逼何必互相为难。但是你既然攻击我那我只能微笑着看你和你全家人的遗像和你对一个互联网上看不见摸不着的人的臆测臆想发笑了。\n\n攻击我会让你悲惨的生活变好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 180,
+          "like_count": 7238,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 974
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n🩹 | 双相情感障碍 • 𝖠𝖣𝖧𝖣 • 重焦 • 💊🔪🩸\n\n🎀没有喜欢死目莉的觉悟就不要靠近死目莉。\n💕女宝互关熟了可以恰v \n🫧男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2063162560157720985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 184,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 453
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

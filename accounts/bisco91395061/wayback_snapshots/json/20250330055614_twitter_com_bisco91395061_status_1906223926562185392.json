@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906223923643211776",
+        "3_1906223923790020608"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1906223926562185392",
+    "created_at": "2025-03-30T05:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T06:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906223926562185392"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 5,
+          "normalized_text": "デュランダル",
+          "probability": 0.4903,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7gzUcz8fTj",
+          "end": 54,
+          "expanded_url": "https://x.com/bisco91395061/status/1906223926562185392/photo/1",
+          "media_key": "3_1906223923643211776",
+          "start": 31,
+          "url": "https://t.co/7gzUcz8fTj"
+        },
+        {
+          "display_url": "pic.x.com/7gzUcz8fTj",
+          "end": 54,
+          "expanded_url": "https://x.com/bisco91395061/status/1906223926562185392/photo/1",
+          "media_key": "3_1906223923790020608",
+          "start": 31,
+          "url": "https://t.co/7gzUcz8fTj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906223926562185392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "デュランダルがやってくれました😁対戦ありがとうございました！ https://t.co/7gzUcz8fTj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1906223923643211776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnREjxca4AAFxMh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1906223923790020608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnREjx_bAAAMBMj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906223923643211776",
+            "3_1906223923790020608"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1906223926562185392",
+        "created_at": "2025-03-30T05:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T06:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906223926562185392"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "デュランダル",
+              "probability": 0.4903,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7gzUcz8fTj",
+              "end": 54,
+              "expanded_url": "https://x.com/bisco91395061/status/1906223926562185392/photo/1",
+              "media_key": "3_1906223923643211776",
+              "start": 31,
+              "url": "https://t.co/7gzUcz8fTj"
+            },
+            {
+              "display_url": "pic.x.com/7gzUcz8fTj",
+              "end": 54,
+              "expanded_url": "https://x.com/bisco91395061/status/1906223926562185392/photo/1",
+              "media_key": "3_1906223923790020608",
+              "start": 31,
+              "url": "https://t.co/7gzUcz8fTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906223926562185392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "デュランダルがやってくれました😁対戦ありがとうございました！ https://t.co/7gzUcz8fTj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "洗車初心者🔰2022.9月から洗車はじめました！皆さん、色々と教えて下さい🙇🏻‍♂️ ウィスキーも少し勉強中、ウマ娘も少し",
+        "id": "1564990471327215619",
+        "name": "bisco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602223879472427008/pvTqSHmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 168,
+          "like_count": 2305,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 204
+        },
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

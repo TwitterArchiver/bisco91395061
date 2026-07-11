@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2067168273834418233",
+    "created_at": "2026-06-17T22:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T23:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067368807489004022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2053830482199269376",
+          "start": 0,
+          "username": "egfp2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067368807489004022",
+    "in_reply_to_user_id": "2053830482199269376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067296923527376955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@egfp2 美金刚和愈美区别还是挺大的感觉，对我而言美金刚＞愈美，愈美我吃完得缓三天并且食欲不振，干啥都没力气，美金刚就完全不会这样，后劲很舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2067168273834418233",
+        "created_at": "2026-06-17T22:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T23:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067368807489004022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2053830482199269376",
+              "start": 0,
+              "username": "egfp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067368807489004022",
+        "in_reply_to_user_id": "2053830482199269376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067296923527376955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@egfp2 美金刚和愈美区别还是挺大的感觉，对我而言美金刚＞愈美，愈美我吃完得缓三天并且食欲不振，干啥都没力气，美金刚就完全不会这样，后劲很舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053830482199269376",
+        "conversation_id": "2067168273834418233",
+        "created_at": "2026-06-17T17:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067296923527376955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067296923527376955",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067168273834418233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 真的假的。我想试试美金刚他和愈美的区别是啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 270,
+          "like_count": 8059,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1366
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T13:32:41.000Z",
+        "description": "",
+        "id": "2053830482199269376",
+        "name": "祸害",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053830767164506112/pzqkN0Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 14,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "egfp2",
+        "verified": false
+      }
+    ]
+  }
+}

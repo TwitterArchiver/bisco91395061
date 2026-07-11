@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2056996833713631530",
+    "created_at": "2026-05-20T07:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056996833713631530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1813393863819587584",
+          "start": 3,
+          "username": "FallingKillme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056996833713631530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056580342409285717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FallingKillme: 谁有艾滋？520帮我操个人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2056996833713631530",
+        "created_at": "2026-05-20T07:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056996833713631530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1813393863819587584",
+              "start": 3,
+              "username": "FallingKillme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056996833713631530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056580342409285717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FallingKillme: 谁有艾滋？520帮我操个人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813393863819587584",
+        "conversation_id": "2056580342409285717",
+        "created_at": "2026-05-19T03:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056580342409285717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056580342409285717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 203762,
+          "like_count": 457,
+          "quote_count": 3,
+          "reply_count": 119,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "谁有艾滋？520帮我操个人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 131,
+          "like_count": 5891,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 692
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T02:03:02.000Z",
+        "description": "@iIIiterature",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "iIIiterature"
+              }
+            ]
+          }
+        },
+        "id": "1813393863819587584",
+        "name": "狗",
+        "pinned_tweet_id": "1813867672997925198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055244215899287552/svCsK_PQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 51,
+          "like_count": 8711,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 2352
+        },
+        "username": "FallingKillme",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2050541239007895755",
+    "created_at": "2026-05-04T10:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051251575734354199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596072093073870848",
+          "start": 0,
+          "username": "LjoiVpF2myZozmY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051251575734354199",
+    "in_reply_to_user_id": "1596072093073870848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051248481034191030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LjoiVpF2myZozmY emm，我一直吃这么多，我最少的一次应该也有900mg，低剂量我不知道啥感觉，反正我现在几千毫克地吃已经没啥感觉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2050541239007895755",
+        "created_at": "2026-05-04T10:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051251575734354199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596072093073870848",
+              "start": 0,
+              "username": "LjoiVpF2myZozmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051251575734354199",
+        "in_reply_to_user_id": "1596072093073870848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051248481034191030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LjoiVpF2myZozmY emm，我一直吃这么多，我最少的一次应该也有900mg，低剂量我不知道啥感觉，反正我现在几千毫克地吃已经没啥感觉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596072093073870848",
+        "conversation_id": "2050541239007895755",
+        "created_at": "2026-05-04T10:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051248481034191030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051248481034191030",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051156358238781492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 高剂量是不是跟低剂量一样感觉呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜低浮上",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "愛我請給我pr80",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 103,
+          "like_count": 4828,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 514
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T09:23:45.000Z",
+        "description": "/",
+        "id": "1596072093073870848",
+        "name": "C₄H₄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041516274820521985/aMIgSUNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 5,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 39
+        },
+        "username": "LjoiVpF2myZozmY",
+        "verified": false
+      }
+    ]
+  }
+}

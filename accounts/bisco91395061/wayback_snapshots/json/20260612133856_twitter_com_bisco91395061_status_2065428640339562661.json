@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2065427757975457875",
+    "created_at": "2026-06-12T13:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065428640339562661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1601561023634341888",
+          "start": 0,
+          "username": "cottrell_luanne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065428640339562661",
+    "in_reply_to_user_id": "1601561023634341888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065428074288824600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cottrell_luanne 稍微一点点吧，在我能接受的范围内"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2065427757975457875",
+        "created_at": "2026-06-12T13:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065428640339562661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1601561023634341888",
+              "start": 0,
+              "username": "cottrell_luanne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065428640339562661",
+        "in_reply_to_user_id": "1601561023634341888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065428074288824600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cottrell_luanne 稍微一点点吧，在我能接受的范围内"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601561023634341888",
+        "conversation_id": "2065427757975457875",
+        "created_at": "2026-06-12T13:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065428074288824600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065428074288824600",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065427757975457875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 呃啊 香精味太浓也不太好 可能有点不顺口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜骂我先骂@cryptochenrui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2065026751257100409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 239,
+          "like_count": 7726,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1204
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T12:54:41.000Z",
+        "description": "业余咖啡小白 |喜欢听音乐｜喜欢得其利和威士忌酸🥃 |04 |时不时打打游戏｜纯爱万岁｜🌟爱好是电射和sp",
+        "id": "1601561023634341888",
+        "name": "奶咖.starroast",
+        "pinned_tweet_id": "2064384912598380722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696294792437833728/zaiK6KKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 391,
+          "like_count": 2208,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 456
+        },
+        "username": "cottrell_luanne",
+        "verified": false
+      }
+    ]
+  }
+}

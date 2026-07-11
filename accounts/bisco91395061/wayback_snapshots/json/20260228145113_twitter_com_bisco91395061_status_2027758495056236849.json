@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2027457431224344725",
+    "created_at": "2026-02-28T14:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T15:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027758495056236849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945666918842769408",
+          "start": 0,
+          "username": "soramimi4ac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027758495056236849",
+    "in_reply_to_user_id": "1945666918842769408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027457431224344725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soramimi4ac 小宝宝你好美。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027457420373725185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCL5yCqbEAEe_yn.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2027457431224344725",
+        "created_at": "2026-02-28T14:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027758495056236849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945666918842769408",
+              "start": 0,
+              "username": "soramimi4ac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027758495056236849",
+        "in_reply_to_user_id": "1945666918842769408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027457431224344725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soramimi4ac 小宝宝你好美。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027457420373725185"
+          ]
+        },
+        "author_id": "1945666918842769408",
+        "conversation_id": "2027457431224344725",
+        "created_at": "2026-02-27T18:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027457431224344725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j8Q9lfDTBy",
+              "end": 27,
+              "expanded_url": "https://x.com/soramimi4ac/status/2027457431224344725/photo/1",
+              "media_key": "3_2027457420373725185",
+              "start": 4,
+              "url": "https://t.co/j8Q9lfDTBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027457431224344725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "揪头发 https://t.co/j8Q9lfDTBy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 17,
+          "like_count": 2468,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T02:08:49.000Z",
+        "description": "我是酸碱，精分oder，想来建设推特，同类女孩们可不可以和我互fo，我很友善😣🩵看到会回",
+        "id": "1945666918842769408",
+        "name": "吹风春饼",
+        "pinned_tweet_id": "2027662218083606765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005823429090607105/QDKXyeWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 98,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 108
+        },
+        "username": "soramimi4ac",
+        "verified": false
+      }
+    ]
+  }
+}

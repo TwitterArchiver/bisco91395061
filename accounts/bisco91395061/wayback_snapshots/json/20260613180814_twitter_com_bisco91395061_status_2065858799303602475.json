@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2065729639910420882",
+    "created_at": "2026-06-13T18:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T19:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065858799303602475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1664742004423794688",
+          "start": 0,
+          "username": "rwayne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065858799303602475",
+    "in_reply_to_user_id": "1664742004423794688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065729639910420882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rwayne ？？？虽然但是真的没觉得哪里安慰到了，没有实质性的解决办法，只是一时间的情感快慰。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2065684382527225856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrJAF6bgAAzUQz.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2065729639910420882",
+        "created_at": "2026-06-13T18:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065858799303602475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1664742004423794688",
+              "start": 0,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065858799303602475",
+        "in_reply_to_user_id": "1664742004423794688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065729639910420882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwayne ？？？虽然但是真的没觉得哪里安慰到了，没有实质性的解决办法，只是一时间的情感快慰。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065684382527225856"
+          ]
+        },
+        "author_id": "1664742004423794688",
+        "conversation_id": "2065729639910420882",
+        "created_at": "2026-06-13T09:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065729639910420882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qACwJDVxev",
+              "end": 31,
+              "expanded_url": "https://x.com/rwayne/status/2065729639910420882/photo/1",
+              "media_key": "3_2065684382527225856",
+              "start": 8,
+              "url": "https://t.co/qACwJDVxev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065729639910420882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6262,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是国产浪漫 https://t.co/qACwJDVxev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2065026751257100409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 240,
+          "like_count": 7799,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1247
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "一切身份标签都是当下的自我逃避\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2050050113142509886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51462,
+          "following_count": 769,
+          "like_count": 36945,
+          "listed_count": 268,
+          "media_count": 4166,
+          "tweet_count": 17597
+        },
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

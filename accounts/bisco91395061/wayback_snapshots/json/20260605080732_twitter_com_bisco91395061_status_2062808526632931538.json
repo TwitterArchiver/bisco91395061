@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2062808526632931538",
+    "created_at": "2026-06-05T08:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062808526632931538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/keibalab/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/keibalab/status/2062691887803482513",
+          "start": 13,
+          "url": "https://t.co/vvmUq1q8ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062808526632931538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062691887803482513",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老李加油😹60还是太低了 https://t.co/vvmUq1q8ku"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 467,
+        "media_key": "3_2062691852940423168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAnT8ebMAAyeUA.png",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2062808526632931538",
+        "created_at": "2026-06-05T08:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062808526632931538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/keibalab/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/keibalab/status/2062691887803482513",
+              "start": 13,
+              "url": "https://t.co/vvmUq1q8ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062808526632931538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062691887803482513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老李加油😹60还是太低了 https://t.co/vvmUq1q8ku"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062691852940423168"
+          ]
+        },
+        "author_id": "128479818",
+        "conversation_id": "2062691887803482513",
+        "created_at": "2026-06-05T00:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062691887803482513"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 95,
+              "tag": "トロヴァトーレ"
+            },
+            {
+              "end": 111,
+              "start": 104,
+              "tag": "C・ルメール"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "安田記念"
+            }
+          ],
+          "urls": [
+            {
+              "description": "トロヴァトーレ（2021年04月30日生まれ、牡馬、父レイデオロ、母シャルマント）競走成績、馬主、調教師、血統といった基本データはもちろん、競馬場・距離・馬場状態・枠順別の成績、次走情報など予想に使えるデータを無料で公開中！",
+              "display_url": "keibalab.jp/db/horse/20211…",
+              "end": 141,
+              "expanded_url": "https://www.keibalab.jp/db/horse/2021105557/?ad_code=tw",
+              "images": [
+                {
+                  "height": 525,
+                  "url": "https://pbs.twimg.com/news_img/2062691935635243008/qok9y3B5?format=jpg&name=orig",
+                  "width": 700
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062691935635243008/qok9y3B5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 118,
+              "status": 200,
+              "title": "トロヴァトーレ - Trovatore - 競走馬データベース | 競馬ラボ",
+              "unwound_url": "https://www.keibalab.jp/db/horse/2021105557/?ad_code=tw",
+              "url": "https://t.co/YE3YxFpTQ7"
+            },
+            {
+              "display_url": "pic.x.com/V9SPe2q8QB",
+              "end": 165,
+              "expanded_url": "https://x.com/keibalab/status/2062691887803482513/photo/1",
+              "media_key": "3_2062691852940423168",
+              "start": 142,
+              "url": "https://t.co/V9SPe2q8QB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062691887803482513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 65887,
+          "like_count": 849,
+          "quote_count": 18,
+          "reply_count": 4,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "【自動的に買え】\n安田記念×C.ルメール騎手\n(1.3.2.4) 複勝率60.0％\n\nなお唯一勝ったのは9番人気のモズアスコットでの時。1、2番人気では未勝利。今年はトロヴァトーレで参戦。\n#トロヴァトーレ #C・ルメール #安田記念\nhttps://t.co/YE3YxFpTQ7 https://t.co/V9SPe2q8QB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 168,
+          "like_count": 7073,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 920
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-01T07:11:25.000Z",
+        "description": "競馬ラボの公式Twitter。他では見られない競馬場・トレセンからの関係者リアルタイム情報・写真、予想に役立つデータまで、競馬界の「いま」をなる早で楽しくお伝えします！主要レース結果速報もお任せください。※サイト内の記事・写真・映像などの無断複製、転載を禁じます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "keibalab.jp",
+                "end": 23,
+                "expanded_url": "https://www.keibalab.jp/",
+                "start": 0,
+                "url": "https://t.co/3Svkx9PiXT"
+              }
+            ]
+          }
+        },
+        "id": "128479818",
+        "location": "東京都",
+        "name": "競馬ラボ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/876412781699846145/SOocRWfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204445,
+          "following_count": 9993,
+          "like_count": 1908,
+          "listed_count": 2210,
+          "media_count": 29102,
+          "tweet_count": 86750
+        },
+        "url": "https://t.co/3Svkx9PiXT",
+        "username": "keibalab",
+        "verified": false
+      }
+    ]
+  }
+}

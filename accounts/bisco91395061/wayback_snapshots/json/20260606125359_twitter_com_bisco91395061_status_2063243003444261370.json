@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2063218631149015071",
+    "created_at": "2026-06-06T12:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063243003444261370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1856339882156949504",
+          "start": 0,
+          "username": "tQ5T54nKOD75630"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063243003444261370",
+    "in_reply_to_user_id": "1856339882156949504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063218631149015071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tQ5T54nKOD75630 感觉在中国，小栗帽和黄金船最广为人知呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2063218631149015071",
+        "created_at": "2026-06-06T12:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063243003444261370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1856339882156949504",
+              "start": 0,
+              "username": "tQ5T54nKOD75630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063243003444261370",
+        "in_reply_to_user_id": "1856339882156949504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063218631149015071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tQ5T54nKOD75630 感觉在中国，小栗帽和黄金船最广为人知呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856339882156949504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Vodka",
+              "id": "850412603264217088",
+              "name": "Vodka"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vodka",
+              "id": "850412603264217088",
+              "name": "Vodka"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Vodka",
+              "id": "850412603264217088",
+              "name": "Vodka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          }
+        ],
+        "conversation_id": "2063218631149015071",
+        "created_at": "2026-06-06T11:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063218631149015071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063218631149015071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "🏇競走馬世間認知度ランキング\n\n1位　ディープインパクト\n2位　キタサンブラック\n3位　オグリキャップ\n4位　ゴールドシップ\n5位　オルフェーブル\n6位　ハルウララ\n7位　ソダシ\n8位　アーモンドアイ\n9位　テイエムオペラオー\n10位　ウオッカ\n\n8位以降のみ異論は認める\nシンザンとか言う爺さんは出てこないように"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2735,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🏇競走馬世間認知度ランキング\n\n1位　ディープインパクト\n2位　キタサンブラック\n3位　オグリキャップ\n4位　ゴールドシップ\n5位　オルフェーブル\n6位　ハルウララ\n7位　ソダシ\n8位　アーモンドアイ\n9位　テイエムオペラオー\n10位　ウオッカ\n\n8位以降のみ異論は認める"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 183,
+          "like_count": 7252,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 983
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T14:15:03.000Z",
+        "description": "よく自信のあるレース印をだします。毎週中央重賞の考察する競馬と趣味垢。口悪い。可愛い子と馬が好き。フォローしてね、絡み大好き",
+        "id": "1856339882156949504",
+        "location": "関東",
+        "name": "最終くん",
+        "pinned_tweet_id": "2063058634591064133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055404687495745536/Egp_mrMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10800,
+          "following_count": 1582,
+          "like_count": 27894,
+          "listed_count": 73,
+          "media_count": 838,
+          "tweet_count": 9614
+        },
+        "username": "tQ5T54nKOD75630",
+        "verified": true
+      }
+    ]
+  }
+}

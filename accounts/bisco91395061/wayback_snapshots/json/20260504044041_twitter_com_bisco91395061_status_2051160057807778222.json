@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2051160057807778222",
+    "created_at": "2026-05-04T04:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T05:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051160057807778222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1531874456997863424",
+          "start": 3,
+          "username": "youhappynohappy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051160057807778222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050643255969435706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youhappynohappy: 我愿意拿仇人十年寿命换盐野义两件65折"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2051160057807778222",
+        "created_at": "2026-05-04T04:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051160057807778222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1531874456997863424",
+              "start": 3,
+              "username": "youhappynohappy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051160057807778222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050643255969435706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youhappynohappy: 我愿意拿仇人十年寿命换盐野义两件65折"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531874456997863424",
+        "conversation_id": "2050643255969435706",
+        "created_at": "2026-05-02T18:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050643255969435706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050643255969435706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4344,
+          "like_count": 137,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "我愿意拿仇人十年寿命换盐野义两件65折"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜低浮上",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "愛我請給我pr80",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 102,
+          "like_count": 4737,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 498
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T05:45:36.000Z",
+        "description": "人生且当黄粱梦，了却人间千古愁。",
+        "id": "1531874456997863424",
+        "location": "尖沙咀铁锅炖大鹅",
+        "name": "不开心就不开心呗",
+        "pinned_tweet_id": "2046962410335154653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045177151373377536/WYIiopRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 181,
+          "like_count": 14807,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 619
+        },
+        "username": "youhappynohappy",
+        "verified": false
+      }
+    ]
+  }
+}

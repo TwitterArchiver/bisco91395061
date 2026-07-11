@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2058461582615883984",
+    "created_at": "2026-05-24T08:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058461582615883984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JRA_Special/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/JRA_Special/status/2058445947823411372",
+          "start": 29,
+          "url": "https://t.co/rZasumYcVy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058461582615883984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058445947823411372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这也太强了我去我才看见二着是老李三着是莲师傅🙉🙉🙉😱😱😱 https://t.co/rZasumYcVy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59559,
+        "height": 1080,
+        "media_key": "13_2058445639403651072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058445639403651072/img/orOQRHD2zk3M5kxD.jpg",
+        "public_metrics": {
+          "view_count": 240204
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058445639403651072/pl/BclaT9C4S85ZXKGw.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058445639403651072/vid/avc1/640x360/bYAGTJdqh9apQQt0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058445639403651072/vid/avc1/1920x1080/vHxOVrTrDDoEvVdF.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058445639403651072/vid/avc1/480x270/btGM5u0tYjBuErE1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058445639403651072/vid/avc1/1280x720/-KvKfeTsTQ1U0VTd.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2058461582615883984",
+        "created_at": "2026-05-24T08:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058461582615883984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JRA_Special/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/JRA_Special/status/2058445947823411372",
+              "start": 29,
+              "url": "https://t.co/rZasumYcVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058461582615883984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058445947823411372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也太强了我去我才看见二着是老李三着是莲师傅🙉🙉🙉😱😱😱 https://t.co/rZasumYcVy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058445639403651072"
+          ]
+        },
+        "author_id": "1528924938648039424",
+        "conversation_id": "2058445947823411372",
+        "created_at": "2026-05-24T07:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058445947823411372"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "今村聖奈"
+            },
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "ジュウリョクピエロ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "競走馬、騎手や調教師、過去のレース結果等について 検索する場合は、以下のページをご利用ください。 3歳 オープン (国際)牝(指定) 馬齢 コース 2400m 芝・左 発走15:40 天候:曇 芝:良 本賞金(万円):15000、6000、3800、2300、1500 付加賞(万円):2636.9、753.4、376.7 7 7 13 エンネ 4番人気 牝3 / 512kg(-4) 坂井瑠星 (55.0) 吉岡辰弥 (栗東) 2:25.9 (３／４) / 33.1 8 2 3 アランカール 6番人気 牝3 / 434kg(+4) 武豊 (55.0) 斉藤崇史 (栗東) 2:26.0 (１／２) / 33.9 10 5 9 トリニティ 9番人気 牝3 / 446kg(-4) 西村淳也 (55.0) 安田翔伍 (栗東) 2:26.2 (１ 1/4) / 35.4 12 5 10 スターアニス 1番人気 牝3 / 480kg(0) 松山弘平 (55.0) 高野友和 (栗東) 2:26.4 (１) / 34.3 13 7 14 ソルパッサーレ 15番人気 牝3 / 460kg(+4) 浜中俊 (55.0)",
+              "display_url": "sp.jra.jp/JRADB/accessS.…",
+              "end": 127,
+              "expanded_url": "https://sp.jra.jp/JRADB/accessS.html?CNAME=sw01sde0105202602101120260524/D9",
+              "start": 104,
+              "status": 200,
+              "title": "レース結果",
+              "unwound_url": "https://sp.jra.jp/JRADB/accessS.html?CNAME=sw01sde0105202602101120260524/D9",
+              "url": "https://t.co/X1hRM9iHXs"
+            },
+            {
+              "display_url": "pic.x.com/YncJisDbjz",
+              "end": 151,
+              "expanded_url": "https://x.com/JRA_Special/status/2058445947823411372/video/1",
+              "media_key": "13_2058445639403651072",
+              "start": 128,
+              "url": "https://t.co/YncJisDbjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058445947823411372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1490,
+          "impression_count": 720899,
+          "like_count": 22710,
+          "quote_count": 1257,
+          "reply_count": 328,
+          "retweet_count": 9470
+        },
+        "reply_settings": "everyone",
+        "text": "【オークス（GⅠ）】\n#今村聖奈 騎手騎乗の #ジュウリョクピエロ が優勝🏇\n\n今村騎手はクラシック初騎乗・初制覇‼️\nJRA所属の女性騎手では、初のJRA・GⅠ制覇となりました🏆👏\n\n🔽レース結果はこちら\nhttps://t.co/X1hRM9iHXs https://t.co/YncJisDbjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 129,
+          "like_count": 6213,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 730
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T02:25:18.000Z",
+        "description": "レース情報やオフショット、キャンペーンなど競馬の魅力を幅広くお届けします🐴✨\n\nコミュニティガイドライン\nhttps://t.co/Tndq39PnGJ\n馬券は20歳になってから　ほどよく楽しむ大人の遊び\nhttps://t.co/ZtjPtm33fp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jra.jp/SNS/guide.html",
+                "end": 76,
+                "expanded_url": "http://jra.jp/SNS/guide.html",
+                "start": 53,
+                "url": "https://t.co/Tndq39PnGJ"
+              },
+              {
+                "display_url": "jra.jp/kouza/baken/in…",
+                "end": 126,
+                "expanded_url": "https://jra.jp/kouza/baken/index.html#cat_info",
+                "start": 103,
+                "url": "https://t.co/ZtjPtm33fp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jra.jp",
+                "end": 23,
+                "expanded_url": "https://jra.jp/",
+                "start": 0,
+                "url": "https://t.co/FhkEfSZNrG"
+              }
+            ]
+          }
+        },
+        "id": "1528924938648039424",
+        "name": "JRA公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964939407649370112/L4BR7CHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233255,
+          "following_count": 12,
+          "like_count": 13,
+          "listed_count": 787,
+          "media_count": 868,
+          "tweet_count": 1457
+        },
+        "url": "https://t.co/FhkEfSZNrG",
+        "username": "JRA_Special",
+        "verified": true
+      }
+    ]
+  }
+}

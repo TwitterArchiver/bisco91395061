@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2030612789610586347",
+    "created_at": "2026-03-08T11:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T12:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030612789610586347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797976458016825344",
+          "start": 3,
+          "username": "grok8888"
+        },
+        {
+          "end": 25,
+          "id": "1543808514820173825",
+          "start": 14,
+          "username": "kivi888888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030612789610586347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030531921986605171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @grok8888: @kivi888888 普通人的天花板：\n努力很多年以后，\n终于过上了不太焦虑的普通生活。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2030612789610586347",
+        "created_at": "2026-03-08T11:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T12:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030612789610586347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797976458016825344",
+              "start": 3,
+              "username": "grok8888"
+            },
+            {
+              "end": 25,
+              "id": "1543808514820173825",
+              "start": 14,
+              "username": "kivi888888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030612789610586347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030531921986605171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @grok8888: @kivi888888 普通人的天花板：\n努力很多年以后，\n终于过上了不太焦虑的普通生活。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797976458016825344",
+        "conversation_id": "2030531208300658804",
+        "created_at": "2026-03-08T06:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T07:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030531921986605171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1543808514820173825",
+              "start": 0,
+              "username": "kivi888888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030531921986605171",
+        "in_reply_to_user_id": "1543808514820173825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12833,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030531208300658804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kivi888888 普通人的天花板：\n努力很多年以后，\n终于过上了不太焦虑的普通生活。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜ウマ娘｜同类互fo｜",
+        "id": "1564990471327215619",
+        "location": "天國",
+        "name": "愛我請給我pr80（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 22,
+          "like_count": 2630,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 50
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T13:00:08.000Z",
+        "description": "好奇世界的一切： 奇闻 · AI · 流量 · 社会 · 商业 · 趋势 Curious about how things really work",
+        "id": "1797976458016825344",
+        "location": "Bangkok, Thailand",
+        "name": "Sophie Su| 奇闻洞见",
+        "pinned_tweet_id": "2030512666511646835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966442704516325376/dUfRsZwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5496,
+          "following_count": 4808,
+          "like_count": 17166,
+          "listed_count": 16,
+          "media_count": 179,
+          "tweet_count": 4927
+        },
+        "username": "grok8888",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-04T04:07:06.000Z",
+        "description": "发点自己喜欢的段子/聊点人间百态",
+        "id": "1543808514820173825",
+        "name": "ki v i",
+        "pinned_tweet_id": "2029876785291350522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912669894648500224/8WAIr4oU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 1014,
+          "like_count": 3618,
+          "listed_count": 10,
+          "media_count": 104,
+          "tweet_count": 1143
+        },
+        "username": "kivi888888",
+        "verified": true
+      }
+    ]
+  }
+}

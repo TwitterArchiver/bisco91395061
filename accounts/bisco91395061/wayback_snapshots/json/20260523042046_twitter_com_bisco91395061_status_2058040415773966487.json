@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2058040415773966487",
+    "created_at": "2026-05-23T04:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058040415773966487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/G1TCofficial/s…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/G1TCofficial/status/2021736011739562389",
+          "start": 53,
+          "url": "https://t.co/Yo6QyC8kYY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058040415773966487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021736011739562389",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "岛你咋这可爱🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰 https://t.co/Yo6QyC8kYY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1258,
+        "media_key": "3_2021729867382108160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6gmlEbsAAT9eq.jpg",
+        "width": 1119
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2021729867470188544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6gmlZbsAAqZcB.jpg",
+        "width": 1422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2058040415773966487",
+        "created_at": "2026-05-23T04:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058040415773966487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/G1TCofficial/s…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/G1TCofficial/status/2021736011739562389",
+              "start": 53,
+              "url": "https://t.co/Yo6QyC8kYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058040415773966487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021736011739562389",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "岛你咋这可爱🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥺🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰 https://t.co/Yo6QyC8kYY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021729867382108160",
+            "3_2021729867470188544"
+          ]
+        },
+        "author_id": "1256074999405805568",
+        "conversation_id": "2021736011739562389",
+        "created_at": "2026-02-12T00:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021736011739562389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lw0k2VqLg7",
+              "end": 133,
+              "expanded_url": "https://x.com/G1TCofficial/status/2021736011739562389/photo/1",
+              "media_key": "3_2021729867382108160",
+              "start": 110,
+              "url": "https://t.co/lw0k2VqLg7"
+            },
+            {
+              "display_url": "pic.x.com/lw0k2VqLg7",
+              "end": 133,
+              "expanded_url": "https://x.com/G1TCofficial/status/2021736011739562389/photo/1",
+              "media_key": "3_2021729867470188544",
+              "start": 110,
+              "url": "https://t.co/lw0k2VqLg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021736011739562389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13913,
+          "like_count": 465,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "一昨日(火)優駿スタリオンステーションで種牡馬展示会が行われました。クラブ出身馬、セリフォスやシルバーステートも堂々と登場。まずは初年度産駒が誕生しはじめた、セリフォスの姿です。現役時にも見せた舌出しは、いまなお健在👅 https://t.co/lw0k2VqLg7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 128,
+          "like_count": 6131,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 702
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-01T04:16:46.000Z",
+        "description": "愛馬会法人「Ｇ１サラブレッドクラブ」の公式アカウントです。\n※こちらのアカウントは発信専用で、リプライ等はいたしません。お問い合わせはクラブホームページ「お問い合わせフォーム」よりお願いします。\n主な活躍馬：セリフォス、ルヴァンスレーヴ、ペルシアンナイト、ジュールポレールら。\n#G1サラブレッドクラブ　#G1レーシング",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 151,
+                "start": 139,
+                "tag": "G1サラブレッドクラブ"
+              },
+              {
+                "end": 160,
+                "start": 152,
+                "tag": "G1レーシング"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "g1tc.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.g1tc.co.jp/",
+                "start": 0,
+                "url": "https://t.co/QHYidDiqAp"
+              }
+            ]
+          }
+        },
+        "id": "1256074999405805568",
+        "name": "Ｇ１サラブレッドクラブ（公式）",
+        "pinned_tweet_id": "2053643196505399317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1256075295628484608/lpCoAPf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42770,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 415,
+          "media_count": 2196,
+          "tweet_count": 2726
+        },
+        "url": "https://t.co/QHYidDiqAp",
+        "username": "G1TCofficial",
+        "verified": false
+      }
+    ]
+  }
+}

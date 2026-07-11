@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055191960449896448"
+      ],
+      "media_source_tweet_id": [
+        "2055191997045199019"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2055493618224578901",
+    "created_at": "2026-05-16T03:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055493618224578901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1280001743162609664",
+          "start": 3,
+          "username": "Poca2381"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QTKVLQhjgS",
+          "end": 52,
+          "expanded_url": "https://x.com/Poca2381/status/2055191997045199019/photo/1",
+          "media_key": "3_2055191960449896448",
+          "start": 29,
+          "url": "https://t.co/QTKVLQhjgS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055493618224578901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 350
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055191997045199019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poca2381: 我对人际关系be like： https://t.co/QTKVLQhjgS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2055191960449896448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWCMvva0AAyvKj.jpg",
+        "width": 1487
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055191960449896448"
+          ],
+          "media_source_tweet_id": [
+            "2055191997045199019"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2055493618224578901",
+        "created_at": "2026-05-16T03:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055493618224578901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1280001743162609664",
+              "start": 3,
+              "username": "Poca2381"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTKVLQhjgS",
+              "end": 52,
+              "expanded_url": "https://x.com/Poca2381/status/2055191997045199019/photo/1",
+              "media_key": "3_2055191960449896448",
+              "start": 29,
+              "url": "https://t.co/QTKVLQhjgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055493618224578901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 350
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055191997045199019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poca2381: 我对人际关系be like： https://t.co/QTKVLQhjgS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055191960449896448"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2055191997045199019",
+        "created_at": "2026-05-15T07:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055191997045199019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTKVLQhjgS",
+              "end": 38,
+              "expanded_url": "https://x.com/Poca2381/status/2055191997045199019/photo/1",
+              "media_key": "3_2055191960449896448",
+              "start": 15,
+              "url": "https://t.co/QTKVLQhjgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055191997045199019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 354,
+          "impression_count": 370672,
+          "like_count": 6901,
+          "quote_count": 49,
+          "reply_count": 149,
+          "retweet_count": 350
+        },
+        "reply_settings": "everyone",
+        "text": "我对人际关系be like： https://t.co/QTKVLQhjgS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜同类互fo❤️大欢迎｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️｜原id：爱我请给我pr80，互关别清掉我！",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 125,
+          "like_count": 5589,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 659
+        },
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20494,
+          "following_count": 7991,
+          "like_count": 150658,
+          "listed_count": 49,
+          "media_count": 4181,
+          "tweet_count": 48501
+        },
+        "username": "Poca2381",
+        "verified": false
+      }
+    ]
+  }
+}
