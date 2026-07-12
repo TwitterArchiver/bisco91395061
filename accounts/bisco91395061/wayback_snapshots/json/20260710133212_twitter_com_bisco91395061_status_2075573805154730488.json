@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2075554686082703766",
+    "created_at": "2026-07-10T13:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075573805154730488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066912899738828800",
+          "start": 0,
+          "username": "Qiouqiou9297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075573805154730488",
+    "in_reply_to_user_id": "2066912899738828800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075554686082703766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiouqiou9297 这是过敏还是怎么弄的呀TT要照顾好自己呀丘丘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075554678717534208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3Z-8jb0AAkQqN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075554678696546304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3Z-8ebkAAMppL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075554680277704704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3Z_CXaIAARqpQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2075554686082703766",
+        "created_at": "2026-07-10T13:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075573805154730488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066912899738828800",
+              "start": 0,
+              "username": "Qiouqiou9297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075573805154730488",
+        "in_reply_to_user_id": "2066912899738828800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075554686082703766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiouqiou9297 这是过敏还是怎么弄的呀TT要照顾好自己呀丘丘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075554678717534208",
+            "3_2075554678696546304",
+            "3_2075554680277704704"
+          ]
+        },
+        "author_id": "2066912899738828800",
+        "conversation_id": "2075554686082703766",
+        "created_at": "2026-07-10T12:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075554686082703766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XZZxtX9d3",
+              "end": 32,
+              "expanded_url": "https://x.com/Qiouqiou9297/status/2075554686082703766/photo/1",
+              "media_key": "3_2075554678717534208",
+              "start": 9,
+              "url": "https://t.co/6XZZxtX9d3"
+            },
+            {
+              "display_url": "pic.x.com/6XZZxtX9d3",
+              "end": 32,
+              "expanded_url": "https://x.com/Qiouqiou9297/status/2075554686082703766/photo/1",
+              "media_key": "3_2075554678696546304",
+              "start": 9,
+              "url": "https://t.co/6XZZxtX9d3"
+            },
+            {
+              "display_url": "pic.x.com/6XZZxtX9d3",
+              "end": 32,
+              "expanded_url": "https://x.com/Qiouqiou9297/status/2075554686082703766/photo/1",
+              "media_key": "3_2075554680277704704",
+              "start": 9,
+              "url": "https://t.co/6XZZxtX9d3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075554686082703766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃呃，痒啊啊啊 https://t.co/6XZZxtX9d3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 332,
+          "like_count": 8829,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1717
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T15:57:50.000Z",
+        "description": "我重生了！@qiouqiou0114 有割（呃啊已经不能割了）一个无力的社畜，有负面，04大龄162/45kg 无性别主义（但喜欢被叫姐姐hh）喜欢mili，上班空余时间努力画画中，不开心可以找俺哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "qiouqiou0114"
+              }
+            ]
+          }
+        },
+        "id": "2066912899738828800",
+        "location": "云梦泽",
+        "name": "Qiou",
+        "pinned_tweet_id": "2066942729263944146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068707690952704000/gkyCxigE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 94,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "Qiouqiou9297",
+        "verified": false
+      }
+    ]
+  }
+}

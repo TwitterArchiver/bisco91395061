@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2075571833907376592",
+    "created_at": "2026-07-10T14:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075583308726190435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1133938939184726016",
+          "start": 0,
+          "username": "jxmo1141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075583308726190435",
+    "in_reply_to_user_id": "1133938939184726016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075581018036428974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jxmo1141 对啊就是说。。😭😭😭诅咒举报我的人ing。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2075571833907376592",
+        "created_at": "2026-07-10T14:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075583308726190435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1133938939184726016",
+              "start": 0,
+              "username": "jxmo1141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075583308726190435",
+        "in_reply_to_user_id": "1133938939184726016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075581018036428974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jxmo1141 对啊就是说。。😭😭😭诅咒举报我的人ing。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1133938939184726016",
+        "conversation_id": "2075571833907376592",
+        "created_at": "2026-07-10T14:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075581018036428974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075581018036428974",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075571833907376592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 举报别人怎么这么坏啊🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 332,
+          "like_count": 8830,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1725
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-30T03:31:25.000Z",
+        "description": "可以和我聊天哦！多找我聊聊天吧拜托了！！！\n- 杂鱼全栈， 资深Yes工程师 ✨\n- 应该算是睁一只眼闭一只眼的家长党🏳️‍⚧️\n- 低质量coser\n- POtwe 饲养员 | 电子玩具收集癖",
+        "id": "1133938939184726016",
+        "location": "希望是你心里",
+        "name": "今天兴许是介墨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064342571187671040/KDxpqSu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 115,
+          "like_count": 566,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "jxmo1141",
+        "verified": true
+      }
+    ]
+  }
+}
