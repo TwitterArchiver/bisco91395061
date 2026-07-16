@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2076169646303260874",
+    "created_at": "2026-07-12T06:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076190978436940115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "467659726",
+          "start": 0,
+          "username": "WorstCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076190978436940115",
+    "in_reply_to_user_id": "467659726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076190288687829190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WorstCat 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2076169646303260874",
+        "created_at": "2026-07-12T06:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076190978436940115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076190978436940115",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076190288687829190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2076169646303260874",
+        "created_at": "2026-07-12T06:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076190288687829190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076190288687829190",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076169646303260874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 界渡是为了更开心的西渡(*´∇`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 356,
+          "like_count": 9086,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1797
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3068,
+          "following_count": 58,
+          "like_count": 12251,
+          "listed_count": 5,
+          "media_count": 257,
+          "tweet_count": 1694
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

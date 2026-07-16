@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2076217119117615146",
+    "created_at": "2026-07-12T08:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076217705313780156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998820105627770880",
+          "start": 0,
+          "username": "TenpennyL62429"
+        },
+        {
+          "end": 31,
+          "id": "1497213290706968576",
+          "start": 16,
+          "username": "Sylvielove2022"
+        },
+        {
+          "end": 48,
+          "id": "1683060453528965120",
+          "start": 32,
+          "username": "NationalPureVF4"
+        },
+        {
+          "end": 64,
+          "id": "1831363594556211200",
+          "start": 49,
+          "username": "JyushitiYizuka"
+        },
+        {
+          "end": 74,
+          "id": "1635516217200099328",
+          "start": 65,
+          "username": "ywxqz_sy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076217705313780156",
+    "in_reply_to_user_id": "1998820105627770880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076217119117615146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TenpennyL62429 @Sylvielove2022 @NationalPureVF4 @JyushitiYizuka @ywxqz_sy 欧坤好孩子孝顺一下妈妈👅👅🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2076217115472793600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNA0d1xXkAAYQ3Z.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2076217119117615146",
+        "created_at": "2026-07-12T08:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076217705313780156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998820105627770880",
+              "start": 0,
+              "username": "TenpennyL62429"
+            },
+            {
+              "end": 31,
+              "id": "1497213290706968576",
+              "start": 16,
+              "username": "Sylvielove2022"
+            },
+            {
+              "end": 48,
+              "id": "1683060453528965120",
+              "start": 32,
+              "username": "NationalPureVF4"
+            },
+            {
+              "end": 64,
+              "id": "1831363594556211200",
+              "start": 49,
+              "username": "JyushitiYizuka"
+            },
+            {
+              "end": 74,
+              "id": "1635516217200099328",
+              "start": 65,
+              "username": "ywxqz_sy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076217705313780156",
+        "in_reply_to_user_id": "1998820105627770880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076217119117615146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TenpennyL62429 @Sylvielove2022 @NationalPureVF4 @JyushitiYizuka @ywxqz_sy 欧坤好孩子孝顺一下妈妈👅👅🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076217115472793600"
+          ]
+        },
+        "author_id": "1998820105627770880",
+        "conversation_id": "2076217119117615146",
+        "created_at": "2026-07-12T08:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076217119117615146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1497213290706968576",
+              "start": 22,
+              "username": "Sylvielove2022"
+            },
+            {
+              "end": 52,
+              "id": "1564990471327215619",
+              "start": 38,
+              "username": "bisco91395061"
+            },
+            {
+              "end": 75,
+              "id": "1683060453528965120",
+              "start": 59,
+              "username": "NationalPureVF4"
+            },
+            {
+              "end": 97,
+              "id": "1831363594556211200",
+              "start": 82,
+              "username": "JyushitiYizuka"
+            },
+            {
+              "end": 107,
+              "id": "1635516217200099328",
+              "start": 98,
+              "username": "ywxqz_sy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5waKXBfhUW",
+              "end": 168,
+              "expanded_url": "https://x.com/TenpennyL62429/status/2076217119117615146/photo/1",
+              "media_key": "3_2076217115472793600",
+              "start": 145,
+              "url": "https://t.co/5waKXBfhUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076217119117615146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Sylvielove2022 @bisco91395061\n👰 配偶: @NationalPureVF4\n👶 孩子: @JyushitiYizuka @ywxqz_sy\n\n➡️ infinitetweet[dot]me/family-tree https://t.co/5waKXBfhUW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 359,
+          "like_count": 9109,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1809
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T18:20:45.000Z",
+        "description": "本賬號是 @Mr.湯普尼 （@GEACPS1940629）的小號，會發一些歷史老照片，感興趣的話就點個關注吧🥰\n\n提問箱：https://t.co/mjqSr7Cft4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 5,
+                "username": "Mr"
+              },
+              {
+                "end": 28,
+                "start": 14,
+                "username": "GEACPS1940629"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny2",
+                "end": 84,
+                "expanded_url": "https://ngl.link/mr.tenpenny2",
+                "start": 61,
+                "url": "https://t.co/mjqSr7Cft4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://t.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/Ow1FjaGEow"
+              }
+            ]
+          }
+        },
+        "id": "1998820105627770880",
+        "name": "Mr.湯普尼▐┛（二代目）",
+        "pinned_tweet_id": "2043540051993436175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998820195599790082/UtF-9mcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 4290,
+          "like_count": 30546,
+          "listed_count": 0,
+          "media_count": 895,
+          "tweet_count": 2403
+        },
+        "url": "https://t.co/Ow1FjaGEow",
+        "username": "TenpennyL62429",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T14:14:29.000Z",
+        "description": "你好，我是白砂糖，称呼我扬扬也可以，无证且暂不含糖，平时喜欢在互联网四处游荡，不擅长发表自己的言论，但很乐意倾听，如果你对我感到有兴趣的话，我很乐意与你成为朋友，共同寻找些话题。扩Q的话，请私聊哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sylvie87078",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sylvie87078",
+                "start": 0,
+                "url": "https://t.co/hRi0Xepa1R"
+              }
+            ]
+          }
+        },
+        "id": "1497213290706968576",
+        "location": "河南郑州",
+        "name": "白砂糖Sylvie🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006501712170004481/3BnaqFax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 1781,
+          "like_count": 19145,
+          "listed_count": 1,
+          "media_count": 2352,
+          "tweet_count": 8631
+        },
+        "url": "https://t.co/hRi0Xepa1R",
+        "username": "Sylvielove2022",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "全中推圈推友的白月光，中推圈唯一指定的吸血姬廢柴大小姐，毒舌／暈血／懼高恐低\n別稱：薇蕾娜/真理子/軟糯真理醬/暈血姬\n最愛的藤醬主人老公 @hoshinofujivy \n夥伴 @jawenzhu @_Weace_ @YukinonCC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 98,
+                "start": 89,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 107,
+                "start": 99,
+                "username": "_Weace_"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "YukinonCC"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "時鐘塔-現代魔術科艾梅洛教室",
+        "name": "✝︎真理子 ✝︎ 虹の吸血姫 (限界)",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032241233926766593/FMYw3z6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 1177,
+          "like_count": 74884,
+          "listed_count": 18,
+          "media_count": 1315,
+          "tweet_count": 33391
+        },
+        "url": "",
+        "username": "NationalPureVF4",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "是花狮在读本科哒! | et omnia vanitas | アズサ推し！| 中文/English/日本語(下手)  |「止まない雨はなく、明けない夜はない。」| 小猫🐱@ThirteenYizuka | 逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jyushitiyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jyushitiyizuka",
+                "start": 0,
+                "url": "https://t.co/cXoz3DkEul"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "2046414126881366369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028649306773950464/sRMm3DwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2599,
+          "following_count": 1338,
+          "like_count": 44237,
+          "listed_count": 8,
+          "media_count": 1808,
+          "tweet_count": 28115
+        },
+        "url": "https://t.co/cXoz3DkEul",
+        "username": "JyushitiYizuka",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T05:40:42.000Z",
+        "description": "一朵普通飘过的云。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuoyun16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuoyun16",
+                "start": 0,
+                "url": "https://t.co/VoZt7mGsY1"
+              }
+            ]
+          }
+        },
+        "id": "1635516217200099328",
+        "name": "朔云",
+        "pinned_tweet_id": "2050390733987971520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075399307688366080/HunfxYzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 575,
+          "like_count": 29306,
+          "listed_count": 4,
+          "media_count": 302,
+          "tweet_count": 9152
+        },
+        "url": "https://t.co/VoZt7mGsY1",
+        "username": "ywxqz_sy",
+        "verified": true
+      }
+    ]
+  }
+}

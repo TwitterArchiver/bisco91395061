@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2076440264508584015",
+    "created_at": "2026-07-13T00:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076462626645868749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1919465517829783552",
+          "start": 0,
+          "username": "Nonentity_xxx17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076462626645868749",
+    "in_reply_to_user_id": "1919465517829783552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076440264508584015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nonentity_xxx17 太强了我靠，。。。主包完全男妈妈来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076440242224267264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HND_ZhsagAAg_3i.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2076440264508584015",
+        "created_at": "2026-07-13T00:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076462626645868749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919465517829783552",
+              "start": 0,
+              "username": "Nonentity_xxx17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076462626645868749",
+        "in_reply_to_user_id": "1919465517829783552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076440264508584015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonentity_xxx17 太强了我靠，。。。主包完全男妈妈来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076440242224267264"
+          ]
+        },
+        "author_id": "1919465517829783552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076440264508584015",
+        "created_at": "2026-07-12T22:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T23:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076440264508584015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1JproRcw2",
+              "end": 30,
+              "expanded_url": "https://x.com/Nonentity_xxx17/status/2076440264508584015/photo/1",
+              "media_key": "3_2076440242224267264",
+              "start": 7,
+              "url": "https://t.co/e1JproRcw2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076440264508584015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝尝我的手艺 https://t.co/e1JproRcw2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 365,
+          "like_count": 9155,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1830
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 \n双相I型/低能量/欣赏躯体\n@godspeedyou50 @Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072470902613434368/bkDijVP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 92,
+          "like_count": 3450,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

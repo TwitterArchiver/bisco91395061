@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2075578128223871213",
+    "created_at": "2026-07-13T11:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T12:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076629831991890146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754774517594181632",
+          "start": 0,
+          "username": "ValenceLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076629831991890146",
+    "in_reply_to_user_id": "1754774517594181632",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076580163438121079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValenceLab 🥰🥰🥰🥰🥰🥺🥺🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2075578128223871213",
+        "created_at": "2026-07-13T11:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076629831991890146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754774517594181632",
+              "start": 0,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076629831991890146",
+        "in_reply_to_user_id": "1754774517594181632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076580163438121079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValenceLab 🥰🥰🥰🥰🥰🥺🥺🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754774517594181632",
+        "conversation_id": "2075578128223871213",
+        "created_at": "2026-07-13T08:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076580163438121079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076580163438121079",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075578128223871213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 字好好看 刚柔并济"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 367,
+          "like_count": 9258,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1854
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥新群组链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceLab_Gro…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceLab_Groups",
+                "start": 0,
+                "url": "https://t.co/TG4Kxegueg"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2054393417166434678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 208,
+          "like_count": 461,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 440
+        },
+        "url": "https://t.co/TG4Kxegueg",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

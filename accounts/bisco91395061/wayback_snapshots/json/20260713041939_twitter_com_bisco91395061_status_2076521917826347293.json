@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2076506337073316335",
+    "created_at": "2026-07-13T04:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076521917826347293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076521917826347293",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076506337073316335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 我操老大你也玩黄叶绿豆。。。。😭😭😭😭😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 125236,
+        "height": 590,
+        "media_key": "13_2076505902287646720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076505902287646720/img/ranMn89Sz3vnfHYj.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076505902287646720/vid/avc1/584x270/aYETRYNmH08DDw8F.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076505902287646720/vid/avc1/780x360/pmOf8jvgTW2D42ZZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076505902287646720/vid/avc1/1280x590/Aa9E_qP6irEjWn7D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076505902287646720/pl/jEKevzm9SiYxeA8L.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2076506337073316335",
+        "created_at": "2026-07-13T04:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076521917826347293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076521917826347293",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076506337073316335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 我操老大你也玩黄叶绿豆。。。。😭😭😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076505902287646720"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "conversation_id": "2076506337073316335",
+        "created_at": "2026-07-13T03:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076506337073316335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VBLUKRw2ua",
+              "end": 31,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2076506337073316335/video/1",
+              "media_key": "13_2076505902287646720",
+              "start": 8,
+              "url": "https://t.co/VBLUKRw2ua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076506337073316335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难得这么流利呀 https://t.co/VBLUKRw2ua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 366,
+          "like_count": 9216,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1841
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "我愛的人幸福就好呀｜全肯定@D_D_ovO_｜😺 @ashasw114514 @misakinae8964 @rinko_zero8964｜歡迎視奸｜asd/gad｜我想成為你的翅膀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "ashasw114514"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 69,
+                "start": 54,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "床",
+        "name": "💿胃名立希◉‿◉",
+        "pinned_tweet_id": "2072999358048637429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4676,
+          "following_count": 417,
+          "like_count": 25375,
+          "listed_count": 18,
+          "media_count": 1535,
+          "tweet_count": 18922
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

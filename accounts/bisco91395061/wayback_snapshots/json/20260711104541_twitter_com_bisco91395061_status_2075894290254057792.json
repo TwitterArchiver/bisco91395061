@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2075894290254057792",
+    "created_at": "2026-07-11T10:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075894290254057792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1727727485704675328",
+          "start": 3,
+          "username": "doki00614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075894290254057792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075865698967142577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doki00614: 别人销声匿迹是幸福去了，我销声匿迹是真的离似不远了，我过得一点也不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2075894290254057792",
+        "created_at": "2026-07-11T10:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075894290254057792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1727727485704675328",
+              "start": 3,
+              "username": "doki00614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075894290254057792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075865698967142577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doki00614: 别人销声匿迹是幸福去了，我销声匿迹是真的离似不远了，我过得一点也不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727727485704675328",
+        "conversation_id": "2075865698967142577",
+        "created_at": "2026-07-11T08:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075865698967142577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075865698967142577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "别人销声匿迹是幸福去了，我销声匿迹是真的离似不远了，我过得一点也不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 349,
+          "like_count": 8983,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1758
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T16:35:16.000Z",
+        "description": "重生第二世…\n可以叫我晓晓，目前休学中，已成年，比较社恐但还是很期待友好的沟通…(ᐢᴖ ·̫ ᴖᐢ)\n举报全家变仁彘肠子拖出来勒似",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiao9",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiao9",
+                "start": 0,
+                "url": "https://t.co/SfwjU1SFHV"
+              }
+            ]
+          }
+        },
+        "id": "1727727485704675328",
+        "location": "none",
+        "name": "紫月晓",
+        "pinned_tweet_id": "2075863944720482450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054413101773246464/uUt_MEFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 96,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 451
+        },
+        "url": "https://t.co/SfwjU1SFHV",
+        "username": "doki00614",
+        "verified": false
+      }
+    ]
+  }
+}

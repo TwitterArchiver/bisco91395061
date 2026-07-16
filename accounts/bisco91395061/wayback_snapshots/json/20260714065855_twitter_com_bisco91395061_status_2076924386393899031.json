@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2076169084480479554",
+    "created_at": "2026-07-14T06:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076924386393899031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1732996035704770560",
+          "start": 0,
+          "username": "bai_gui61337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076924386393899031",
+    "in_reply_to_user_id": "1732996035704770560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076888086970356011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai_gui61337 宝宝我是自己收的➕朋友给的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2076169084480479554",
+        "created_at": "2026-07-14T06:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076924386393899031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1732996035704770560",
+              "start": 0,
+              "username": "bai_gui61337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076924386393899031",
+        "in_reply_to_user_id": "1732996035704770560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076888086970356011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai_gui61337 宝宝我是自己收的➕朋友给的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732996035704770560",
+        "conversation_id": "2076169084480479554",
+        "created_at": "2026-07-14T04:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076888086970356011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076888086970356011",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076169084480479554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 母亲你是怎么开到pr的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 367,
+          "like_count": 9288,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1869
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T05:30:35.000Z",
+        "description": "🔞I use the translator to chat, sorry!Other accounts:@GBMB33702142894",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "GBMB33702142894"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/c4XCNxm",
+                "end": 23,
+                "expanded_url": "https://b23.tv/c4XCNxm",
+                "start": 0,
+                "url": "https://t.co/AqCdmHvGK4"
+              }
+            ]
+          }
+        },
+        "id": "1732996035704770560",
+        "location": "星星人",
+        "name": "匿名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908567248127799296/6yw8GMCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 151,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/AqCdmHvGK4",
+        "username": "bai_gui61337",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2076153959048511783",
+    "created_at": "2026-07-12T08:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076217258054148199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1952435985347956736",
+          "start": 0,
+          "username": "Zhang_ming_qing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076217258054148199",
+    "in_reply_to_user_id": "1952435985347956736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076214747033468941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhang_ming_qing 半好学生好吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2076214706566742016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAyRn5aQAAz7Nr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2076153959048511783",
+        "created_at": "2026-07-12T08:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076217258054148199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1952435985347956736",
+              "start": 0,
+              "username": "Zhang_ming_qing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076217258054148199",
+        "in_reply_to_user_id": "1952435985347956736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076214747033468941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhang_ming_qing 半好学生好吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076214706566742016"
+          ]
+        },
+        "author_id": "1952435985347956736",
+        "conversation_id": "2076153959048511783",
+        "created_at": "2026-07-12T07:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076214747033468941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bc6hrlfFTR",
+              "end": 47,
+              "expanded_url": "https://x.com/Zhang_ming_qing/status/2076214747033468941/photo/1",
+              "media_key": "3_2076214706566742016",
+              "start": 24,
+              "url": "https://t.co/bc6hrlfFTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076214747033468941",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076153959048511783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 没有连线太遗憾了 https://t.co/bc6hrlfFTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 359,
+          "like_count": 9108,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1808
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T18:26:40.000Z",
+        "description": "只关注有趣的灵魂",
+        "id": "1952435985347956736",
+        "location": "自由中國",
+        "name": "紀小念Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071859252512043010/scuAubsK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 161,
+          "like_count": 15631,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 3708
+        },
+        "url": "",
+        "username": "Zhang_ming_qing",
+        "verified": false
+      }
+    ]
+  }
+}

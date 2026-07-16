@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2076521532403380622",
+    "created_at": "2026-07-13T04:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076526063052836967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057743680061255680",
+          "start": 0,
+          "username": "Koroshiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076526063052836967",
+    "in_reply_to_user_id": "2057743680061255680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076525969826099349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koroshiiiiiii 我操太会吃了啊！！！！😭😭😭😭😭😭😭😭😭👅👅👅👅👅👅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_2076525958614732800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFNW4Ib0AAMwAK.jpg",
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2076521532403380622",
+        "created_at": "2026-07-13T04:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076526063052836967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076526063052836967",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076525969826099349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 我操太会吃了啊！！！！😭😭😭😭😭😭😭😭😭👅👅👅👅👅👅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076525958614732800"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076521532403380622",
+        "created_at": "2026-07-13T04:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076525969826099349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKcWz84dpH",
+              "end": 38,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2076525969826099349/photo/1",
+              "media_key": "3_2076525958614732800",
+              "start": 15,
+              "url": "https://t.co/kKcWz84dpH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076525969826099349",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076525292206829893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 https://t.co/kKcWz84dpH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 366,
+          "like_count": 9230,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1844
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 89,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 389,
+          "like_count": 2592,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 923
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2076250119562019222",
+    "created_at": "2026-07-13T00:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T01:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076459981445140959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1953067911813447684",
+          "start": 0,
+          "username": "BEI_0105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076459981445140959",
+    "in_reply_to_user_id": "1953067911813447684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076422671034961942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BEI_0105 反正我没癫痫，如果有这样的案例的话，那还是不要联用了，谢谢你告知我！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2076250119562019222",
+        "created_at": "2026-07-13T00:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T01:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076459981445140959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1953067911813447684",
+              "start": 0,
+              "username": "BEI_0105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076459981445140959",
+        "in_reply_to_user_id": "1953067911813447684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076422671034961942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BEI_0105 反正我没癫痫，如果有这样的案例的话，那还是不要联用了，谢谢你告知我！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953067911813447684",
+        "conversation_id": "2076250119562019222",
+        "created_at": "2026-07-12T21:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T22:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076422671034961942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076422671034961942",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076250119562019222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 美金刚能和pr联用吗 听说会癫痫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 360,
+          "like_count": 9133,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1822
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T12:17:39.000Z",
+        "description": "",
+        "id": "1953067911813447684",
+        "name": "小北",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953068082173460480/roPhwd8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "BEI_0105",
+        "verified": false
+      }
+    ]
+  }
+}

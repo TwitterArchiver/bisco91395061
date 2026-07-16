@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2076343556181295436",
+    "created_at": "2026-07-13T04:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076517993027448994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1612280433064185859",
+          "start": 0,
+          "username": "c2F4F4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076517993027448994",
+    "in_reply_to_user_id": "1612280433064185859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076343556181295436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c2F4F4F 好幸福"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2076343525868974080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCnb5MaMAAIP3c.jpg",
+        "width": 2276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2076343556181295436",
+        "created_at": "2026-07-13T04:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076517993027448994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1612280433064185859",
+              "start": 0,
+              "username": "c2F4F4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076517993027448994",
+        "in_reply_to_user_id": "1612280433064185859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076343556181295436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c2F4F4F 好幸福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076343525868974080"
+          ]
+        },
+        "author_id": "1612280433064185859",
+        "conversation_id": "2076343556181295436",
+        "created_at": "2026-07-12T16:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076343556181295436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ciNU6avCL0",
+              "end": 25,
+              "expanded_url": "https://x.com/c2F4F4F/status/2076343556181295436/photo/1",
+              "media_key": "3_2076343525868974080",
+              "start": 2,
+              "url": "https://t.co/ciNU6avCL0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076343556181295436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啧 https://t.co/ciNU6avCL0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 366,
+          "like_count": 9210,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 1840
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 女 | 重抑中焦吃药中 |",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "НочДождь",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073785160869519360/OG8PBr6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 336,
+          "like_count": 8533,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 616
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": false
+      }
+    ]
+  }
+}

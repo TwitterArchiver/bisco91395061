@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2076275255904252307",
+    "created_at": "2026-07-12T12:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076275954566218048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733157188057853952",
+          "start": 0,
+          "username": "nigich436594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076275954566218048",
+    "in_reply_to_user_id": "1733157188057853952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076275255904252307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nigich436594 我同意，太可爱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2076275228192411648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBpUchaEAAASR_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2076275255904252307",
+        "created_at": "2026-07-12T12:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076275954566218048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733157188057853952",
+              "start": 0,
+              "username": "nigich436594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076275954566218048",
+        "in_reply_to_user_id": "1733157188057853952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076275255904252307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nigich436594 我同意，太可爱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076275228192411648"
+          ]
+        },
+        "author_id": "1733157188057853952",
+        "conversation_id": "2076275255904252307",
+        "created_at": "2026-07-12T11:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076275255904252307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 7,
+              "tag": "りりむとおえかき"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nholbbiGoT",
+              "end": 40,
+              "expanded_url": "https://x.com/nigich436594/status/2076275255904252307/photo/1",
+              "media_key": "3_2076275228192411648",
+              "start": 17,
+              "url": "https://t.co/nholbbiGoT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076275255904252307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界第一可爱 #りりむとおえかき https://t.co/nholbbiGoT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 360,
+          "like_count": 9128,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1819
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T16:10:56.000Z",
+        "description": "💕OD｜餐卷妹｜165 79｜直fo就是喜欢你吖｜(｡･ω･｡)",
+        "id": "1733157188057853952",
+        "location": "🚪77➕好友聊天",
+        "name": "想当幸福小猫",
+        "pinned_tweet_id": "2076079236104716790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074231379144110080/_9X6ROhE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 254,
+          "like_count": 2408,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 947
+        },
+        "url": "",
+        "username": "nigich436594",
+        "verified": false
+      }
+    ]
+  }
+}

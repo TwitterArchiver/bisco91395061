@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2076652172692111403",
+    "created_at": "2026-07-13T21:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T22:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076782346003697740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1779568507014819840",
+          "start": 0,
+          "username": "0221o3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076782346003697740",
+    "in_reply_to_user_id": "1779568507014819840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076745856808542611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0221o3o 🫂🫂🫂如果体验没那么好的话一定不要逼自己老用这个哦宝宝，好好爱惜身体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2076652172692111403",
+        "created_at": "2026-07-13T21:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T22:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076782346003697740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1779568507014819840",
+              "start": 0,
+              "username": "0221o3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076782346003697740",
+        "in_reply_to_user_id": "1779568507014819840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076745856808542611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0221o3o 🫂🫂🫂如果体验没那么好的话一定不要逼自己老用这个哦宝宝，好好爱惜身体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779568507014819840",
+        "conversation_id": "2076652172692111403",
+        "created_at": "2026-07-13T19:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076745856808542611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076745856808542611",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076652172692111403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 后劲太大了，药效一过就开始反胃🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 368,
+          "like_count": 9266,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1863
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T17:52:59.000Z",
+        "description": "无病呻吟",
+        "id": "1779568507014819840",
+        "name": "21",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074201873687445505/MkZi0c3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 45,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "0221o3o",
+        "verified": false
+      }
+    ]
+  }
+}
