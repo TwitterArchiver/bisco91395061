@@ -7,13 +7,6 @@
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2050266190665388506",
-  "bio_entities": {
-    "mentions": [
-      {
-        "end": 85,
-        "start": 71,
-        "username": "cryptochenrui"
-      }
-    ]
-  }
+  "bio_entities": {},
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg"
 }
