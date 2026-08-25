@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2084968405053120532",
+    "created_at": "2026-08-05T12:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084978493679640848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "877473366684221440",
+          "start": 0,
+          "username": "083001c1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084978493679640848",
+    "in_reply_to_user_id": "877473366684221440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084968405053120532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@083001c1 站中间串两边是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2084968405053120532",
+        "created_at": "2026-08-05T12:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084978493679640848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "877473366684221440",
+              "start": 0,
+              "username": "083001c1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084978493679640848",
+        "in_reply_to_user_id": "877473366684221440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084968405053120532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@083001c1 站中间串两边是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "877473366684221440",
+        "conversation_id": "2084968405053120532",
+        "created_at": "2026-08-05T11:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084968405053120532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084968405053120532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杯姐死了我连她的文案都没偷到好桑心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 450,
+          "like_count": 12090,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 2782
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-21T10:28:48.000Z",
+        "description": "💊/🔪/同类互fo(:3っ )っ\n可以叫我奥七\n\n*私信功能无法使用，联系可评论区问我邮箱\n防炸小号@KrishnaBha9e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "KrishnaBha9e"
+              }
+            ]
+          }
+        },
+        "id": "877473366684221440",
+        "name": "O seven (3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083290018194558976/iHyUhoSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 81,
+          "like_count": 827,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "083001c1",
+        "verified": false
+      }
+    ]
+  }
+}

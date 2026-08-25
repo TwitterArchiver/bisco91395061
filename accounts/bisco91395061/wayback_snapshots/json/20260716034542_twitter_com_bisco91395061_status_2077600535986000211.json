@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2077376922741608784",
+    "created_at": "2026-07-16T03:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077600535986000211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2062164542541479936",
+          "start": 0,
+          "username": "pai6676"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077600535986000211",
+    "in_reply_to_user_id": "2062164542541479936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077429265574814185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pai6676 欧坤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2077376922741608784",
+        "created_at": "2026-07-16T03:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077600535986000211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2062164542541479936",
+              "start": 0,
+              "username": "pai6676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077600535986000211",
+        "in_reply_to_user_id": "2062164542541479936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077429265574814185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pai6676 欧坤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062164542541479936",
+        "conversation_id": "2077376922741608784",
+        "created_at": "2026-07-15T16:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077429265574814185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077429265574814185",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077376922741608784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 禮貌互fo菜菜醬！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 381,
+          "like_count": 9434,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1925
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T13:30:04.000Z",
+        "description": "=PAI https://t.co/Nke8gtze8m\n手殘bass手｜座右铭｜我想要让所有oder获得爱！！\n患有边缘性人格 ｜BPD｜歡迎互fo\n（讨厌转性别者介意者請注意）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/king_pppai",
+                "end": 28,
+                "expanded_url": "https://t.me/king_pppai",
+                "start": 5,
+                "url": "https://t.co/Nke8gtze8m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/king_pppai",
+                "end": 23,
+                "expanded_url": "https://t.me/king_pppai",
+                "start": 0,
+                "url": "https://t.co/Nke8gtze8m"
+              }
+            ]
+          }
+        },
+        "id": "2062164542541479936",
+        "location": "地獄",
+        "name": "愈美戰士",
+        "pinned_tweet_id": "2062175548470686092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062180259752017920/-RDuVZe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 80,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/Nke8gtze8m",
+        "username": "pai6676",
+        "verified": false
+      }
+    ]
+  }
+}

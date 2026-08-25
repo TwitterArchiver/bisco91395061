@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2076998508624957475",
+    "created_at": "2026-07-16T14:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077758863122788465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1856564264271548416",
+          "start": 0,
+          "username": "256Huang"
+        },
+        {
+          "end": 23,
+          "id": "1743330426985594881",
+          "start": 10,
+          "username": "jianggejiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077758863122788465",
+    "in_reply_to_user_id": "1856564264271548416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077753260304433653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@256Huang @jianggejiang 我id是一串英文，我因为怕好友没了我还没登游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2076998508624957475",
+        "created_at": "2026-07-16T14:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077758863122788465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1856564264271548416",
+              "start": 0,
+              "username": "256Huang"
+            },
+            {
+              "end": 23,
+              "id": "1743330426985594881",
+              "start": 10,
+              "username": "jianggejiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077758863122788465",
+        "in_reply_to_user_id": "1856564264271548416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077753260304433653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@256Huang @jianggejiang 我id是一串英文，我因为怕好友没了我还没登游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856564264271548416",
+        "conversation_id": "2076998508624957475",
+        "created_at": "2026-07-16T13:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077753260304433653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            },
+            {
+              "end": 28,
+              "id": "1743330426985594881",
+              "start": 15,
+              "username": "jianggejiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077753260304433653",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077629911184072722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 @jianggejiang 你是不是id两个字，现在加好友好像通过了也不显示了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 384,
+          "like_count": 9512,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1965
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T05:06:41.000Z",
+        "description": "一个拥抱多少钱？！",
+        "id": "1856564264271548416",
+        "name": "苯苯海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023099536059826176/srt4qC32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 108,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 656
+        },
+        "url": "",
+        "username": "256Huang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "-烟代找我 外烟电子烟💚🏳️‍🌈\n-叫我姜鴿江/劣蛛/阿团/JunoPhilip/J \n-CN/EN🤏\n-从你妈逼良\n-🚪66￥ 详🔝plq\n-英文号:@jiangziqiqqq\n-备用:@poorspider1014",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "jiangziqiqqq"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "poorspider1014"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang66…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang66281",
+                "start": 0,
+                "url": "https://t.co/VAA7v2Dfnb"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "location": "Ion Jupiter",
+        "name": "姜鸽江⑧⑨⑥④",
+        "pinned_tweet_id": "2073099134253547652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056376409434783745/0i0qhl96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 941,
+          "like_count": 9264,
+          "listed_count": 0,
+          "media_count": 619,
+          "tweet_count": 4293
+        },
+        "url": "https://t.co/VAA7v2Dfnb",
+        "username": "jianggejiang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2082768868536365092",
+    "created_at": "2026-07-30T11:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082786355122508191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059326143640276992",
+          "start": 0,
+          "username": "Huhiosc3x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082786355122508191",
+    "in_reply_to_user_id": "2059326143640276992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082775241454137838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huhiosc3x 我操好的好的，那我明天再变鸡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2082768868536365092",
+        "created_at": "2026-07-30T11:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082786355122508191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059326143640276992",
+              "start": 0,
+              "username": "Huhiosc3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082786355122508191",
+        "in_reply_to_user_id": "2059326143640276992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082775241454137838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhiosc3x 我操好的好的，那我明天再变鸡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059326143640276992",
+        "conversation_id": "2082768868536365092",
+        "created_at": "2026-07-30T10:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082775241454137838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082775241454137838",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082768868536365092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 集美补药和普瑞一起吃啊啊啊，这个没有爽的感觉只有危险"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 433,
+          "like_count": 11083,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2508
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T17:32:17.000Z",
+        "description": "可以叫我hh｜同类互fo大欢迎｜被禁评了回复用引用｜餐券顺女，友跨｜清了波没有回关的如果有误清请务必私信告知我！不会单取任何人！",
+        "id": "2059326143640276992",
+        "name": "Huhio",
+        "pinned_tweet_id": "2082781051978735903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059327200395190273/aPIop2p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 171,
+          "like_count": 1167,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 915
+        },
+        "url": "",
+        "username": "Huhiosc3x",
+        "verified": false
+      }
+    ]
+  }
+}

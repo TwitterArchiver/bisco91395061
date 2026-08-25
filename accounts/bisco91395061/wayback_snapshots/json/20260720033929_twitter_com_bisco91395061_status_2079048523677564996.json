@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2076652172692111403",
+    "created_at": "2026-07-20T03:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079048523677564996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2068028216409747456",
+          "start": 0,
+          "username": "xiaoxiao55520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079048523677564996",
+    "in_reply_to_user_id": "2068028216409747456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079038338611474813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiao55520 美金刚是解离剂不太可能会有幻觉，又不像晚安是谵妄剂，你自己想象一下的话可能会有点内幻吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2076652172692111403",
+        "created_at": "2026-07-20T03:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079048523677564996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2068028216409747456",
+              "start": 0,
+              "username": "xiaoxiao55520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079048523677564996",
+        "in_reply_to_user_id": "2068028216409747456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079038338611474813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiao55520 美金刚是解离剂不太可能会有幻觉，又不像晚安是谵妄剂，你自己想象一下的话可能会有点内幻吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068028216409747456",
+        "conversation_id": "2076652172692111403",
+        "created_at": "2026-07-20T02:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079038338611474813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079038338611474813",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076652172692111403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 此药大剂量会不会有幻觉？8t只感觉晕晕的。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 398,
+          "like_count": 9712,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 2061
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T17:49:40.000Z",
+        "description": "♀／发点自己喜欢的／晓晓的废话册\n我o我割(割不发，被冻结过)",
+        "id": "2068028216409747456",
+        "location": "京都",
+        "name": "别哭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077679119652073473/7F3POyrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 31,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "xiaoxiao55520",
+        "verified": false
+      }
+    ]
+  }
+}

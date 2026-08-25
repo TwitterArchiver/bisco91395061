@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2077090990897463352",
+    "created_at": "2026-07-16T03:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077601538722427185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1952435985347956736",
+          "start": 0,
+          "username": "Zhang_ming_qing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077601538722427185",
+    "in_reply_to_user_id": "1952435985347956736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077108741632332009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhang_ming_qing 💖💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2077090990897463352",
+        "created_at": "2026-07-16T03:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077601538722427185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1952435985347956736",
+              "start": 0,
+              "username": "Zhang_ming_qing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077601538722427185",
+        "in_reply_to_user_id": "1952435985347956736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077108741632332009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhang_ming_qing 💖💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952435985347956736",
+        "conversation_id": "2077090990897463352",
+        "created_at": "2026-07-14T19:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077108741632332009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077108741632332009",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077090990897463352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 已看到！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 381,
+          "like_count": 9434,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1946
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T18:26:40.000Z",
+        "description": "只关注有趣的灵魂\n我很温良，不要惹我",
+        "id": "1952435985347956736",
+        "location": "自由中國",
+        "name": "紀小念Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071859252512043010/scuAubsK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 163,
+          "like_count": 16223,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 3862
+        },
+        "url": "",
+        "username": "Zhang_ming_qing",
+        "verified": false
+      }
+    ]
+  }
+}

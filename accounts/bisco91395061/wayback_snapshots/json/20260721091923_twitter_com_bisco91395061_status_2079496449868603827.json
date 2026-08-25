@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2079228481540632736",
+    "created_at": "2026-07-21T09:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079496449868603827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1700707750236258304",
+          "start": 0,
+          "username": "Aimanquilsoul_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079496449868603827",
+    "in_reply_to_user_id": "1700707750236258304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079495815182401575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aimanquilsoul_ 找人收的，朋友给的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2079228481540632736",
+        "created_at": "2026-07-21T09:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079496449868603827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700707750236258304",
+              "start": 0,
+              "username": "Aimanquilsoul_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079496449868603827",
+        "in_reply_to_user_id": "1700707750236258304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079495815182401575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aimanquilsoul_ 找人收的，朋友给的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700707750236258304",
+        "conversation_id": "2079228481540632736",
+        "created_at": "2026-07-21T09:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079495815182401575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079495815182401575",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079228481540632736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 在哪能买到啊我羡慕死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 404,
+          "like_count": 9901,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 2115
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T03:09:01.000Z",
+        "description": "我不知道说什么",
+        "id": "1700707750236258304",
+        "name": "an",
+        "pinned_tweet_id": "1988979551792427196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064707232370176000/yQMzo7FE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 31,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "Aimanquilsoul_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2083099528287363568",
+    "created_at": "2026-07-31T09:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083124547348496407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883935469865766912",
+          "start": 0,
+          "username": "qiouqiou0114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083124547348496407",
+    "in_reply_to_user_id": "1883935469865766912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083099528287363568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiouqiou0114 要注意安全呀😭😭🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2083099528287363568",
+        "created_at": "2026-07-31T09:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083124547348496407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883935469865766912",
+              "start": 0,
+              "username": "qiouqiou0114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083124547348496407",
+        "in_reply_to_user_id": "1883935469865766912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083099528287363568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiouqiou0114 要注意安全呀😭😭🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883935469865766912",
+        "conversation_id": "2083099528287363568",
+        "created_at": "2026-07-31T07:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083099528287363568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083099528287363568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃呃，钻头钻到手了好痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2082850488140329058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 439,
+          "like_count": 11254,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 2581
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T17:50:00.000Z",
+        "description": "现使用 @qiouqiou9297 084信徒，有少量割，也有正常，死亡极乐主义，04逐渐大龄，板绘、漆艺、花丝修行中，无性别主义，欢迎扩列交友，但精虫上脑直男勿扰，郁后空洞期中，正在慢慢探寻自己的生存意义，努力活下去，活着就是胜利。。吧？\n有不开心欢迎找我聊天哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "qiouqiou9297"
+              }
+            ]
+          }
+        },
+        "id": "1883935469865766912",
+        "location": "厦门",
+        "name": "qiou",
+        "pinned_tweet_id": "2079186906580177163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883939791844388864/QUH5p0DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 189,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 371
+        },
+        "url": "",
+        "username": "qiouqiou0114",
+        "verified": false
+      }
+    ]
+  }
+}

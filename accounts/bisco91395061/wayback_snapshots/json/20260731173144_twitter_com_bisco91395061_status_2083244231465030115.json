@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2083049691080745066",
+    "created_at": "2026-07-31T17:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083244231465030115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044052419932209152",
+          "start": 0,
+          "username": "philo49627"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083244231465030115",
+    "in_reply_to_user_id": "2044052419932209152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083220223608685017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@philo49627 肯定不是影响智商，o金刚类药物是会使你的脑神经细胞死亡导致记忆力低下/变迟钝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2083049691080745066",
+        "created_at": "2026-07-31T17:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083244231465030115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044052419932209152",
+              "start": 0,
+              "username": "philo49627"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083244231465030115",
+        "in_reply_to_user_id": "2044052419932209152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083220223608685017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@philo49627 肯定不是影响智商，o金刚类药物是会使你的脑神经细胞死亡导致记忆力低下/变迟钝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044052419932209152",
+        "conversation_id": "2083049691080745066",
+        "created_at": "2026-07-31T15:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083220223608685017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083220223608685017",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083049691080745066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 我只想知道od会不会对智商有影响"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 438,
+          "like_count": 11298,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 2585
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T13:57:39.000Z",
+        "description": "",
+        "id": "2044052419932209152",
+        "name": "PhiloZH",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "philo49627",
+        "verified": false
+      }
+    ]
+  }
+}

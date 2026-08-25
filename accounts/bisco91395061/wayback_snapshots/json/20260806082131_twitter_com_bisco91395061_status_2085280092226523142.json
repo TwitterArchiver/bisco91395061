@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2085280092226523142",
+    "created_at": "2026-08-06T08:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T09:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085280092226523142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Huhio3i/status…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Huhio3i/status/2085029345647903104",
+          "start": 12,
+          "url": "https://t.co/TBrOlq2Ym8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085280092226523142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085029345647903104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第二张是我的你们羡慕吧 https://t.co/TBrOlq2Ym8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085029263666036736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-DEX8bwAAaGkl.jpg",
+        "width": 946
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2085029263632449536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-DEX0bQAAL5Zl.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2085280092226523142",
+        "created_at": "2026-08-06T08:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085280092226523142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Huhio3i/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Huhio3i/status/2085029345647903104",
+              "start": 12,
+              "url": "https://t.co/TBrOlq2Ym8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085280092226523142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085029345647903104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二张是我的你们羡慕吧 https://t.co/TBrOlq2Ym8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085029263666036736",
+            "3_2085029263632449536"
+          ]
+        },
+        "author_id": "2065372497403674624",
+        "conversation_id": "2085029345647903104",
+        "created_at": "2026-08-05T15:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085029345647903104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DxBkwUsEa",
+              "end": 70,
+              "expanded_url": "https://x.com/Huhio3i/status/2085029345647903104/photo/1",
+              "media_key": "3_2085029263666036736",
+              "start": 47,
+              "url": "https://t.co/5DxBkwUsEa"
+            },
+            {
+              "display_url": "pic.x.com/5DxBkwUsEa",
+              "end": 70,
+              "expanded_url": "https://x.com/Huhio3i/status/2085029345647903104/photo/1",
+              "media_key": "3_2085029263632449536",
+              "start": 47,
+              "url": "https://t.co/5DxBkwUsEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085029345647903104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我指绘和板绘的差别，卧槽我本来想送外卖在外面闲下来可以画画稿什么的但是感觉细节还是大大的不行 https://t.co/5DxBkwUsEa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 455,
+          "like_count": 12154,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 2802
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T09:57:06.000Z",
+        "description": "＝hh | 一号机@Huhiosc3x 被封了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Huhiosc3x"
+              }
+            ]
+          }
+        },
+        "id": "2065372497403674624",
+        "name": "Huhio2.0",
+        "pinned_tweet_id": "2084933457319547111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084950581089808384/ZE5QvUQT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 72,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "Huhio3i",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2079252396400881760",
+    "created_at": "2026-07-20T17:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079252396400881760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bisco91395061/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/bisco91395061/status/2079169362486022191",
+          "start": 35,
+          "url": "https://t.co/l2U66Bd3YR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079252396400881760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079169362486022191",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这原po直接屏蔽我了，好搞笑，弹性这么不足吗。我觉得我说的挺对的啊。 https://t.co/l2U66Bd3YR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2079252396400881760",
+        "created_at": "2026-07-20T17:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079252396400881760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bisco91395061/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/bisco91395061/status/2079169362486022191",
+              "start": 35,
+              "url": "https://t.co/l2U66Bd3YR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079252396400881760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079169362486022191",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这原po直接屏蔽我了，好搞笑，弹性这么不足吗。我觉得我说的挺对的啊。 https://t.co/l2U66Bd3YR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2078823126406963693",
+        "created_at": "2026-07-20T11:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079169362486022191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079169362486022191",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1775,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078823126406963693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 那还带咋，你查手机看到他到处搭讪然后人家都同意他到处乱搞就满意了？啥心理啊🤣？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 402,
+          "like_count": 9823,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2087
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

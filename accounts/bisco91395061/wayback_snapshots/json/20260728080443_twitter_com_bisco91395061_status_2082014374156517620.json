@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2082014374156517620",
+    "created_at": "2026-07-28T08:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082014374156517620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MaoYe119/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/MaoYe119/status/2081961787751362615",
+          "start": 12,
+          "url": "https://t.co/oismqk6h5T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082014374156517620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081961787751362615",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮杀姐姐引引流，，，， https://t.co/oismqk6h5T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2081961773880758272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSdM-Aa0AAu5G2.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2082014374156517620",
+        "created_at": "2026-07-28T08:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082014374156517620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MaoYe119/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/MaoYe119/status/2081961787751362615",
+              "start": 12,
+              "url": "https://t.co/oismqk6h5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082014374156517620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081961787751362615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮杀姐姐引引流，，，， https://t.co/oismqk6h5T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081961773880758272"
+          ]
+        },
+        "author_id": "2065335080265093121",
+        "conversation_id": "2081961787751362615",
+        "created_at": "2026-07-28T04:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081961787751362615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eu8K8v9NIw",
+              "end": 65,
+              "expanded_url": "https://x.com/MaoYe119/status/2081961787751362615/photo/1",
+              "media_key": "3_2081961773880758272",
+              "start": 42,
+              "url": "https://t.co/Eu8K8v9NIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081961787751362615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "诶呀山本殺し那个号似了...收不到私信，有事用这个...眼熟我，请帮我转转，感谢！ https://t.co/Eu8K8v9NIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 428,
+          "like_count": 10555,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 2391
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T07:29:46.000Z",
+        "description": "大号山本殺し@Koroshiiiiiii（已亖）\n小杀，第二人格\n需要精神活性物质请私信！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Koroshiiiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/agFB28vmdi"
+              }
+            ]
+          }
+        },
+        "id": "2065335080265093121",
+        "location": "✟升天✟",
+        "name": "猫冶.",
+        "pinned_tweet_id": "2081961787751362615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065336327797866496/v59O1zZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 49,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/agFB28vmdi",
+        "username": "MaoYe119",
+        "verified": false
+      }
+    ]
+  }
+}

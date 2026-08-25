@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2082850488140329058",
+    "created_at": "2026-07-31T03:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083031814902603866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1948883734062923778",
+          "start": 0,
+          "username": "msro_ovo1119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083031814902603866",
+    "in_reply_to_user_id": "1948883734062923778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083008392340422998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@msro_ovo1119 妈妈……………😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2082850488140329058",
+        "created_at": "2026-07-31T03:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083031814902603866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948883734062923778",
+              "start": 0,
+              "username": "msro_ovo1119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083031814902603866",
+        "in_reply_to_user_id": "1948883734062923778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083008392340422998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msro_ovo1119 妈妈……………😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948883734062923778",
+        "conversation_id": "2082850488140329058",
+        "created_at": "2026-07-31T01:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083008392340422998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083008392340422998",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082850488140329058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 太牛了这是神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2082850488140329058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 441,
+          "like_count": 11160,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 2556
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T23:11:19.000Z",
+        "description": "开个玩笑",
+        "id": "1948883734062923778",
+        "location": "Hong Kong",
+        "name": "nsrm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058090504026562560/GU23yzLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 46,
+          "like_count": 2483,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1404
+        },
+        "url": "",
+        "username": "msro_ovo1119",
+        "verified": false
+      }
+    ]
+  }
+}

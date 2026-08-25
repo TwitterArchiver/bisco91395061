@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2082284118914781455",
+    "created_at": "2026-07-29T05:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082332515176763731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1243828267439792128",
+          "start": 0,
+          "username": "Haocha_Feiming_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082332515176763731",
+    "in_reply_to_user_id": "1243828267439792128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082284118914781455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haocha_Feiming_ 好萌😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1876,
+        "media_key": "3_2082284111537041408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXCXfWa8AAf17N.jpg",
+        "width": 981
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082284111541239808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXCXfXbAAA6hTW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2082284118914781455",
+        "created_at": "2026-07-29T05:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082332515176763731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1243828267439792128",
+              "start": 0,
+              "username": "Haocha_Feiming_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082332515176763731",
+        "in_reply_to_user_id": "1243828267439792128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082284118914781455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haocha_Feiming_ 好萌😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082284111537041408",
+            "3_2082284111541239808"
+          ]
+        },
+        "author_id": "1243828267439792128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082284118914781455",
+        "created_at": "2026-07-29T01:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082284118914781455"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 46,
+              "start": 32,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 70,
+              "start": 58,
+              "tag": "病み垢女子と繫がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hb2H4xFtSJ",
+              "end": 94,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2082284118914781455/photo/1",
+              "media_key": "3_2082284111537041408",
+              "start": 71,
+              "url": "https://t.co/Hb2H4xFtSJ"
+            },
+            {
+              "display_url": "pic.x.com/Hb2H4xFtSJ",
+              "end": 94,
+              "expanded_url": "https://x.com/Haocha_Feiming_/status/2082284118914781455/photo/1",
+              "media_key": "3_2082284111541239808",
+              "start": 71,
+              "url": "https://t.co/Hb2H4xFtSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082284118914781455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很难受啊因为昨天下午开的中南海今早发现清空了\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい https://t.co/Hb2H4xFtSJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 426,
+          "like_count": 10599,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 2416
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T09:12:34.000Z",
+        "description": "我是小澜 @LannnOrz 海豹享受者 恋人@_XnanX_418 餐券逼 直fo查成分回 病み垢 @withu_4ever_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "LannnOrz"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "_XnanX_418"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "withu_4ever_"
+              }
+            ]
+          }
+        },
+        "id": "1243828267439792128",
+        "location": "距离你5.2km",
+        "name": "爱海豹用户ずっと",
+        "pinned_tweet_id": "2081313072204181975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070601478994276352/er_FMXw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 89,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "Haocha_Feiming_",
+        "verified": false
+      }
+    ]
+  }
+}

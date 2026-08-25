@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2077857831349633195",
+    "created_at": "2026-07-17T02:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077947189586952641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1130042378545446912",
+          "start": 0,
+          "username": "Magicatttt_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077947189586952641",
+    "in_reply_to_user_id": "1130042378545446912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077857831349633195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magicatttt_ 好可爱我喜欢这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1370,
+        "media_key": "3_2077857825603407873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNYIrvTbUAE3AOA.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2077857831349633195",
+        "created_at": "2026-07-17T02:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077947189586952641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1130042378545446912",
+              "start": 0,
+              "username": "Magicatttt_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077947189586952641",
+        "in_reply_to_user_id": "1130042378545446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077857831349633195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magicatttt_ 好可爱我喜欢这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077857825603407873"
+          ]
+        },
+        "author_id": "1130042378545446912",
+        "conversation_id": "2077857831349633195",
+        "created_at": "2026-07-16T20:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T21:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077857831349633195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gpPa06zYar",
+              "end": 28,
+              "expanded_url": "https://x.com/Magicatttt_/status/2077857831349633195/photo/1",
+              "media_key": "3_2077857825603407873",
+              "start": 5,
+              "url": "https://t.co/gpPa06zYar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077857831349633195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦。。 https://t.co/gpPa06zYar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 384,
+          "like_count": 9521,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1972
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-19T09:27:53.000Z",
+        "description": "20 ↓ ｜画画欧弟碎碎念｜直接关注=喜欢，，｜我很抱歉这一切",
+        "id": "1130042378545446912",
+        "name": "对我言听计从",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073735942851186688/wFbRPwas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 42,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "Magicatttt_",
+        "verified": false
+      }
+    ]
+  }
+}

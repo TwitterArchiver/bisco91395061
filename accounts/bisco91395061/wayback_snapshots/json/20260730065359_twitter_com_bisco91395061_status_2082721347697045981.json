@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2082699363487522820",
+    "created_at": "2026-07-30T06:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082721347697045981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1745456733500375040",
+          "start": 0,
+          "username": "oseven1228119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082721347697045981",
+    "in_reply_to_user_id": "1745456733500375040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082699363487522820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oseven1228119 美丽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2134,
+        "media_key": "3_2082699219232845824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOc758BbcAA3o22.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2082699363487522820",
+        "created_at": "2026-07-30T06:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082721347697045981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745456733500375040",
+              "start": 0,
+              "username": "oseven1228119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082721347697045981",
+        "in_reply_to_user_id": "1745456733500375040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082699363487522820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oseven1228119 美丽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082699219232845824"
+          ]
+        },
+        "author_id": "1745456733500375040",
+        "conversation_id": "2082699363487522820",
+        "created_at": "2026-07-30T05:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082699363487522820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rgZp1mHXXJ",
+              "end": 40,
+              "expanded_url": "https://x.com/oseven1228119/status/2082699363487522820/photo/1",
+              "media_key": "3_2082699219232845824",
+              "start": 17,
+              "url": "https://t.co/rgZp1mHXXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082699363487522820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我画的小oc的g图请注意辨别 https://t.co/rgZp1mHXXJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 425,
+          "like_count": 10855,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 2484
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T14:45:05.000Z",
+        "description": "💊/🔪 同类互fo喵(:3っ )っ\n＊私信功能无法使用抱歉\n＊不回消息是号被制裁或者冻结了",
+        "id": "1745456733500375040",
+        "name": "O seven （2.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079972879236726784/fCbjW2Xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 35,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "oseven1228119",
+        "verified": false
+      }
+    ]
+  }
+}

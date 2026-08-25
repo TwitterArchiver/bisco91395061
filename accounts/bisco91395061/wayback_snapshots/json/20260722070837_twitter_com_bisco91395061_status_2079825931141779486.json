@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2079825931141779486",
+    "created_at": "2026-07-22T07:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079825931141779486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1883935469865766912",
+          "start": 3,
+          "username": "qiouqiou0114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079825931141779486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079824723660439837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiouqiou0114: 100fo抽奖入乡随俗吧！？\n一等奖x1  图1 的手镯一只（尺寸不合可以当挂饰哦）or另外定制手镯（需要一定时间\n二等奖x2  全插（可见主页）一张or定制螺钿耳牌\n三等奖x3  QQ人or立绘or头像一张\n关注评论然后看看什么时候ai开奖…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079824714135154688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0FjuEasAAmMgS.jpg",
+        "width": 1408
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079824714122543104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0FjuBaQAAYOgD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079824714135117824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0FjuEaIAA1FHK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079824714139385857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0FjuFbQAEvdQh.jpg",
+        "width": 1094
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2079825931141779486",
+        "created_at": "2026-07-22T07:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079825931141779486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1883935469865766912",
+              "start": 3,
+              "username": "qiouqiou0114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079825931141779486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079824723660439837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiouqiou0114: 100fo抽奖入乡随俗吧！？\n一等奖x1  图1 的手镯一只（尺寸不合可以当挂饰哦）or另外定制手镯（需要一定时间\n二等奖x2  全插（可见主页）一张or定制螺钿耳牌\n三等奖x3  QQ人or立绘or头像一张\n关注评论然后看看什么时候ai开奖…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079824714135154688",
+            "3_2079824714122543104",
+            "3_2079824714135117824",
+            "3_2079824714139385857"
+          ]
+        },
+        "author_id": "1883935469865766912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079824723660439837",
+        "created_at": "2026-07-22T07:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079824723660439837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9TklfuyTxp",
+              "end": 147,
+              "expanded_url": "https://x.com/qiouqiou0114/status/2079824723660439837/photo/1",
+              "media_key": "3_2079824714135154688",
+              "start": 124,
+              "url": "https://t.co/9TklfuyTxp"
+            },
+            {
+              "display_url": "pic.x.com/9TklfuyTxp",
+              "end": 147,
+              "expanded_url": "https://x.com/qiouqiou0114/status/2079824723660439837/photo/1",
+              "media_key": "3_2079824714122543104",
+              "start": 124,
+              "url": "https://t.co/9TklfuyTxp"
+            },
+            {
+              "display_url": "pic.x.com/9TklfuyTxp",
+              "end": 147,
+              "expanded_url": "https://x.com/qiouqiou0114/status/2079824723660439837/photo/1",
+              "media_key": "3_2079824714135117824",
+              "start": 124,
+              "url": "https://t.co/9TklfuyTxp"
+            },
+            {
+              "display_url": "pic.x.com/9TklfuyTxp",
+              "end": 147,
+              "expanded_url": "https://x.com/qiouqiou0114/status/2079824723660439837/photo/1",
+              "media_key": "3_2079824714139385857",
+              "start": 124,
+              "url": "https://t.co/9TklfuyTxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079824723660439837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "100fo抽奖入乡随俗吧！？\n一等奖x1  图1 的手镯一只（尺寸不合可以当挂饰哦）or另外定制手镯（需要一定时间\n二等奖x2  全插（可见主页）一张or定制螺钿耳牌\n三等奖x3  QQ人or立绘or头像一张\n关注评论然后看看什么时候ai开奖吧😋 https://t.co/9TklfuyTxp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "天国",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 409,
+          "like_count": 10001,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2143
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T17:50:00.000Z",
+        "description": "现使用 @qiouqiou9297 084信徒，有少量割，也有正常，死亡极乐主义，04逐渐大龄，板绘、漆艺、花丝修行中，无性别主义，欢迎扩列交友，但精虫上脑直男勿扰，郁后空洞期中，正在慢慢探寻自己的生存意义，努力活下去，活着就是胜利。。吧？\n有不开心欢迎找我聊天哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "qiouqiou9297"
+              }
+            ]
+          }
+        },
+        "id": "1883935469865766912",
+        "location": "厦门",
+        "name": "qiou",
+        "pinned_tweet_id": "2079186906580177163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883939791844388864/QUH5p0DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 175,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "qiouqiou0114",
+        "verified": false
+      }
+    ]
+  }
+}

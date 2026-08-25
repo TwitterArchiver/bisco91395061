@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2085279215579251090",
+    "created_at": "2026-08-06T10:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T11:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085314439168119159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2084142351291965440",
+          "start": 0,
+          "username": "iJAYTV66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085314439168119159",
+    "in_reply_to_user_id": "2084142351291965440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085291424543588824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iJAYTV66 算垃圾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2085279215579251090",
+        "created_at": "2026-08-06T10:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085314439168119159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2084142351291965440",
+              "start": 0,
+              "username": "iJAYTV66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085314439168119159",
+        "in_reply_to_user_id": "2084142351291965440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085291424543588824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iJAYTV66 算垃圾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084142351291965440",
+        "conversation_id": "2085279215579251090",
+        "created_at": "2026-08-06T09:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085291424543588824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085291424543588824",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085279215579251090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 如果磕药是你的力量。那你没有药又算什么（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 457,
+          "like_count": 12185,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2824
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-03T05:01:19.000Z",
+        "description": "网络外星人被偷走了",
+        "id": "2084142351291965440",
+        "name": "JAY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084920768576802817/0VIKw3bv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "iJAYTV66",
+        "verified": false
+      }
+    ]
+  }
+}

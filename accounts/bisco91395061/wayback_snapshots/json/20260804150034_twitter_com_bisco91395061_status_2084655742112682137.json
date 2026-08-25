@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2084267726290477101",
+    "created_at": "2026-08-04T15:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084655742112682137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2083093612309721088",
+          "start": 0,
+          "username": "lvyang5100668"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084655742112682137",
+    "in_reply_to_user_id": "2083093612309721088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084617521366548858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lvyang5100668 这俩我都杀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2084267726290477101",
+        "created_at": "2026-08-04T15:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084655742112682137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2083093612309721088",
+              "start": 0,
+              "username": "lvyang5100668"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084655742112682137",
+        "in_reply_to_user_id": "2083093612309721088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084617521366548858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvyang5100668 这俩我都杀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083093612309721088",
+        "conversation_id": "2084267726290477101",
+        "created_at": "2026-08-04T12:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084617521366548858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084617521366548858",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084267726290477101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 医生已经被我杀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 459,
+          "like_count": 12041,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 2772
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-31T07:34:04.000Z",
+        "description": "我服了号被封了，寻回互fo中。",
+        "id": "2083093612309721088",
+        "location": "250m",
+        "name": "屑鱼屑屑",
+        "pinned_tweet_id": "2083094712270078338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083094102082797568/UqrVhPv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 77,
+          "like_count": 366,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "lvyang5100668",
+        "verified": false
+      }
+    ]
+  }
+}

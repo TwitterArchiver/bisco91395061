@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085736414411657217",
+        "3_2085736414403334144",
+        "3_2085736414541705216"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2085736757518307667",
+    "created_at": "2026-08-07T14:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085736757518307667"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "门槛"
+        },
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "水手服"
+        },
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "门槛妹"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sVeJiu6zfU",
+          "end": 76,
+          "expanded_url": "https://x.com/bisco91395061/status/2085736757518307667/photo/1",
+          "media_key": "3_2085736414411657217",
+          "start": 53,
+          "url": "https://t.co/sVeJiu6zfU"
+        },
+        {
+          "display_url": "pic.x.com/sVeJiu6zfU",
+          "end": 76,
+          "expanded_url": "https://x.com/bisco91395061/status/2085736757518307667/photo/1",
+          "media_key": "3_2085736414403334144",
+          "start": 53,
+          "url": "https://t.co/sVeJiu6zfU"
+        },
+        {
+          "display_url": "pic.x.com/sVeJiu6zfU",
+          "end": 76,
+          "expanded_url": "https://x.com/bisco91395061/status/2085736757518307667/photo/1",
+          "media_key": "3_2085736414541705216",
+          "start": 53,
+          "url": "https://t.co/sVeJiu6zfU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085736757518307667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉门槛妹这个赛道已经饱和了呀宝贝们。我能提供的情绪价值不知道还有没有机会😔 #门槛 #水手服 #门槛妹 https://t.co/sVeJiu6zfU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3899,
+        "media_key": "3_2085736414411657217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIGN9wakAE2IB8.jpg",
+        "width": 2285
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2085736414403334144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIGN9ubkAAGtw4.jpg",
+        "width": 2295
+      },
+      {
+        "height": 923,
+        "media_key": "3_2085736414541705216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIGN-Pa8AA0het.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085736414411657217",
+            "3_2085736414403334144",
+            "3_2085736414541705216"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2085736757518307667",
+        "created_at": "2026-08-07T14:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085736757518307667"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "门槛"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "水手服"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sVeJiu6zfU",
+              "end": 76,
+              "expanded_url": "https://x.com/bisco91395061/status/2085736757518307667/photo/1",
+              "media_key": "3_2085736414411657217",
+              "start": 53,
+              "url": "https://t.co/sVeJiu6zfU"
+            },
+            {
+              "display_url": "pic.x.com/sVeJiu6zfU",
+              "end": 76,
+              "expanded_url": "https://x.com/bisco91395061/status/2085736757518307667/photo/1",
+              "media_key": "3_2085736414403334144",
+              "start": 53,
+              "url": "https://t.co/sVeJiu6zfU"
+            },
+            {
+              "display_url": "pic.x.com/sVeJiu6zfU",
+              "end": 76,
+              "expanded_url": "https://x.com/bisco91395061/status/2085736757518307667/photo/1",
+              "media_key": "3_2085736414541705216",
+              "start": 53,
+              "url": "https://t.co/sVeJiu6zfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085736757518307667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉门槛妹这个赛道已经饱和了呀宝贝们。我能提供的情绪价值不知道还有没有机会😔 #门槛 #水手服 #门槛妹 https://t.co/sVeJiu6zfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 466,
+          "like_count": 12333,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2892
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

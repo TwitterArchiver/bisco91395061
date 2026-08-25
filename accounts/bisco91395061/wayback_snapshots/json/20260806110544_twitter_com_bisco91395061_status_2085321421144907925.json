@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2085294866393874520",
+    "created_at": "2026-08-06T11:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085321421144907925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2065372497403674624",
+          "start": 0,
+          "username": "Huhio3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085321421144907925",
+    "in_reply_to_user_id": "2065372497403674624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085315987818394021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huhio3i 我操我喜欢你呀！我也很喜欢艾比。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2085294866393874520",
+        "created_at": "2026-08-06T11:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085321421144907925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2065372497403674624",
+              "start": 0,
+              "username": "Huhio3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085321421144907925",
+        "in_reply_to_user_id": "2065372497403674624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085315987818394021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhio3i 我操我喜欢你呀！我也很喜欢艾比。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065372497403674624",
+        "conversation_id": "2085294866393874520",
+        "created_at": "2026-08-06T10:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085315987818394021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085315987818394021",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085294866393874520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 卧槽明珠红毛妹我也喜欢她，集美你怎么画得那么萌我看哭了都"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 460,
+          "like_count": 12187,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2826
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T09:57:06.000Z",
+        "description": "＝hh | 一号机@Huhiosc3x 被封了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Huhiosc3x"
+              }
+            ]
+          }
+        },
+        "id": "2065372497403674624",
+        "name": "Huhio2.0",
+        "pinned_tweet_id": "2084933457319547111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084950581089808384/ZE5QvUQT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 78,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "Huhio3i",
+        "verified": false
+      }
+    ]
+  }
+}

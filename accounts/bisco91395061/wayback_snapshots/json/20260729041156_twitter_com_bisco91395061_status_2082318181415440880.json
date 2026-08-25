@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2082138564834517431",
+    "created_at": "2026-07-29T04:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082318181415440880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1169911900630478848",
+          "start": 0,
+          "username": "i111111153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082318181415440880",
+    "in_reply_to_user_id": "1169911900630478848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082317962133020720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i111111153 你咋了大姐？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2082138564834517431",
+        "created_at": "2026-07-29T04:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082318181415440880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1169911900630478848",
+              "start": 0,
+              "username": "i111111153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082318181415440880",
+        "in_reply_to_user_id": "1169911900630478848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082317962133020720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i111111153 你咋了大姐？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1169911900630478848",
+        "conversation_id": "2082138564834517431",
+        "created_at": "2026-07-29T04:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082317962133020720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082317962133020720",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082138564834517431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 你有病嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 423,
+          "like_count": 10582,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 2410
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-06T09:55:16.000Z",
+        "description": "nothing",
+        "id": "1169911900630478848",
+        "name": "i",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832769200106221568/XTB_07Ph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 157,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "i111111153",
+        "verified": false
+      }
+    ]
+  }
+}

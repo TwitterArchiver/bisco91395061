@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078047020867354624"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078023635537924380",
+    "created_at": "2026-07-17T09:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078047055193546763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/stJgQDx6qQ",
+          "end": 33,
+          "expanded_url": "https://x.com/bisco91395061/status/2078047055193546763/photo/1",
+          "media_key": "3_2078047020867354624",
+          "start": 10,
+          "url": "https://t.co/stJgQDx6qQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078047055193546763",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078023635537924380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs https://t.co/stJgQDx6qQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_2078047020867354624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa0wWlbgAAISuq.png",
+        "width": 776
+      },
+      {
+        "height": 1655,
+        "media_key": "3_2078023629217116160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNafex5asAALNg2.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078047020867354624"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078023635537924380",
+        "created_at": "2026-07-17T09:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078047055193546763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/stJgQDx6qQ",
+              "end": 33,
+              "expanded_url": "https://x.com/bisco91395061/status/2078047055193546763/photo/1",
+              "media_key": "3_2078047020867354624",
+              "start": 10,
+              "url": "https://t.co/stJgQDx6qQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078047055193546763",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078023635537924380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs https://t.co/stJgQDx6qQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078023629217116160"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078023635537924380",
+        "created_at": "2026-07-17T07:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078023635537924380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ExufeMH0GA",
+              "end": 28,
+              "expanded_url": "https://x.com/yu_huacs/status/2078023635537924380/photo/1",
+              "media_key": "3_2078023629217116160",
+              "start": 5,
+              "url": "https://t.co/ExufeMH0GA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078023635537924380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群友日常 https://t.co/ExufeMH0GA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 388,
+          "like_count": 9558,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1989
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "双相/准备复学中 成分复杂 ＃overdose！\nshanghai路上随机刷新的公路车手\n热衷于公路车/宅系/男娘/少有cos内容 一个公路车技师 二次元/cosplay/摄影/割手/od\nmaster @yekatinez    哦尼酱@silentbleeding1     里账 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 14,
+                "tag": "overdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "yekatinez"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 155,
+                "start": 143,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "name": "余华成霜，我是凡人，骚扰萌神。",
+        "pinned_tweet_id": "2073754389542830144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070906717412470784/YDT3T7qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 1545,
+          "like_count": 122851,
+          "listed_count": 8,
+          "media_count": 2152,
+          "tweet_count": 20379
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

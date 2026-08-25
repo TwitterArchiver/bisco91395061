@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2084964596771946704",
+    "created_at": "2026-08-05T12:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084978136136261947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1133938939184726016",
+          "start": 0,
+          "username": "jxmo1141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084978136136261947",
+    "in_reply_to_user_id": "1133938939184726016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084964596771946704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jxmo1141 恭喜介墨呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2084964585891667968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9IPodXoAAC69I.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2084964596771946704",
+        "created_at": "2026-08-05T12:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084978136136261947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1133938939184726016",
+              "start": 0,
+              "username": "jxmo1141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084978136136261947",
+        "in_reply_to_user_id": "1133938939184726016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084964596771946704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jxmo1141 恭喜介墨呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084964585891667968"
+          ]
+        },
+        "author_id": "1133938939184726016",
+        "conversation_id": "2084964596771946704",
+        "created_at": "2026-08-05T11:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084964596771946704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FElfAJofTX",
+              "end": 62,
+              "expanded_url": "https://x.com/jxmo1141/status/2084964596771946704/photo/1",
+              "media_key": "3_2084964585891667968",
+              "start": 39,
+              "url": "https://t.co/FElfAJofTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084964596771946704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "500fo啦！！！\n谢谢谢谢大家😭😭😭\n虽然帖子没热度没人理，但是还是好高兴 https://t.co/FElfAJofTX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 450,
+          "like_count": 12079,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 2780
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-30T03:31:25.000Z",
+        "description": "都会fo的都会fo的。可以私信催催哇\n- 杂鱼全栈， 资深Yes工程师 ✨\n- 应该算是睁一只眼闭一只眼的家长党\n- 中术人，低质量coser\n- 白日幻想家，摸鱼一整天\n- POtwe 饲养员 | 电子玩具收集癖\n可以和我聊天哦！多找我聊聊天吧拜托了！！！",
+        "id": "1133938939184726016",
+        "location": "希望是你心里",
+        "name": "今天兴许是介墨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064342571187671040/KDxpqSu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 618,
+          "like_count": 885,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "jxmo1141",
+        "verified": true
+      }
+    ]
+  }
+}

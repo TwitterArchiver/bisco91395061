@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2077712255563538702",
+    "created_at": "2026-07-17T16:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078153986067382635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078153986067382635",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077712255563538702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv 我连右美沙芬没列管的好时代都没赶上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2077712255563538702",
+        "created_at": "2026-07-17T16:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078153986067382635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078153986067382635",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077712255563538702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 我连右美沙芬没列管的好时代都没赶上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2077712255563538702",
+        "created_at": "2026-07-16T11:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077712255563538702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077712255563538702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5052,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "唯一尝过的甜头是电子烟漏油唯一享受的时代红利是右美沙芬和普瑞巴林没列管"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 391,
+          "like_count": 9575,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2004
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "he/him 🏳️‍🌈 oder/drugtwt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/omdLQg",
+                "end": 23,
+                "expanded_url": "https://reurl.cc/omdLQg",
+                "start": 0,
+                "url": "https://t.co/D225M96ROQ"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "name": "普丁🥴免费破处💐8964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074106003067461632/ZR23tI7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 546,
+          "like_count": 6169,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 601
+        },
+        "url": "https://t.co/D225M96ROQ",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

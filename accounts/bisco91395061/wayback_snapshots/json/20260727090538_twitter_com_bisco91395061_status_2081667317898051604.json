@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2081602514235859095",
+    "created_at": "2026-07-27T09:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081667317898051604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1846525424714891264",
+          "start": 0,
+          "username": "Jfishyuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081667317898051604",
+    "in_reply_to_user_id": "1846525424714891264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081602514235859095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jfishyuyu 笑死我了美之味啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081602482791161856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONWbeZWoAACgbj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2081602514235859095",
+        "created_at": "2026-07-27T09:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081667317898051604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1846525424714891264",
+              "start": 0,
+              "username": "Jfishyuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081667317898051604",
+        "in_reply_to_user_id": "1846525424714891264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081602514235859095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jfishyuyu 笑死我了美之味啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081602482791161856"
+          ]
+        },
+        "author_id": "1846525424714891264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081602514235859095",
+        "created_at": "2026-07-27T04:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081602514235859095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgjCVi09Iu",
+              "end": 30,
+              "expanded_url": "https://x.com/Jfishyuyu/status/2081602514235859095/photo/1",
+              "media_key": "3_2081602482791161856",
+              "start": 7,
+              "url": "https://t.co/JgjCVi09Iu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081602514235859095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洋芋你傻逼吧 https://t.co/JgjCVi09Iu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 431,
+          "like_count": 10494,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 2361
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T12:16:03.000Z",
+        "description": "叫我洋芋就好啦\n二号@JfishyuyuTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "JfishyuyuTvT"
+              }
+            ]
+          }
+        },
+        "id": "1846525424714891264",
+        "location": "你的记忆",
+        "name": "眠眠芋",
+        "pinned_tweet_id": "2071854652384010731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052414104074149888/hwFHGdhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 84,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 435
+        },
+        "url": "",
+        "username": "Jfishyuyu",
+        "verified": false
+      }
+    ]
+  }
+}

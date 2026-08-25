@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2083377618557210839",
+    "created_at": "2026-08-01T07:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083462622750625818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1897884218740592640",
+          "start": 0,
+          "username": "kekeke0o0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083462622750625818",
+    "in_reply_to_user_id": "1897884218740592640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083377618557210839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kekeke0o0 美爆了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083377599565406208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmk43saIAAtgnN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083377599523467264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmk43iaMAAIYkq.jpg",
+        "width": 1516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2083377618557210839",
+        "created_at": "2026-08-01T07:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083462622750625818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1897884218740592640",
+              "start": 0,
+              "username": "kekeke0o0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083462622750625818",
+        "in_reply_to_user_id": "1897884218740592640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083377618557210839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kekeke0o0 美爆了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083377599565406208",
+            "3_2083377599523467264"
+          ]
+        },
+        "author_id": "1897884218740592640",
+        "conversation_id": "2083377618557210839",
+        "created_at": "2026-08-01T02:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083377618557210839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKVr6PVRpx",
+              "end": 23,
+              "expanded_url": "https://x.com/kekeke0o0/status/2083377618557210839/photo/1",
+              "media_key": "3_2083377599565406208",
+              "start": 0,
+              "url": "https://t.co/WKVr6PVRpx"
+            },
+            {
+              "display_url": "pic.x.com/WKVr6PVRpx",
+              "end": 23,
+              "expanded_url": "https://x.com/kekeke0o0/status/2083377618557210839/photo/1",
+              "media_key": "3_2083377599523467264",
+              "start": 0,
+              "url": "https://t.co/WKVr6PVRpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083377618557210839",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1753,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WKVr6PVRpx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 445,
+          "like_count": 11408,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 2615
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T05:37:34.000Z",
+        "description": "世泉存在的意义是为了给普通人一个接触神的机会\n世界上另一个我：@yutubaobao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "yutubaobao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shiquankek",
+                "end": 23,
+                "expanded_url": "https://t.me/shiquankek",
+                "start": 0,
+                "url": "https://t.co/iUMveVRvtX"
+              }
+            ]
+          }
+        },
+        "id": "1897884218740592640",
+        "location": "🚪188/288/520/1314",
+        "name": "世泉",
+        "pinned_tweet_id": "2070453814277423392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078892539739041792/7vGYrUlC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3347,
+          "following_count": 77,
+          "like_count": 207,
+          "listed_count": 7,
+          "media_count": 184,
+          "tweet_count": 475
+        },
+        "url": "https://t.co/iUMveVRvtX",
+        "username": "kekeke0o0",
+        "verified": false
+      }
+    ]
+  }
+}

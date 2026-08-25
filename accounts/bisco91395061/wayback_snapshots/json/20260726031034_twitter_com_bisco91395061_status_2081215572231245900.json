@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2081034378357195156",
+    "created_at": "2026-07-26T03:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081215572231245900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1884862807545683968",
+          "start": 0,
+          "username": "Haruyo1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081215572231245900",
+    "in_reply_to_user_id": "1884862807545683968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081215242328285233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haruyo1024 🤓👍🏻太强了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081215222539505664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOH2N9iaUAA8TnL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2081215222367539201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOH2N85aUAEb87d.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2081034378357195156",
+        "created_at": "2026-07-26T03:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081215572231245900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884862807545683968",
+              "start": 0,
+              "username": "Haruyo1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081215572231245900",
+        "in_reply_to_user_id": "1884862807545683968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081215242328285233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruyo1024 🤓👍🏻太强了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081215222539505664",
+            "3_2081215222367539201"
+          ]
+        },
+        "author_id": "1884862807545683968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081034378357195156",
+        "created_at": "2026-07-26T03:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081215242328285233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YgeIKbYAQ9",
+              "end": 42,
+              "expanded_url": "https://x.com/Haruyo1024/status/2081215242328285233/photo/1",
+              "media_key": "3_2081215222539505664",
+              "start": 19,
+              "url": "https://t.co/YgeIKbYAQ9"
+            },
+            {
+              "display_url": "pic.x.com/YgeIKbYAQ9",
+              "end": 42,
+              "expanded_url": "https://x.com/Haruyo1024/status/2081215242328285233/photo/1",
+              "media_key": "3_2081215222367539201",
+              "start": 19,
+              "url": "https://t.co/YgeIKbYAQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081215242328285233",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081215092608426226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 老资历 https://t.co/YgeIKbYAQ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 423,
+          "like_count": 10420,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 2315
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T07:15:01.000Z",
+        "description": "自行车技师｜INFJ｜手卷烟、雪茄佬、烟代",
+        "id": "1884862807545683968",
+        "location": "上海",
+        "name": "はるよ",
+        "pinned_tweet_id": "2009912221774835726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080601318746697728/Xl8-oJCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 1762,
+          "like_count": 27566,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1963
+        },
+        "url": "",
+        "username": "Haruyo1024",
+        "verified": false
+      }
+    ]
+  }
+}

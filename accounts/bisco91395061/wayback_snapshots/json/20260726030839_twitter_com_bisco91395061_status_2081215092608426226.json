@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2081034378357195156",
+    "created_at": "2026-07-26T03:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081215092608426226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1884862807545683968",
+          "start": 0,
+          "username": "Haruyo1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081215092608426226",
+    "in_reply_to_user_id": "1884862807545683968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081206332129226799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haruyo1024 我操太劲了哈哈哈哈你天天抽这种好东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081206321307901952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHuH13a4AAjhgt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2081034378357195156",
+        "created_at": "2026-07-26T03:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081215092608426226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884862807545683968",
+              "start": 0,
+              "username": "Haruyo1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081215092608426226",
+        "in_reply_to_user_id": "1884862807545683968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081206332129226799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruyo1024 我操太劲了哈哈哈哈你天天抽这种好东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081206321307901952"
+          ]
+        },
+        "author_id": "1884862807545683968",
+        "conversation_id": "2081034378357195156",
+        "created_at": "2026-07-26T02:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081206332129226799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8zDDW2eEq7",
+              "end": 45,
+              "expanded_url": "https://x.com/Haruyo1024/status/2081206332129226799/photo/1",
+              "media_key": "3_2081206321307901952",
+              "start": 22,
+              "url": "https://t.co/8zDDW2eEq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081206332129226799",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081034378357195156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 爹，来抽这个 https://t.co/8zDDW2eEq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 423,
+          "like_count": 10420,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 2313
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T07:15:01.000Z",
+        "description": "自行车技师｜INFJ｜手卷烟、雪茄佬、烟代",
+        "id": "1884862807545683968",
+        "location": "上海",
+        "name": "はるよ",
+        "pinned_tweet_id": "2009912221774835726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080601318746697728/Xl8-oJCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 1762,
+          "like_count": 27564,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1962
+        },
+        "url": "",
+        "username": "Haruyo1024",
+        "verified": false
+      }
+    ]
+  }
+}

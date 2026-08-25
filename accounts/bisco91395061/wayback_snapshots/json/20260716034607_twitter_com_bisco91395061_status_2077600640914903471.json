@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2077228563892429274",
+    "created_at": "2026-07-16T03:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077600640914903471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1821070140487954432",
+          "start": 0,
+          "username": "roroko99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077600640914903471",
+    "in_reply_to_user_id": "1821070140487954432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077293686577357273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roroko99 病句病句，这是语气词"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2077228563892429274",
+        "created_at": "2026-07-16T03:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077600640914903471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821070140487954432",
+              "start": 0,
+              "username": "roroko99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077600640914903471",
+        "in_reply_to_user_id": "1821070140487954432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077293686577357273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roroko99 病句病句，这是语气词"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821070140487954432",
+        "conversation_id": "2077228563892429274",
+        "created_at": "2026-07-15T07:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077293686577357273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077293686577357273",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077228563892429274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 恭喜恭喜，不过这得操到什么时候（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 381,
+          "like_count": 9434,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1926
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T06:25:44.000Z",
+        "description": "them。Serin或者九，07，中/日ok，并非纯良。负能量警告⚠️碎碎念💧",
+        "id": "1821070140487954432",
+        "location": "幻想鄉",
+        "name": "上野川凛",
+        "pinned_tweet_id": "2037917733145444589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055009914746220544/Nl-06RZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 390,
+          "like_count": 10100,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "roroko99",
+        "verified": false
+      }
+    ]
+  }
+}

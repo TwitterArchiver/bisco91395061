@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2081771824812270075",
+    "created_at": "2026-07-28T05:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081974055062958551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081974055062958551",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081771824812270075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup 你能先把人家名字打对吗大哥。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_2081771818189471744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPwcF6aQAAZ9yd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2081771824812270075",
+        "created_at": "2026-07-28T05:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081974055062958551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081974055062958551",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081771824812270075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 你能先把人家名字打对吗大哥。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081771818189471744"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2081771824812270075",
+        "created_at": "2026-07-27T16:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081771824812270075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8ZmC4AS5Q",
+              "end": 168,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2081771824812270075/photo/1",
+              "media_key": "3_2081771818189471744",
+              "start": 145,
+              "url": "https://t.co/c8ZmC4AS5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081771824812270075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 858,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "惊闻东野硅谷先生于2026年7月23日因病离世，享年68岁，万分悲痛。\n犹记高中时，在晚自习的课桌下偷偷翻看白夜行,那些被故事撰着的夜晚,至今清晰如 昨天。\n先生遗作永远的记忆将于8月5日面世，这或许就是最后的告别。\n谢谢你的小说陪我熬过漫长的高中晚自习，晚安！陪伴我整个学生时期的作家。 https://t.co/c8ZmC4AS5Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 428,
+          "like_count": 10527,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 2380
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。会回关所有人，互关扩列友好😇\n具体信息请看置顶自介。\n匿名提问https://t.co/Z4sVuEWKLp\n小号@980thVGRegiment",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "980thVGRegiment"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 95,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 72,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment（8964）",
+        "pinned_tweet_id": "2071983805750276470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 4188,
+          "like_count": 45160,
+          "listed_count": 5,
+          "media_count": 548,
+          "tweet_count": 13236
+        },
+        "url": "",
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

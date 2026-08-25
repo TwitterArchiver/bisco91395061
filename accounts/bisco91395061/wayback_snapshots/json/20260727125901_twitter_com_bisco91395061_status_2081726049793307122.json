@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2081680976699380050",
+    "created_at": "2026-07-27T12:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081726049793307122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1495262246213230600",
+          "start": 0,
+          "username": "woodburninbox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081726049793307122",
+    "in_reply_to_user_id": "1495262246213230600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081680976699380050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woodburninbox 我想看草薙俊平和内海薰上床"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2081680976699380050",
+        "created_at": "2026-07-27T12:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081726049793307122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1495262246213230600",
+              "start": 0,
+              "username": "woodburninbox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081726049793307122",
+        "in_reply_to_user_id": "1495262246213230600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081680976699380050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woodburninbox 我想看草薙俊平和内海薰上床"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495262246213230600",
+        "conversation_id": "2081680976699380050",
+        "created_at": "2026-07-27T09:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081680976699380050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bisco91395061/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/bisco91395061/status/2081661001863422361",
+              "start": 9,
+              "url": "https://t.co/wAdmu54Mss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081680976699380050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081661001863422361",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想跟汤川学上床 https://t.co/wAdmu54Mss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 431,
+          "like_count": 10495,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 2363
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T05:01:27.000Z",
+        "description": "🩸💊☠️\nbackend eng ai4s",
+        "id": "1495262246213230600",
+        "location": "上海",
+        "name": "ccandle",
+        "pinned_tweet_id": "2066891324427747715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072211132430098432/_MS0dmVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 206,
+          "like_count": 977,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "woodburninbox",
+        "verified": false
+      }
+    ]
+  }
+}

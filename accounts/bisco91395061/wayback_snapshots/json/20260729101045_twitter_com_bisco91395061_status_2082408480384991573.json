@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2082380793452888068",
+    "created_at": "2026-07-29T10:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T11:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082408480384991573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1808377869971693568",
+          "start": 0,
+          "username": "Yuliko0729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082408480384991573",
+    "in_reply_to_user_id": "1808377869971693568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082398652228927741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuliko0729 谢谢宝宝……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2082380793452888068",
+        "created_at": "2026-07-29T10:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082408480384991573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1808377869971693568",
+              "start": 0,
+              "username": "Yuliko0729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082408480384991573",
+        "in_reply_to_user_id": "1808377869971693568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082398652228927741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuliko0729 谢谢宝宝……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808377869971693568",
+        "conversation_id": "2082380793452888068",
+        "created_at": "2026-07-29T09:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082398652228927741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082398652228927741",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082380793452888068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 不要美化没有走过的路宝宝 怎么样的选择都是当下最好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 429,
+          "like_count": 10769,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 2442
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T05:51:12.000Z",
+        "description": "🚪88 od妹 寻找前世中",
+        "id": "1808377869971693568",
+        "name": "Yuliko",
+        "pinned_tweet_id": "2081780434447569325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081776783310131203/fbYYNfz1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 41,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "Yuliko0729",
+        "verified": false
+      }
+    ]
+  }
+}

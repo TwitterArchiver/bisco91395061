@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2079493523683131645",
+    "created_at": "2026-07-21T09:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079493523683131645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044496192734666752",
+          "start": 3,
+          "username": "UWATCHLIFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079493523683131645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079435481041760410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UWATCHLIFE: 滥用药物就是健全，尤其青少年，扔掉你手中的药，从此走上吸毒路，不要让你的美好在低谷上眼含泪水。这世界上还有很多的天堂等着你不要因为一时的爹妈就放弃自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2079493523683131645",
+        "created_at": "2026-07-21T09:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079493523683131645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044496192734666752",
+              "start": 3,
+              "username": "UWATCHLIFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079493523683131645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079435481041760410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UWATCHLIFE: 滥用药物就是健全，尤其青少年，扔掉你手中的药，从此走上吸毒路，不要让你的美好在低谷上眼含泪水。这世界上还有很多的天堂等着你不要因为一时的爹妈就放弃自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2079435481041760410",
+        "created_at": "2026-07-21T05:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079435481041760410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/clem0216/statu…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/clem0216/status/2079385021580992678",
+              "start": 76,
+              "url": "https://t.co/Ka4hG4f2Yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079435481041760410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 767,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079385021580992678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "滥用药物就是健全，尤其青少年，扔掉你手中的药，从此走上吸毒路，不要让你的美好在低谷上眼含泪水。这世界上还有很多的天堂等着你不要因为一时的爹妈就放弃自己 https://t.co/Ka4hG4f2Yy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 403,
+          "like_count": 9893,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2110
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 172,
+          "like_count": 1824,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1183
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

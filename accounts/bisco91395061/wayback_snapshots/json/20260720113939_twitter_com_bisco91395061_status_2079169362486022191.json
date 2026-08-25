@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2078823126406963693",
+    "created_at": "2026-07-20T11:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079169362486022191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2363856960",
+          "start": 0,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079169362486022191",
+    "in_reply_to_user_id": "2363856960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078823126406963693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NGNGVXX 那还带咋，你查手机看到他到处搭讪然后人家都同意他到处乱搞就满意了？啥心理啊🤣？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2078823126406963693",
+        "created_at": "2026-07-20T11:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079169362486022191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079169362486022191",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078823126406963693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 那还带咋，你查手机看到他到处搭讪然后人家都同意他到处乱搞就满意了？啥心理啊🤣？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2078823126406963693",
+        "created_at": "2026-07-19T12:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078823126406963693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078823126406963693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 47423,
+          "like_count": 969,
+          "quote_count": 3,
+          "reply_count": 153,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "比出轨更惨的事情是，你翻他的手机，发现他到处搭讪却被以各种方式拒绝。这种没人要的玩意儿居然在你手里，你还在这查手机担心别人跟你抢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 399,
+          "like_count": 9818,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 2076
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10593,
+          "following_count": 6,
+          "like_count": 1206,
+          "listed_count": 31,
+          "media_count": 149,
+          "tweet_count": 3082
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

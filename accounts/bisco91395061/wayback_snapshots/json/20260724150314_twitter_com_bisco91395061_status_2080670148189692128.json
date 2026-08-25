@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2080669298893431294",
+    "created_at": "2026-07-24T15:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080670148189692128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2062758646141054976",
+          "start": 0,
+          "username": "Chuiertu_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080670148189692128",
+    "in_reply_to_user_id": "2062758646141054976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080669814885076999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chuiertu_chan 我靠谢谢宝宝。。。👅👅👅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2080669298893431294",
+        "created_at": "2026-07-24T15:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080670148189692128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2062758646141054976",
+              "start": 0,
+              "username": "Chuiertu_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080670148189692128",
+        "in_reply_to_user_id": "2062758646141054976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080669814885076999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chuiertu_chan 我靠谢谢宝宝。。。👅👅👅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062758646141054976",
+        "conversation_id": "2080669298893431294",
+        "created_at": "2026-07-24T15:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080669814885076999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080669814885076999",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080669298893431294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 好帅…（缓缓跪下）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 411,
+          "like_count": 10252,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2218
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T04:50:25.000Z",
+        "description": "坏蛋世界。双子星@AkiraTT_chan \n互fo请私信呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "AkiraTT_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Chuiertu_chan",
+                "end": 23,
+                "expanded_url": "http://t.me/Chuiertu_chan",
+                "start": 0,
+                "url": "https://t.co/og70qcUDvV"
+              }
+            ]
+          }
+        },
+        "id": "2062758646141054976",
+        "name": "Akira_晓",
+        "pinned_tweet_id": "2076665457273180666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076663312704512000/9fIpz77U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 109,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/og70qcUDvV",
+        "username": "Chuiertu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2077987867226456356",
+    "created_at": "2026-07-18T07:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078377104429977746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883935469865766912",
+          "start": 0,
+          "username": "qiouqiou0114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078377104429977746",
+    "in_reply_to_user_id": "1883935469865766912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078375480722682018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiouqiou0114 哦呵呵呵丘丘ᗜ֊ᗜ😘😘😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2077987867226456356",
+        "created_at": "2026-07-18T07:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078377104429977746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883935469865766912",
+              "start": 0,
+              "username": "qiouqiou0114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078377104429977746",
+        "in_reply_to_user_id": "1883935469865766912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078375480722682018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiouqiou0114 哦呵呵呵丘丘ᗜ֊ᗜ😘😘😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883935469865766912",
+        "conversation_id": "2077987867226456356",
+        "created_at": "2026-07-18T07:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078375480722682018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078375480722682018",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077987867226456356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 如此美味的小孩，快给我亲亲😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 392,
+          "like_count": 9587,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 2035
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T17:50:00.000Z",
+        "description": "现使用 @qiouqiou9297 084信徒，有少量割，也有正常，04逐渐大龄，板绘、漆艺、花丝修行中，无性别主义，欢迎扩列交友，但精虫上脑直男勿扰，郁后空洞期中，正在慢慢探寻自己的生存意义，努力活下去，活着就是胜利。。吧？\n有不开心欢迎找我聊天哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "qiouqiou9297"
+              }
+            ]
+          }
+        },
+        "id": "1883935469865766912",
+        "location": "厦门",
+        "name": "qiou",
+        "pinned_tweet_id": "2063676988519505986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883939791844388864/QUH5p0DJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 98,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "qiouqiou0114",
+        "verified": false
+      }
+    ]
+  }
+}

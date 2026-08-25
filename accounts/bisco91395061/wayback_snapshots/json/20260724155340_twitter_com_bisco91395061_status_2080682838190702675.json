@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2080617016562737466",
+    "created_at": "2026-07-24T15:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080682838190702675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942953730388918272",
+          "start": 0,
+          "username": "yTQtI3wry334415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080682838190702675",
+    "in_reply_to_user_id": "1942953730388918272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080680711384912154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yTQtI3wry334415 我目前只抽得上来电子烟，抽不太来传统烟（。。。。对不起。。。）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2080617016562737466",
+        "created_at": "2026-07-24T15:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080682838190702675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942953730388918272",
+              "start": 0,
+              "username": "yTQtI3wry334415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080682838190702675",
+        "in_reply_to_user_id": "1942953730388918272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080680711384912154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yTQtI3wry334415 我目前只抽得上来电子烟，抽不太来传统烟（。。。。对不起。。。）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942953730388918272",
+        "conversation_id": "2080617016562737466",
+        "created_at": "2026-07-24T15:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080680711384912154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080680711384912154",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080617016562737466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 老师喜欢什么烟呢？我挺喜欢七星软白和软黑的，就是有点贵｡⁠:ﾟ⁠(⁠;⁠´⁠∩⁠`⁠;⁠)ﾟ⁠:⁠｡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 411,
+          "like_count": 10252,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2220
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T14:28:51.000Z",
+        "description": "既然生活没有打算给予我人的尊严，那就像一只疯狗撕咬现实吧",
+        "id": "1942953730388918272",
+        "location": "一处无聊的地方",
+        "name": "郁川瑜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942954695808688128/jnjjbVTg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 279,
+          "like_count": 6468,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "yTQtI3wry334415",
+        "verified": false
+      }
+    ]
+  }
+}

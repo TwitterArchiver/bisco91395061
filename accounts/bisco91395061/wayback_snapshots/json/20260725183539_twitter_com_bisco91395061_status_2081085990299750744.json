@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2081072539795865977",
+    "created_at": "2026-07-25T18:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081085990299750744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942953730388918272",
+          "start": 0,
+          "username": "yTQtI3wry334415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081085990299750744",
+    "in_reply_to_user_id": "1942953730388918272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081076029188444382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yTQtI3wry334415 谢谢宝宝。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2081072539795865977",
+        "created_at": "2026-07-25T18:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081085990299750744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942953730388918272",
+              "start": 0,
+              "username": "yTQtI3wry334415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081085990299750744",
+        "in_reply_to_user_id": "1942953730388918272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081076029188444382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yTQtI3wry334415 谢谢宝宝。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942953730388918272",
+        "conversation_id": "2081072539795865977",
+        "created_at": "2026-07-25T17:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081076029188444382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081076029188444382",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081072539795865977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 可爱！(⁠●⁠♡⁠∀⁠♡⁠)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2080927884550766941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 421,
+          "like_count": 10368,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 2300
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T14:28:51.000Z",
+        "description": "想像个傻子一样的活着",
+        "id": "1942953730388918272",
+        "location": "一处无聊的地方",
+        "name": "郁川瑜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942954695808688128/jnjjbVTg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 281,
+          "like_count": 6531,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "yTQtI3wry334415",
+        "verified": false
+      }
+    ]
+  }
+}

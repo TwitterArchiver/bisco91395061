@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10043651948",
+          "name": "Re:ゼロから始める異世界体験"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1229696070654889984",
+          "name": "Re:ゼロから始める異世界生活"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      }
+    ],
+    "conversation_id": "2080683315485622538",
+    "created_at": "2026-07-24T15:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080683315485622538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rourow20131020…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Rourow201310207/status/2066050383680852201",
+          "start": 13,
+          "url": "https://t.co/fmMdWBx8Ek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080683315485622538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066050383680852201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "靠北这个太萌了我喜欢这个 https://t.co/fmMdWBx8Ek"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1286,
+        "media_key": "3_2066050371450286082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwV3c5bsAIjBZM.jpg",
+        "width": 1286
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2080683315485622538",
+        "created_at": "2026-07-24T15:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080683315485622538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rourow20131020…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Rourow201310207/status/2066050383680852201",
+              "start": 13,
+              "url": "https://t.co/fmMdWBx8Ek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080683315485622538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066050383680852201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "靠北这个太萌了我喜欢这个 https://t.co/fmMdWBx8Ek"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066050371450286082"
+          ]
+        },
+        "author_id": "761483163348504576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2066050383680852201",
+        "created_at": "2026-06-14T06:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066050383680852201"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 2,
+              "tag": "rezero"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "リゼロ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IyJ6zwiPZl",
+              "end": 38,
+              "expanded_url": "https://x.com/Rourow201310207/status/2066050383680852201/photo/1",
+              "media_key": "3_2066050371450286082",
+              "start": 15,
+              "url": "https://t.co/IyJ6zwiPZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066050383680852201",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1533,
+          "impression_count": 170173,
+          "like_count": 18480,
+          "quote_count": 42,
+          "reply_count": 8,
+          "retweet_count": 2344
+        },
+        "reply_settings": "everyone",
+        "text": "🐾\n#rezero #リゼロ https://t.co/IyJ6zwiPZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 411,
+          "like_count": 10254,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2221
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-05T08:45:08.000Z",
+        "description": "中文/English 禁止搬运我的作品 DO NOT REUP MY ARTWORK",
+        "id": "761483163348504576",
+        "name": "_🍖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1385593968813961218/VF1rNOsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81076,
+          "following_count": 1169,
+          "like_count": 5101,
+          "listed_count": 411,
+          "media_count": 471,
+          "tweet_count": 1306
+        },
+        "url": "",
+        "username": "Rourow201310207",
+        "verified": false
+      }
+    ]
+  }
+}

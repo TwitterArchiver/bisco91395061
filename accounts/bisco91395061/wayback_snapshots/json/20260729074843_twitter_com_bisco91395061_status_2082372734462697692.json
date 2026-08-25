@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2081860894657757316",
+    "created_at": "2026-07-29T07:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082372734462697692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "761100642282713089",
+          "start": 0,
+          "username": "Wujizhuzhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082372734462697692",
+    "in_reply_to_user_id": "761100642282713089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081860894657757316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wujizhuzhu 人才全球化这一块\n这么多年了一直有国人反思为什么人才外流这么严重，可惜好像只反思了没有任何意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2081860894657757316",
+        "created_at": "2026-07-29T07:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082372734462697692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "761100642282713089",
+              "start": 0,
+              "username": "Wujizhuzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082372734462697692",
+        "in_reply_to_user_id": "761100642282713089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081860894657757316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wujizhuzhu 人才全球化这一块\n这么多年了一直有国人反思为什么人才外流这么严重，可惜好像只反思了没有任何意义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "761100642282713089",
+        "conversation_id": "2081860894657757316",
+        "created_at": "2026-07-27T21:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T22:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081860894657757316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081860894657757316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "王虹获奖了，中国人法国人美国人都在检讨各自教育体系的失败。\n\n因为她在北京大学读的本科，后来去巴黎读了硕士，再后来到波士顿和纽约攻读博士学位、从事博士后工作并且成为教授。\n\n中国人：为什么一个后来获得如此巨大成功的数学家，在北大读本科的时候却只感到挫折(discouraged)、直到去了法国才重拾对数学的热爱？\n\n法国人：这项数学界的世纪突破为什么发生在波士顿？法国明明栽培了王虹，凭什么最后却被美国人摘了果子？为什么法国最好的学生都跑到美国去读博士？\n\n美国人：为什么那么多在美国做出杰出成就的人，他们的根源全都来自于美国以外？美国自身的基础教育是不是出了什么问题？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 416,
+          "impression_count": 327322,
+          "like_count": 2486,
+          "quote_count": 26,
+          "reply_count": 284,
+          "retweet_count": 222
+        },
+        "reply_settings": "everyone",
+        "text": "王虹获奖了，中国人法国人美国人都在检讨各自教育体系的失败。\n\n因为她在北京大学读的本科，后来去巴黎读了硕士，再后来到波士顿和纽约攻读博士学位、从事博士后工作并且成为教授。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 429,
+          "like_count": 10716,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 2434
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-04T07:25:08.000Z",
+        "description": "美股丨纳指定投指南丨人生操作系统OS | 一人公司 | 终身学习者|跑步🏃| Z-library Points北京站|利物浦球迷 |",
+        "id": "761100642282713089",
+        "location": "North Region, Singapore",
+        "name": "朱无忌无忌",
+        "pinned_tweet_id": "2082257121647968725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972613352091484160/eZq8Ek1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19800,
+          "following_count": 2306,
+          "like_count": 9840,
+          "listed_count": 119,
+          "media_count": 535,
+          "tweet_count": 9443
+        },
+        "url": "",
+        "username": "Wujizhuzhu",
+        "verified": true
+      }
+    ]
+  }
+}

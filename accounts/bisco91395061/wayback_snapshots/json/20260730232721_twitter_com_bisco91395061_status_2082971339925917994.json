@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2082850488140329058",
+    "created_at": "2026-07-30T23:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T00:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082971339925917994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1745456733500375040",
+          "start": 0,
+          "username": "oseven1228119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082971339925917994",
+    "in_reply_to_user_id": "1745456733500375040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082851161464602725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oseven1228119 窝爱你呀。。🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2082850488140329058",
+        "created_at": "2026-07-30T23:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082971339925917994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1745456733500375040",
+              "start": 0,
+              "username": "oseven1228119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082971339925917994",
+        "in_reply_to_user_id": "1745456733500375040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082851161464602725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oseven1228119 窝爱你呀。。🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745456733500375040",
+        "conversation_id": "2082850488140329058",
+        "created_at": "2026-07-30T15:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082851161464602725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082851161464602725",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082850488140329058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 妈妈这个好好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2082850488140329058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 439,
+          "like_count": 11138,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 2540
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T14:45:05.000Z",
+        "description": "💊/🔪 同类互fo喵(:3っ )っ\n＊私信功能无法使用抱歉\n＊不回消息是号被限制使用或者冻结了，也有可能是每日发帖上限了",
+        "id": "1745456733500375040",
+        "name": "O seven （2.0）",
+        "pinned_tweet_id": "2080676868530053336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079972879236726784/fCbjW2Xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 48,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "oseven1228119",
+        "verified": false
+      }
+    ]
+  }
+}

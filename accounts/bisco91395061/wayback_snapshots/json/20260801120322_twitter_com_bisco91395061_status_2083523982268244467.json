@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2083509798104887575",
+    "created_at": "2026-08-01T12:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083523982268244467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1457278962124529674",
+          "start": 0,
+          "username": "ikoftb"
+        },
+        {
+          "end": 23,
+          "id": "1993150970705199108",
+          "start": 8,
+          "username": "Nana_naiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083523982268244467",
+    "in_reply_to_user_id": "1457278962124529674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083510508242768132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikoftb @Nana_naiiiiiii 哪来的也够🤣🤣滚回你的垃圾堆去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2083509798104887575",
+        "created_at": "2026-08-01T12:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083523982268244467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1457278962124529674",
+              "start": 0,
+              "username": "ikoftb"
+            },
+            {
+              "end": 23,
+              "id": "1993150970705199108",
+              "start": 8,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083523982268244467",
+        "in_reply_to_user_id": "1457278962124529674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083510508242768132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikoftb @Nana_naiiiiiii 哪来的也够🤣🤣滚回你的垃圾堆去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457278962124529674",
+        "conversation_id": "2083509798104887575",
+        "created_at": "2026-08-01T11:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083510508242768132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083510508242768132",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 423,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083509798104887575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 无人在意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 452,
+          "like_count": 11472,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 2638
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T09:29:31.000Z",
+        "description": "03武汉研一在读",
+        "id": "1457278962124529674",
+        "location": "湖北",
+        "name": "然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939858754289414144/V6lSN2Rf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 203,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "ikoftb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2115,
+          "following_count": 323,
+          "like_count": 24893,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 1894
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": true
+      }
+    ]
+  }
+}

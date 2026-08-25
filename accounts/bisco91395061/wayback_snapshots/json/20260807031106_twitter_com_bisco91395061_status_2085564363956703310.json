@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2085345953230598491",
+    "created_at": "2026-08-07T03:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085564363956703310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2084256945318617088",
+          "start": 0,
+          "username": "Jason9372zip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085564363956703310",
+    "in_reply_to_user_id": "2084256945318617088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085410230930993340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jason9372zip 谢谢你我收下了🥰🥰🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_2085410223444127744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDdjJta8AA0mI8.jpg",
+        "width": 160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2085345953230598491",
+        "created_at": "2026-08-07T03:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085564363956703310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2084256945318617088",
+              "start": 0,
+              "username": "Jason9372zip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085564363956703310",
+        "in_reply_to_user_id": "2084256945318617088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085410230930993340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jason9372zip 谢谢你我收下了🥰🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085410223444127744"
+          ]
+        },
+        "author_id": "2084256945318617088",
+        "conversation_id": "2085345953230598491",
+        "created_at": "2026-08-06T16:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085410230930993340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGcT6bra8f",
+              "end": 38,
+              "expanded_url": "https://x.com/Jason9372zip/status/2085410230930993340/photo/1",
+              "media_key": "3_2085410223444127744",
+              "start": 15,
+              "url": "https://t.co/jGcT6bra8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085410230930993340",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085345953230598491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 https://t.co/jGcT6bra8f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 463,
+          "like_count": 12231,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2851
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-03T12:37:22.000Z",
+        "description": "10.10.10\nhk中学生\n友跨🏳️‍⚧️\n键政❌",
+        "id": "2084256945318617088",
+        "name": "孔龙先生🇨🇳🇭🇰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084257758426353664/bzICoa6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "Jason9372zip",
+        "verified": true
+      }
+    ]
+  }
+}

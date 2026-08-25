@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2083395935070228931",
+    "created_at": "2026-08-01T03:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083395935070228931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1855621322220437504",
+          "start": 3,
+          "username": "clcqzxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083395935070228931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083306776150368623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clcqzxc: 该磕磕该割割 啥事别往心里搁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2083395935070228931",
+        "created_at": "2026-08-01T03:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083395935070228931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1855621322220437504",
+              "start": 3,
+              "username": "clcqzxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083395935070228931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083306776150368623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clcqzxc: 该磕磕该割割 啥事别往心里搁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2083306776150368623",
+        "created_at": "2026-07-31T21:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083306776150368623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083306776150368623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "该磕磕该割割 啥事别往心里搁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 447,
+          "like_count": 11323,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 2594
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫\n08 顺女 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 所有圈子都来找我互fo呀 喜欢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hz11aaa_17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hz11aaa_17",
+                "start": 0,
+                "url": "https://t.co/dfJR226cGS"
+              }
+            ]
+          }
+        },
+        "id": "1855621322220437504",
+        "location": "命運之外",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083204784719593472/rzNjXLqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 873,
+          "like_count": 2328,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/dfJR226cGS",
+        "username": "clcqzxc",
+        "verified": false
+      }
+    ]
+  }
+}

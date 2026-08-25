@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2082786659872195026",
+    "created_at": "2026-07-30T11:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082787299503509889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2076213440448770048",
+          "start": 0,
+          "username": "ShenMiDeMan78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082787299503509889",
+    "in_reply_to_user_id": "2076213440448770048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082787024747012564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShenMiDeMan78 我哭了呀我也不想！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2082786659872195026",
+        "created_at": "2026-07-30T11:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082787299503509889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2076213440448770048",
+              "start": 0,
+              "username": "ShenMiDeMan78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082787299503509889",
+        "in_reply_to_user_id": "2076213440448770048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082787024747012564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShenMiDeMan78 我哭了呀我也不想！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076213440448770048",
+        "conversation_id": "2082786659872195026",
+        "created_at": "2026-07-30T11:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082787024747012564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082787024747012564",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082786659872195026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 度虫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 433,
+          "like_count": 11085,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2511
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T07:54:43.000Z",
+        "description": "恭喜你发现了推特最神秘的男子\n对线生活\n邪恶毒舌人格正式上线｜📭https://t.co/1VHdJb979p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link",
+                "end": 55,
+                "expanded_url": "https://ngl.link/",
+                "start": 32,
+                "url": "https://t.co/1VHdJb979p"
+              }
+            ]
+          }
+        },
+        "id": "2076213440448770048",
+        "location": "风里雨里",
+        "name": "神秘奇男子",
+        "pinned_tweet_id": "2080506966481252476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077078995972001792/v_S27oSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 28,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 890
+        },
+        "url": "",
+        "username": "ShenMiDeMan78",
+        "verified": false
+      }
+    ]
+  }
+}

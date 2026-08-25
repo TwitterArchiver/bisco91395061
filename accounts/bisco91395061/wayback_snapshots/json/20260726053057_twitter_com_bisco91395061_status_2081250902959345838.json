@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081250326339096576"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "conversation_id": "2081250902959345838",
+    "created_at": "2026-07-26T05:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081250902959345838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MzVOFOg8WW",
+          "end": 125,
+          "expanded_url": "https://x.com/bisco91395061/status/2081250902959345838/photo/1",
+          "media_key": "3_2081250326339096576",
+          "start": 102,
+          "url": "https://t.co/MzVOFOg8WW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081250902959345838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊？？？？？啊？？？？这是哪两位推友我靠啊啊啊啊🥹🥹🥹🥹🥹😭😭😭😭😭✋🏻😭✋🏻😭✋🏻😭✋🏻快来认领下我必须当面感谢。。。。。谢谢啊啊啊啊啊🥹🥹🥹🥰🥰🥰🥰🥰💖💖💖💖热心的你能让这个小菜菜开心三天。。。。。 https://t.co/MzVOFOg8WW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2081250326339096576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIWJRYbkAACiN2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081250326339096576"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2081250902959345838",
+        "created_at": "2026-07-26T05:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081250902959345838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MzVOFOg8WW",
+              "end": 125,
+              "expanded_url": "https://x.com/bisco91395061/status/2081250902959345838/photo/1",
+              "media_key": "3_2081250326339096576",
+              "start": 102,
+              "url": "https://t.co/MzVOFOg8WW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081250902959345838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊？？？？？啊？？？？这是哪两位推友我靠啊啊啊啊🥹🥹🥹🥹🥹😭😭😭😭😭✋🏻😭✋🏻😭✋🏻😭✋🏻快来认领下我必须当面感谢。。。。。谢谢啊啊啊啊啊🥹🥹🥹🥰🥰🥰🥰🥰💖💖💖💖热心的你能让这个小菜菜开心三天。。。。。 https://t.co/MzVOFOg8WW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 423,
+          "like_count": 10426,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 2319
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

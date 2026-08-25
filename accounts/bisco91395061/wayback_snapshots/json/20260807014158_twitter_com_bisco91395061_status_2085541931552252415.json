@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2085503897259356402",
+    "created_at": "2026-08-07T01:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T02:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085541931552252415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1440268407249649668",
+          "start": 0,
+          "username": "sjshb57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085541931552252415",
+    "in_reply_to_user_id": "1440268407249649668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085503897259356402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjshb57 辛苦啦亲爱的！🥰🥰🙌🏻🙌🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2085503894243745792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPEyvgoXoAALB1n.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2085503897259356402",
+        "created_at": "2026-08-07T01:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T02:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085541931552252415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1440268407249649668",
+              "start": 0,
+              "username": "sjshb57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085541931552252415",
+        "in_reply_to_user_id": "1440268407249649668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085503897259356402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjshb57 辛苦啦亲爱的！🥰🥰🙌🏻🙌🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085503894243745792"
+          ]
+        },
+        "author_id": "1440268407249649668",
+        "conversation_id": "2085503897259356402",
+        "created_at": "2026-08-06T23:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T00:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085503897259356402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "基于 Wayback Machine 的推特账号存档 Android 客户端. Contribute to sjshb57/TwitterArchiverApp development by creating an account on GitHub.",
+              "display_url": "github.com/sjshb57/Twitte…",
+              "end": 147,
+              "expanded_url": "https://github.com/sjshb57/TwitterArchiverApp/releases",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2083173700505935872/KfsZuDXe?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083173700505935872/KfsZuDXe?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 124,
+              "status": 200,
+              "title": "Releases · sjshb57/TwitterArchiverApp",
+              "unwound_url": "https://github.com/sjshb57/TwitterArchiverApp/releases",
+              "url": "https://t.co/5M7V3v3wWL"
+            },
+            {
+              "display_url": "pic.x.com/QuO9PRAgdA",
+              "end": 171,
+              "expanded_url": "https://x.com/sjshb57/status/2085503897259356402/photo/1",
+              "media_key": "3_2085503894243745792",
+              "start": 148,
+              "url": "https://t.co/QuO9PRAgdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085503897259356402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 430,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "[TwitterArchiver] 永生计划暂停时\n\n当前已存档530+账号，总收录共60万+条推文。\n\n虽然还是不太可能是真正的最后一次更新，但是大概不会再有大规模的存档账号了。\n\n刚刚把安卓端更新了下，修复了因推文总数过大导致的很严重的问题。\nhttps://t.co/5M7V3v3wWL https://t.co/QuO9PRAgdA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 463,
+          "like_count": 12223,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2846
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？|  07 | INTP-T | ASD | BPD | 另一个我 @她 | @loveksyi | - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV5jgl | 互联网时光机 | 第三世界线 @ |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "loveksyi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 115,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 92,
+                "url": "https://t.co/zQUuHV5jgl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2080253118928056811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 695,
+          "like_count": 2958,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": false
+      }
+    ]
+  }
+}

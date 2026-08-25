@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084276415613014016",
+        "3_2084276415671709696"
+      ],
+      "media_source_tweet_id": [
+        "2084330203791384942",
+        "2084330203791384942"
+      ]
+    },
+    "author_id": "1564990471327215619",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2084486825591312584",
+    "created_at": "2026-08-04T03:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084486825591312584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1335567526684729347",
+          "start": 3,
+          "username": "daily_dolce"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TU6Bura1rz",
+          "end": 40,
+          "expanded_url": "https://x.com/daily_dolce/status/2084330203791384942/photo/1",
+          "media_key": "3_2084276415613014016",
+          "start": 17,
+          "url": "https://t.co/TU6Bura1rz"
+        },
+        {
+          "display_url": "pic.x.com/TU6Bura1rz",
+          "end": 40,
+          "expanded_url": "https://x.com/daily_dolce/status/2084330203791384942/photo/1",
+          "media_key": "3_2084276415671709696",
+          "start": 17,
+          "url": "https://t.co/TU6Bura1rz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084486825591312584",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4459
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084330203791384942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daily_dolce: https://t.co/TU6Bura1rz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2084276415613014016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzWW2ZWkAAOTAS.jpg",
+        "width": 736
+      },
+      {
+        "height": 982,
+        "media_key": "3_2084276415671709696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzWW2nWMAA9oxC.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084276415613014016",
+            "3_2084276415671709696"
+          ]
+        },
+        "author_id": "1335567526684729347",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084330203791384942",
+        "created_at": "2026-08-03T17:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084330203791384942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TU6Bura1rz",
+              "end": 23,
+              "expanded_url": "https://x.com/daily_dolce/status/2084330203791384942/photo/1",
+              "media_key": "3_2084276415613014016",
+              "start": 0,
+              "url": "https://t.co/TU6Bura1rz"
+            },
+            {
+              "display_url": "pic.x.com/TU6Bura1rz",
+              "end": 23,
+              "expanded_url": "https://x.com/daily_dolce/status/2084330203791384942/photo/1",
+              "media_key": "3_2084276415671709696",
+              "start": 0,
+              "url": "https://t.co/TU6Bura1rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084330203791384942",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1821,
+          "impression_count": 598788,
+          "like_count": 48063,
+          "quote_count": 133,
+          "reply_count": 39,
+          "retweet_count": 4460
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TU6Bura1rz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084276415613014016",
+            "3_2084276415671709696"
+          ],
+          "media_source_tweet_id": [
+            "2084330203791384942",
+            "2084330203791384942"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084486825591312584",
+        "created_at": "2026-08-04T03:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084486825591312584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1335567526684729347",
+              "start": 3,
+              "username": "daily_dolce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TU6Bura1rz",
+              "end": 40,
+              "expanded_url": "https://x.com/daily_dolce/status/2084330203791384942/photo/1",
+              "media_key": "3_2084276415613014016",
+              "start": 17,
+              "url": "https://t.co/TU6Bura1rz"
+            },
+            {
+              "display_url": "pic.x.com/TU6Bura1rz",
+              "end": 40,
+              "expanded_url": "https://x.com/daily_dolce/status/2084330203791384942/photo/1",
+              "media_key": "3_2084276415671709696",
+              "start": 17,
+              "url": "https://t.co/TU6Bura1rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084486825591312584",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4459
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084330203791384942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daily_dolce: https://t.co/TU6Bura1rz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜一般路过同人女｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜",
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 462,
+          "like_count": 11918,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 2757
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-06T12:52:46.000Z",
+        "description": "Your daily dose of sweetness 🧁🍩🍰🍪🍓🎂 @shoplalisa\nContent is not mine, dm for credit/removal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "shoplalisa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lisavvthomas",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@lisavvthomas",
+                "start": 0,
+                "url": "https://t.co/bIiXm5ga1N"
+              }
+            ]
+          }
+        },
+        "id": "1335567526684729347",
+        "name": "Dolce",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1335590706979745794/su_529LP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356401,
+          "following_count": 4,
+          "like_count": 3175,
+          "listed_count": 1861,
+          "media_count": 4499,
+          "tweet_count": 10031
+        },
+        "url": "https://t.co/bIiXm5ga1N",
+        "username": "daily_dolce",
+        "verified": true
+      }
+    ]
+  }
+}
