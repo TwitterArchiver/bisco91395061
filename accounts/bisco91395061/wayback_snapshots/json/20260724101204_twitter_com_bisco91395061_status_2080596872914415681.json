@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1564990471327215619",
+    "conversation_id": "2080499129827107118",
+    "created_at": "2026-07-24T10:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080596872914415681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061094732215062529",
+          "start": 0,
+          "username": "Impara07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080596872914415681",
+    "in_reply_to_user_id": "2061094732215062529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080499129827107118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Impara07 直接过下酒精用手拿着就行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080499063804542976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9q4CWaQAAe5vE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2080499129827107118",
+        "created_at": "2026-07-24T10:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080596872914415681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061094732215062529",
+              "start": 0,
+              "username": "Impara07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080596872914415681",
+        "in_reply_to_user_id": "2061094732215062529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080499129827107118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Impara07 直接过下酒精用手拿着就行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080499063804542976"
+          ]
+        },
+        "author_id": "2061094732215062529",
+        "conversation_id": "2080499129827107118",
+        "created_at": "2026-07-24T03:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080499129827107118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nDVaShlEH",
+              "end": 32,
+              "expanded_url": "https://x.com/Impara07/status/2080499129827107118/photo/1",
+              "media_key": "3_2080499063804542976",
+              "start": 9,
+              "url": "https://t.co/4nDVaShlEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080499129827107118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了啊没给刀柄 https://t.co/4nDVaShlEH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖｜主人@cryptochenrui 男的勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "1564990471327215619",
+        "location": "新时代梦想家",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 408,
+          "like_count": 10185,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 2194
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T14:37:59.000Z",
+        "description": "｜此账号含有药物滥用/骂人爆粗口/血腥暴力的纹身 绘画作品/我的8只猫8只老鼠/｜Tattoo consultation纹身咨询Wechat：Hani_el03😽👏🏻｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/im8ra023_?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/im8ra023_?igsh=NGxpeHljcXNreWQz&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/WuUwAbLCzP"
+              }
+            ]
+          }
+        },
+        "id": "2061094732215062529",
+        "location": "雏见泽",
+        "name": "早インパラ",
+        "pinned_tweet_id": "2064355278972432818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067170846343639040/eDSD-nNn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 31,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/WuUwAbLCzP",
+        "username": "Impara07",
+        "verified": false
+      }
+    ]
+  }
+}
